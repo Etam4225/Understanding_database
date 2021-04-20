@@ -33,7 +33,25 @@ if ($result->num_rows > 0) {
 } else {
   echo "0 results";
 }
+//$mysqli->close();
+
+
+
+//search through table for Skyrim
+echo "<h2> Containts the word: Skyrim </h2>";
+$sql = "SELECT testing_ID, Question, Statement FROM testing_table WHERE Question LIKE '%Skyrim%'";
+$result = $mysqli->query($sql);
+
+if ($result->num_rows > 0) {
+  // output data of each row
+  while($row = $result->fetch_assoc()) {
+    echo "ID: " . $row["testing_ID"]. " - Question: " . $row["Question"]. " " . $row["Statement"]. "<br>";
+  }
+} else {
+  echo "0 results";
+}
 $mysqli->close();
+
 
 ?>
 
