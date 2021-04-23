@@ -23,7 +23,7 @@ $passw = $_POST["pass"];
 if($word !='' && $passw !=''){
   $sql = "INSERT INTO Users VALUES ('$word', '$passw');";
   $result = $mysqli->query($sql);
-  header("Location: ../test.php?signup=success");
+  header("Location: ../user_login.php?signup=success");
 }
 /*$sql = "SELECT * FROM Users;";
 $result = $mysqli->query($sql);
