@@ -13,13 +13,17 @@ $host = "localhost";
 $username = "root";
 $user_pass = "usbw";
 $database_in_use = "test";
+$word ='';
+$passw ='';
 
 $mysqli = new mysqli($host, $username, $user_pass, $database_in_use);
 
 //echo $mysqli->host_info . "<br>";
 //search through table
-$word = $_POST["name"];
-$passw = $_POST["pass"];
+if($_POST){
+  $word = $_POST["name"];
+  $passw = $_POST["pass"]; 
+}
 if($word !='' && $passw !=''){
   $sql = "INSERT INTO Users VALUES ('$word', '$passw');";
   $result = $mysqli->query($sql);
