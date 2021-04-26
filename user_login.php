@@ -1,3 +1,4 @@
+<h1> <center> Games-Hub <center> </h1>
 <form method=POST>
   <input type ="varchar(16)" name="name" placeholder="UserName">
   <br>
@@ -19,8 +20,6 @@
 <?php
 
 include "database_login_info.php";
-
-$mysqli->close();
 
 ?>
 
