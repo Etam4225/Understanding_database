@@ -1,5 +1,5 @@
 <h1> <center> Games-Hub <center> </h1>
-<form method=POST>
+<form action ="interface.php" method=POST>
   <input type ="varchar(16)" name="name" placeholder="UserName">
   <br>
   <input type ="varchar(64)" name="pass" placeholder="Password">
@@ -8,7 +8,7 @@
   </button>
 </form>
 
-<form method=POST>
+<form action= "interface.php" method=POST>
   <input type ="varchar(16)" name="login_name" placeholder="UserName">
   <br>
   <input type="varchar(64)" name="login_pass" placeholder="Password">
