@@ -1,12 +1,15 @@
-<h1> <center> Games-Hub <center> </h1>
+<h1> <center> Games-Network <center> </h1>
 <form method=POST>
   <button type="submit" name="back">
     Sign Out
   </button>
 </form>
 
+
 <?php
 include "database_login_info.php";
+
+$mysqli->close();
 
 $word ='';
 $passw ='';
@@ -70,3 +73,11 @@ if($login_word != ''){
 }
 
 ?>
+
+<br>
+
+<form action = "keyword_search.php">
+   Enter the game you are looking for: <br>
+  <input type="text" name="keyword"><br>
+  <input type="submit" value="Search!">
+</form>
