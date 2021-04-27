@@ -59,18 +59,6 @@ else if($word=='' && $passw=='' && $login_word !='' && $login_passw !=''){
 if(isset($_POST['back']))
   header("Location: ../user_login.php");
 
-//filler stuff rn, will eventually replace with game data
-if($login_word != ''){
-  $sql = "SELECT * FROM Users;";
-  $result = $mysqli->query($sql);
-  $resultcheck = mysqli_num_rows($result);
-  if($resultcheck >0){
-    foreach($result as $item){
-      echo $item['name']  . " " . $item['pass'] . "<br>";
-      //echo $item['pass'] . "<br>";
-    }
-  }
-}
 
 ?>
 
