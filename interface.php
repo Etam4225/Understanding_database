@@ -13,6 +13,10 @@ $mysqli->close();
 
 $word ='';
 $passw ='';
+$state ='';
+$city ='';
+$street ='';
+$payment ='';
 $login_word='';
 $login_passw='';
 
@@ -26,10 +30,14 @@ if(isset($_POST['login_submit'])){
 else if(isset($_POST['submit'])){
   $word = $_POST["name"];
   $passw = $_POST["pass"];
+  $state = $_POST["state"];
+  $city = $_POST["city"];
+  $street = $_POST["street"];
+  $payment = $_POST["payment"];
 }
 
 //checks if the User is login or Signing up
-if($word !='' && $passw !='' && $login_word=='' && $login_passw==''){
+if($word !='' && $passw !='' && $state !='' && $city !='' && $street !='' && $payment !='' && $login_word=='' && $login_passw==''){
   $check = "SELECT * FROM Users where name='" . $word . "';";
   $query_check = $mysqli->query($check);
   if(mysqli_num_rows($query_check)==1){
@@ -37,7 +45,7 @@ if($word !='' && $passw !='' && $login_word=='' && $login_passw==''){
     header("Location: ../user_login.php?signup=fail");
   }
   else{
-    $sql = "INSERT INTO Users VALUES ('$word', '$passw');";
+    $sql = "INSERT INTO Users VALUES ('$word', '$passw', '$state', '$city', '$street', '$payment' );";
     $result = $mysqli->query($sql);
     header("Location: ../user_login.php?signup=success");
   }
