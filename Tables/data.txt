@@ -1,0 +1,17 @@
+name<-rep(c("Dark Souls", "Returnal", "Skyrim"),each=6)
+Store<-rep(c("Walmart","Amazon","Steam"),time=3, each=2)
+copy<-rep(c("Physical", "Digital"), time=9)
+Console<-sample(c("PC", "PS5", "PS4", "XBox", "Switch"),18,replace=TRUE)
+rating<-sample(seq(1,5,.1),18)
+price<-sample(seq(10,100,1),18)
+avail_copies<-sample(seq(100,10000,1),18)
+df<-data.frame(name,Store,copy,Console,rating,price,avail_copies)
+df$avail_copies[df$copy=="Digital"] <-10000
+temp<-c(df$price)
+stuff<-c()
+for(x in temp){
+  stuff<-append(stuff,sample(seq(5,x,1),1))
+}
+df$lowest<-stuff
+df<-df[df$Store != "Steam" | df$copy != "Physical" ,]
+df
