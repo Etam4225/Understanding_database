@@ -72,8 +72,17 @@ if(isset($_POST['back']))
 
 <br>
 
-<form action = "keyword_search.php">
+<form action = "keyword_search.php" >
    Enter the game you are looking for: <br>
   <input type="text" name="keyword"><br>
+  <select name="Sorting">
+    <option selected disabled> SELECT </option>
+    <option value="name"> name </option>
+    <option value="Store"> Store </option>
+    <option value="copy"> Copy </option>
+    <option value="Console"> Console </option>
+    <option value="rating"> Rating </option>
+    <option value="price"> Price </option>
+  </select>
   <input type="submit" value="Search!">
 </form>
