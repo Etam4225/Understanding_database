@@ -9,9 +9,19 @@ $keyword_from_user = $_GET["keyword"];
 
 //search the database for keywords
 echo "<h2> Displaying search results of the keyword, ".$keyword_from_user.", below: </h2>";
-//$sql = "SELECT testing_ID, Question, Statement FROM testing_table WHERE Question LIKE '%" .$keyword_from_user."%'";
-$sql = "SELECT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%'";
-$result = $mysqli->query($sql);
+if(!isset($_GET["Sorting"])){
+  //$sql = "SELECT testing_ID, Question, Statement FROM testing_table WHERE Question LIKE '%" .$keyword_from_user."%'";
+  $sql = "SELECT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%'";
+  $result = $mysqli->query($sql);
+}
+else{
+  $sort = $_GET["Sorting"];
+  if($sort=="rating")
+     $sql = "SELECT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%' ORDER BY sample." .$sort. " DESC;";
+  else
+    $sql = "SELECT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%' ORDER BY sample." .$sort. ";";
+  $result = $mysqli->query($sql);
+}
 
 echo "<table border='1'>
 <tr>
