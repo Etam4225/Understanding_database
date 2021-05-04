@@ -49,7 +49,6 @@ echo "<table border='1'>
 if ($result->num_rows > 0) {
   // output data of each row
   while($row = $result->fetch_assoc()) {
-    //echo "name: " . $row["name"]. " - Store: " . $row["Store"] . " - copy:" . $row["copy"]. " - Console: " . $row["Console"]. " - rating: " . $row["rating"] . " - price:" . $row["price"]. " - Available copies: " . $row["avail_copies"]. " - Lowest seen Price: " . $row["lowest"] . "<br>";
     echo "<tr>";
     echo "<td>" . $row['gameID'] . "</td>";
 	  //$idVals[] = $row['gameID'];
@@ -62,17 +61,11 @@ if ($result->num_rows > 0) {
     echo "<td>" . $row['price'] . "</td>";
     echo "<td>" . $row['avail_copies'] . "</td>";
     echo "<td>" . $row['lowest'] . "</td>";
-    echo "<td>" . '<a href="'.$link_address.'">ADD</a>' . "</td>"; //need to fix this
+    echo "<td>" . '<a href="'.$link_address.'">ADD</a>' . "</td>";
     echo "</tr>";
   }
   echo "</table>";
 }
-/*if ($result->num_rows > 0) {
-  // output data of each row
-  while($row = $result->fetch_assoc()) {
-    echo "ID: " . $row["testing_ID"]. " - Question: " . $row["Question"]. " " . $row["Statement"]. "<br>";
-  }
- }*/
 else {
   echo "0 results, please try a different game keyword.";
 }
