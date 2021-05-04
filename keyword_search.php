@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset = "UTF-8">
+</head>
+<form method=POST>
 
 <?php
 
@@ -11,15 +17,15 @@ $keyword_from_user = $_GET["keyword"];
 echo "<h2> Displaying search results of the keyword, ".$keyword_from_user.", below: </h2>";
 if(!isset($_GET["Sorting"])){
   //$sql = "SELECT testing_ID, Question, Statement FROM testing_table WHERE Question LIKE '%" .$keyword_from_user."%'";
-  $sql = "SELECT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%'";
+  $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%'";
   $result = $mysqli->query($sql);
 }
 else{
   $sort = $_GET["Sorting"];
   if($sort=="rating")
-     $sql = "SELECT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%' ORDER BY sample." .$sort. " DESC;";
+     $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%' ORDER BY sample." .$sort. " DESC;";
   else
-    $sql = "SELECT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%' ORDER BY sample." .$sort. ";";
+    $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%' ORDER BY sample." .$sort. ";";
   $result = $mysqli->query($sql);
 }
 
@@ -36,12 +42,16 @@ echo "<table border='1'>
 <th>Lowest_Price</th>
 </tr>";
 
+
+
+
 if ($result->num_rows > 0) {
   // output data of each row
   while($row = $result->fetch_assoc()) {
     //echo "name: " . $row["name"]. " - Store: " . $row["Store"] . " - copy:" . $row["copy"]. " - Console: " . $row["Console"]. " - rating: " . $row["rating"] . " - price:" . $row["price"]. " - Available copies: " . $row["avail_copies"]. " - Lowest seen Price: " . $row["lowest"] . "<br>";
     echo "<tr>";
     echo "<td>" . $row['gameID'] . "</td>";
+	$idVals[] = $row['gameID'];
     echo "<td>" . $row['name'] . "</td>";
     echo "<td>" . $row['Store'] . "</td>";
     echo "<td>" . $row['copy'] . "</td>";
@@ -63,4 +73,14 @@ if ($result->num_rows > 0) {
 else {
   echo "0 results, please try a different game keyword.";
 }
+
+
+/* print code for testing purposes later
+foreach($idVals as $idValue){
+	echo "gameID value is : " . $idValue . "." . "<br> ";
+}*/ 
+
+//idVal stores the gameID for potential use later
+//print_r($idVal);
 ?>
+
