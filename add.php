@@ -29,3 +29,16 @@ $check = "SELECT * FROM Cart where username ='" . $username . "' AND gameID ='" 
 
 session_write_close();
 ?>
+	
+<br>
+  
+<form method=POST>
+  <button type="submit" name="back">
+    Back
+  </button>
+</form>
+<?php  
+if(isset($_POST['back']))
+  header("Location: ../interface.php");
+  
+?>	
