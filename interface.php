@@ -1,4 +1,9 @@
-<h1> <center> Games-Network <center> </h1>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset = "UTF-8">
+	<link rel = "stylesheet" type="text/css" href = "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+</head>
 <form method=POST>
   <button type="submit" name="back">
     Sign Out
