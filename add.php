@@ -23,8 +23,9 @@ $check = "SELECT * FROM Cart where username ='" . $username . "' AND gameID ='" 
   if(mysqli_num_rows($query_check)==1){
 	 header("Location: ../interface.php?additemtocart=fail"); 
 }else{
-	$sql = "INSERT INTO cart VALUES ('$username', '$rollno');";
+	$sql = "INSERT INTO Cart VALUES ('$username', '$rollno');";
 	$result = $mysqli->query($sql);
 }
+
 session_write_close();
 ?>
