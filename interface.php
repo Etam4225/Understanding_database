@@ -1,3 +1,7 @@
+<?php
+session_start();
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -31,6 +35,7 @@ $mysqli = new mysqli($host, $username, $user_pass, $database_in_use);
 if(isset($_POST['login_submit'])){
   $login_word = $_POST["login_name"];
   $login_passw = $_POST["login_pass"];
+  $_SESSION["username"] = $login_word;
 }
 else if(isset($_POST['submit'])){
   $word = $_POST["name"];
