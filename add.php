@@ -17,15 +17,14 @@ $username = $_SESSION["username"];
 echo "Hello, " . $username . "<br>";
 echo $rollno . " is added to your cart.";
 
-
-$sql = "INSERT INTO cart VALUES ('$username', '$rollno');";
-$result = $mysqli->query($sql);
-
-// remove all session variables - w3 schools or utilize other?
-session_unset();
-
-// destroy the session
-session_destroy();
-
-//session_write_close();
+//check if the user already added the game to their cart
+$check = "SELECT * FROM Cart where username ='" . $username . "';";
+  $query_check = $mysqli->query($check);
+  if(mysqli_num_rows($query_check)==1){
+	 header("Location: ../interface.php?additemtocart=fail"); 
+}else{
+	$sql = "INSERT INTO cart VALUES ('$username', '$rollno');";
+	$result = $mysqli->query($sql);
+}
+session_write_close();
 ?>
