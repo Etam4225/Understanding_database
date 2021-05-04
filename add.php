@@ -18,7 +18,7 @@ echo "Hello, " . $username . "<br>";
 echo $rollno . " is added to your cart.";
 
 //check if the user already added the game to their cart
-$check = "SELECT * FROM Cart where username ='" . $username . "';";
+$check = "SELECT * FROM Cart where username ='" . $username . "' AND gameID ='" . $rollno . "';";
   $query_check = $mysqli->query($check);
   if(mysqli_num_rows($query_check)==1){
 	 header("Location: ../interface.php?additemtocart=fail"); 
