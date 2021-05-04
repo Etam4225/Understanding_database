@@ -40,6 +40,7 @@ echo "<table border='1'>
 <th>price</th>
 <th>available_copies</th>
 <th>Lowest_Price</th>
+<th>ADD to Cart</th>
 </tr>";
 
 
@@ -51,7 +52,8 @@ if ($result->num_rows > 0) {
     //echo "name: " . $row["name"]. " - Store: " . $row["Store"] . " - copy:" . $row["copy"]. " - Console: " . $row["Console"]. " - rating: " . $row["rating"] . " - price:" . $row["price"]. " - Available copies: " . $row["avail_copies"]. " - Lowest seen Price: " . $row["lowest"] . "<br>";
     echo "<tr>";
     echo "<td>" . $row['gameID'] . "</td>";
-	$idVals[] = $row['gameID'];
+	  //$idVals[] = $row['gameID'];
+    $link_address = "../add.php?rn=$row[gameID]";
     echo "<td>" . $row['name'] . "</td>";
     echo "<td>" . $row['Store'] . "</td>";
     echo "<td>" . $row['copy'] . "</td>";
@@ -60,6 +62,7 @@ if ($result->num_rows > 0) {
     echo "<td>" . $row['price'] . "</td>";
     echo "<td>" . $row['avail_copies'] . "</td>";
     echo "<td>" . $row['lowest'] . "</td>";
+    echo "<td>" . '<a href="'.$link_address.'">ADD</a>' . "</td>"; //need to fix this
     echo "</tr>";
   }
   echo "</table>";
@@ -83,4 +86,3 @@ foreach($idVals as $idValue){
 //idVal stores the gameID for potential use later
 //print_r($idVal);
 ?>
-
