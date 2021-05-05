@@ -1,26 +1,76 @@
-<h1> <center> Games-Hub <center> </h1>
-<form action ="interface.php" method=POST>
-  <input type ="varchar(16)" name="name" placeholder="UserName">
-  <br>
-  <input type ="varchar(64)" name="pass" placeholder="Password">
-  <br>
-  <input type ="varchar(2)" name="state" placeholder="State">
-  <br>
-  <input type ="varchar(64)" name="city" placeholder="City">
-  <br>
-  <input type ="varchar(64)" name="street" placeholder="Street">
-  <br>
-  <input type ="varchar(16)" name="payment" placeholder="Payment method">
-  <button type="submit" name="submit">
-    Sign up
-  </button>
-</form>
-  
-<form action= "interface.php" method=POST>
-  <input type ="varchar(16)" name="login_name" placeholder="UserName">
-  <br>
-  <input type="varchar(64)" name="login_pass" placeholder="Password">
-  <button type="submit" name="login_submit">
-    Login
-  </button>
-</form>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset = "UTF-8">
+	<link rel = "stylesheet" type="text/css" href = "login.css">
+</head>
+
+<body>
+	<div class = "FormHolder">
+			<section class = "signup-form">
+				<div class = "signupForm">
+						<div class = "button-box">
+							<div id = "btn"> 
+							</div>
+							<button type = "button" class = "toggle-button" onclick = "register()"> Register
+							</button>
+							<button type = "button" class = "toggle-button" onclick = "login()"> Log in 
+							</button>
+						</div>
+						<form class = "input-form" action ="interface.php" id = "register" method=POST>
+							<!-- <img src = "/images/Sample_User_Icon.png"> -->
+							<!--<label for = "name"> <b> Username - </b> </label> -->
+							<input type ="varchar(16)" class = "input-field" name="name" placeholder="Username" required>
+							<input type ="password" class = "input-field" name="pass" placeholder="Enter Password" required>
+							<input type ="varchar(2)" class = "input-field" name="state" placeholder="State">
+							<input type ="varchar(64)" class = "input-field" name="city" placeholder="City">
+							<input type ="varchar(64)" class = "input-field" name="street" placeholder="Street">
+							<input type ="varchar(16)" class = "input-field" name="payment" placeholder="Payment method">
+							<button type="submit" class = "btn-btn-primary" name="submit">
+							Sign up
+						  </button>
+						</form>
+						<div class = "loginForm">
+							<form action= "interface.php" class = "input-form" id = "login" method=POST>
+								<input type ="varchar(16)" class = "input-field" name="login_name" placeholder="UserName" required>
+								<input type="varchar(64)" class = "input-field" name="login_pass" placeholder="Password" required>
+								<button type="submit" class = "btn-btn-primary" name="login_submit">
+								Login
+								</button>
+							</form>
+						</div>
+				</div> 
+			</section>
+	</div>
+
+<script>
+	var register_id = document.getElementById("register");
+	var login_id = document.getElementById("login");
+	var button_id = document.getElementById("btn");
+	var login_form = document.getElementById("login_form");
+
+	function login(){
+		register_id.style.left = "-400px";
+		login_id.style.left = "50px";
+		button_id.style.right = "0px";
+	}
+
+	function register(){
+		register_id.style.left = "50px";
+		login_id.style.left = "450px";
+		button_id.style.right = "100px";
+	}
+</script>
+
+<!-- <div class = "loginForm">
+	<form action= "interface.php" method=POST>
+	  <input type ="varchar(16)" name="login_name" placeholder="UserName">
+	  <br>
+	  <input type="varchar(64)" name="login_pass" placeholder="Password">
+	  <button type="submit" class = "btn-btn-primary" name="login_submit">
+		Login
+	  </button>
+	</form>
+</div> -->
+</body>
+</html>

@@ -1,27 +1,111 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
 body
 {
-	margin: 0px;
-	padding: 0px;
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
 	background-color: white;
-	
+	background: linear-gradient(to right, #6699ff 0%, #ffcc99 100%);
+	padding: 10px;
 }
 
-.signupForm
+/*.formholder ----------- DOESN'T DO ANYTHING LOL
 {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	
+}*/
 
+.FormHolder
+{
+	background: #fff;
+	border: 2px solid #ccc;
+	border-radius: 6px;
+	width: 450px;
+	height: 575px;
+	position: relative;
+	padding: 30px;
+	overflow: hidden;
+}
+
+.button-box
+{
+	width: 200px;
+	margin: 35px auto;
+	position:relative;
+	box-shadow: 0 0 20px 9px #b1cbbb;
+	border-radius: 6px;
 	
 }
 
+.toggle-button
+{
+	padding: 10px 25px;
+	background: transparent;
+	outline: none;
+	border: 0;
+	position: relative;
+	cursor: pointer;
+	
+}
 
-.btn.btn-primary
+#btn
+{
+	position: absolute;
+	width: 100px;
+	height: 100%;
+	background: linear-gradient(to right, #b1cbbb, #009999);
+	border-radius: 6px;
+	transition: .4s;
+}
+
+.btn-btn-primary
 {
 	background-color: #4CAF50;
+	width: 100%;
 	border: none;
+	outline: none;
 	color: white;
 	padding: 16px 32px;
 	cursor: pointer;
 	font-weight: bold;
 	margin: 4px 2px;
 	border-radius: 8px;
-	
+	align-items: center;
+}
+
+.input-form
+{
+	top: 180px;
+	position: absolute;
+	width: 280px;
+	transition: .4s;
+}
+
+.input-field
+{
+	width: 100%;
+	padding: 10px 0;
+	margin: 6px 0;
+	border-left: 0;
+	border-right: 0;
+	background: transparent;
+	outline: none;
+	border-bottom: 2px solid #b1cbbb;
+	border-top: 0;
+}
+
+#register{
+	left: 50px;
+}
+
+#login{
+	left: 500px;
 }
