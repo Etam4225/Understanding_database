@@ -4,7 +4,6 @@
 	<meta charset = "UTF-8">
 	<link rel = "stylesheet" type="text/css" href = "login.css">
 </head>
-
 <body>
 	<div class = "FormHolder">
 			<section class = "signup-form">
