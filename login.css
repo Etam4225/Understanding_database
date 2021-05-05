@@ -1,0 +1,27 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	background-color: white;
+	
+}
+
+.signupForm
+{
+
+	
+}
+
+
+.btn.btn-primary
+{
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	padding: 16px 32px;
+	cursor: pointer;
+	font-weight: bold;
+	margin: 4px 2px;
+	border-radius: 8px;
+	
+}
