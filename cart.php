@@ -39,7 +39,7 @@ if ($result->num_rows > 0) {
     //echo "<td>" . $row['username'] . "</td>";
     echo "<td>" . $row['gameID'] . "</td>";
 	  //$idVals[] = $row['gameID'];
-    //$link_address = "../add.php?rn=$row[gameID]"; //need to change this
+    $link_address = "../remove.php?rn=$row[gameID]"; //need to change this
     echo "<td>" . $row['name'] . "</td>";
     echo "<td>" . $row['Store'] . "</td>";
     echo "<td>" . $row['copy'] . "</td>";
