@@ -1,3 +1,7 @@
+<?php
+session_start(); //start session to grab username
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,7 +9,6 @@
 </head>
 
 <?php
-session_start(); //start session to grab username
 
 include "database_login_info.php";
 //$mysqli->close();
@@ -29,7 +32,7 @@ $check = "SELECT * FROM Cart where username ='" . $username . "' AND gameID ='" 
 
 session_write_close();
 ?>
-	
+  
 <br>
   
 <form method=POST>
@@ -41,4 +44,4 @@ session_write_close();
 if(isset($_POST['back']))
   header("Location: ../interface.php");
   
-?>	
+?>
