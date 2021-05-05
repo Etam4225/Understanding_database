@@ -1,3 +1,13 @@
+<form method=POST>
+  <p>
+  <button type="submit" name="back">
+    Back
+  </button>
+  <button type="submit" name="out">
+    Checkout
+  </button>
+  </p>
+</form>
 <?php
 session_start();
 include "database_login_info.php";
@@ -43,7 +53,8 @@ if ($result->num_rows > 0) {
   }
   echo "</table>";
 }
-
+if(isset($_POST['back']))
+  header("Location: ../interface.php");
 
 
 
