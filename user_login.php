@@ -22,17 +22,17 @@
 							<!--<label for = "name"> <b> Username - </b> </label> -->
 							<input type ="varchar(16)" class = "input-field" name="name" placeholder="Username" required>
 							<input type ="password" class = "input-field" name="pass" placeholder="Enter Password" required>
-							<input type ="varchar(2)" class = "input-field" name="state" placeholder="State">
-							<input type ="varchar(64)" class = "input-field" name="city" placeholder="City">
-							<input type ="varchar(64)" class = "input-field" name="street" placeholder="Street">
-							<input type ="varchar(16)" class = "input-field" name="payment" placeholder="Payment method">
+							<input type ="varchar(2)" class = "input-field" name="state" placeholder="State" required>
+							<input type ="varchar(64)" class = "input-field" name="city" placeholder="City" required>
+							<input type ="varchar(64)" class = "input-field" name="street" placeholder="Street" required>
+							<input type ="varchar(16)" class = "input-field" name="payment" placeholder="Payment method" required>
 							<button type="submit" class = "btn-btn-primary" name="submit">
 							Sign up
 						  </button>
 						</form>
 						<div class = "loginForm">
 							<form action= "interface.php" class = "input-form" id = "login" method=POST>
-								<input type ="varchar(16)" class = "input-field" name="login_name" placeholder="UserName" required>
+								<input type ="varchar(16)" class = "input-field" name="login_name" placeholder="Username" required>
 								<input type="varchar(64)" class = "input-field" name="login_pass" placeholder="Password" required>
 								<button type="submit" class = "btn-btn-primary" name="login_submit">
 								Login
