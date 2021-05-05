@@ -96,3 +96,12 @@ if(isset($_POST['back']))
   </select>
   <input type="submit" value="Search!">
 </form>
+
+	
+<?php
+echo "<br>" ;
+$link_address = "../cart.php?rn=$login_word";
+echo "<td>" . '<a href="'.$link_address.'"> MY CART </a>' . "</td>"; 
+  
+  
+?>
