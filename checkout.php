@@ -68,8 +68,37 @@ echo "Please Enter your Card Information:";
 <form method=POST>
   <input type=varchar(16) name="card" placeholder="Card Number">
   <input type=varchar(4) name="CVC" placeholder="CVC Number">
-  <input type=date name="date" placeholder="Expiration Date">
+  <input type=month name="date" placeholder="Expiration Date">  <!--month datatype to get only month/year -->
   <button type="submit" name="sub">
     Submit
   </button>
 </form>
+
+
+<?php
+if(isset($_POST['sub'])){
+  $exp_num = $_POST['date'];
+  $card_num = $_POST['card'];
+  $cvc_num = $_POST['CVC'];
+  $sql = "SELECT payment_method FROM Users WHERE name='" .$name."';";
+  $result = $mysqli->query($sql);
+  if($result->num_rows >0){
+    while($row = $result->fetch_assoc()){
+      $payment_m = $row['payment_method'];
+    }
+  }
+  if($exp_num < date("Y-m")){
+    header("Location: ../checkout.php?expiredcard");
+  }
+  else if (strlen($cvc_num)!=3){
+    header("Location: ../checkout.php?invalidCVC");
+  }
+  else if(($payment_m=="MasterCard" && $card_num[0]!=5) || ($payment_m=="Visa" && $card_num[0]!=4) || ($payment_m=="American Express" && $card_num[0]!=3)){
+    header("Location: ../checkout.php?invalidCard");
+  }
+  else{
+    header("Location: ../checkout.php?Success"); //this is temporary, will eventually take user to a success page
+  }
+}
+
+?>
