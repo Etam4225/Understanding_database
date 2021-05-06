@@ -55,6 +55,8 @@ if ($result->num_rows > 0) {
 }
 if(isset($_POST['back']))
   header("Location: ../interface.php");
+if(isset($_POST['out']))
+  header("Location: ../checkout.php");
 
 
 
