@@ -48,6 +48,9 @@ if ($result->num_rows > 0) {
   echo "</table>";
 }
 
-if(isset($_POST['back']))
-  header("Location: ../user_login.php")
+if(isset($_POST['back'])){
+  $clear = "DELETE FROM Cart where username='" . $name . "';";
+  $result_c = $mysqli->query($clear);
+  header("Location: ../user_login.php");
+}
 ?>
