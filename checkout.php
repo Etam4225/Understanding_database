@@ -100,7 +100,7 @@ if(isset($_POST['sub'])){
     header("Location: ../checkout.php?invalidCard");
   }
   else{
-    header("Location: ../checkout.php?Success"); //this is temporary, will eventually take user to a success page
+    header("Location: ../confirm.php"); 
   }
 }
 
