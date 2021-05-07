@@ -96,7 +96,7 @@ if(isset($_POST['sub'])){
   else if (strlen($cvc_num)!=3){
     header("Location: ../checkout.php?invalidCVC");
   }
-  else if(($payment_m=="MasterCard" && $card_num[0]!=5) || ($payment_m=="Visa" && $card_num[0]!=4) || ($payment_m=="American Express" && $card_num[0]!=3)){
+  else if(strlen($card_num)!=16){
     header("Location: ../checkout.php?invalidCard");
   }
   else{
