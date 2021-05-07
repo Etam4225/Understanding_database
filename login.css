@@ -6,13 +6,72 @@
 
 body
 {
+	background: linear-gradient(to right, #6699ff 0%, #ffcc99 100%) !important;
+	height: 100%;
+	width: 100%;
+}
+
+.header
+{
+	height: 80px;
+	width: 100%;
+	background-color:#b1cbbb;
+	display:block;
+	/*background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));*/
+	padding-left: 8%;
+	padding-right: 8%;
+	box-sizing: border-box;
+}
+
+nav
+{
+	flex: 1;
+	text-align: right;
+	margin-right: 40px;
+}
+
+nav ul li{
+	list-style: none;
+	display: inline-block;
+	color: #000;
+	font-size: 13px;
+	margin-left: 60px;
+}
+
+nav ul li a
+{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+}
+
+nav ul li a:hover
+{
+    color: rgb(0, 0, 0); /* placeholder */
+}
+
+.logo_container
+{
+	height: 100%;
+	display: table;
+	float: left;
+	cursor: pointer;
+}
+
+.logo
+{
+	width: 75px;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.inner_header
+{
 	display: flex;
-	height: 100vh;
-	justify-content: center;
 	align-items: center;
-	background-color: white;
-	background: linear-gradient(to right, #6699ff 0%, #ffcc99 100%);
-	padding: 10px;
+	
+	
 }
 
 .FormHolder
@@ -25,7 +84,10 @@ body
 	position: relative;
 	padding: 30px;
 	overflow: hidden;
-}
+	margin: 2% auto;
+	/* display: none; */
+}	
+
 
 .button-box
 {
