@@ -6,19 +6,35 @@ session_start();
 <html>
 <head>
 	<meta charset = "UTF-8">
-	<link rel = "stylesheet" type="text/css" href = "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+	<link rel = "stylesheet" type="text/css" href = "css\interface.css">
 </head>
-<form method=POST>
-  <button type="submit" name="back">
-    Sign Out
-  </button>
-</form>
+<div class = "header">  
+		<div class = "inner_header">
+			<div class = "logo_container">
+				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. -->
+			</div>
 
+			<nav>
+			  <ul class = "navigation"> <!-- Placeholder header to use on other pages -->
+				  <li><a href="#"> About us </a></li>
+				  <li><a href="#"> PLACEHOLDER </a></li>
+          <li>  
+            <form method=POST> <!-- sign out button -->
+              <button type="submit" name="back">
+                  SIGN OUT
+              </button>
+            </form>
+          </li>
+			  </ul>
+			</nav>
+		</div>
+</div>
 
 <?php
 include "database_login_info.php";
 
 $mysqli->close();
+
 
 $word ='';
 $passw ='';
@@ -97,11 +113,10 @@ if(isset($_POST['back']))
   <input type="submit" value="Search!">
 </form>
 
-	
+
 <?php
 echo "<br>" ;
 $link_address = "../cart.php?rn=$login_word";
 echo "<td>" . '<a href="'.$link_address.'"> MY CART </a>' . "</td>"; 
-  
   
 ?>

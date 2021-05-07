@@ -2,14 +2,14 @@
 <html>
 <head>
 	<meta charset = "UTF-8">
-	<link rel = "stylesheet" type="text/css" href = "login.css">
+	<link rel = "stylesheet" type="text/css" href = "css/login.css">
 </head>
 
 <body>
 	<div class = "header">  
 		<div class = "inner_header">
 			<div class = "logo_container">
-				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. -->
+				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. hover shows cursor -->
 			</div>
 
 			<nav>
