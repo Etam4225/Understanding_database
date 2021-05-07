@@ -48,7 +48,17 @@ if ($result->num_rows > 0) {
   echo "</table>";
 }
 
+
 if(isset($_POST['back'])){
+  $deduc = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) join Cart on game.gameID=Cart.gameID WHERE username='" .$name."' AND copy='Physical';";
+  $result_d = $mysqli->query($deduc);
+  if($result_d->num_rows > 0){
+    while($row = $result_d->fetch_assoc()){
+      $reduce = $row['avail_copies'] - 1 ;
+      $repeat = "UPDATE sample SET avail_copies ='" . $reduce. "' WHERE name = '" .$row['name'] . "' AND Store = '" .$row['Store'] . "';";
+      $perform = $mysqli->query($repeat);
+    }
+  }
   $clear = "DELETE FROM Cart where username='" . $name . "';";
   $result_c = $mysqli->query($clear);
   header("Location: ../user_login.php");
