@@ -36,7 +36,8 @@
 							<input type ="varchar(16)" class = "input-field" name="name" placeholder="Username" required>
 							<input type ="password" class = "input-field" name="pass" placeholder="Enter Password" required>
 							<!-- <input type ="varchar(2)" class = "input-field" name="state" placeholder="State" required> -->
-							<select name = "state" class = "states">
+							<select name = "state" class = "states" required>
+								<option value "" disabled selected> Select State </option>
 								<option value="AL">Alabama</option>
 								<option value="AK">Alaska</option>
 								<option value="AZ">Arizona</option>
@@ -91,7 +92,14 @@
 							</select>
 							<input type ="varchar(64)" class = "input-field" name="city" placeholder="City" required>
 							<input type ="varchar(64)" class = "input-field" name="street" placeholder="Street" required>
-							<input type ="varchar(16)" class = "input-field" name="payment" placeholder="Payment method" required>
+							<!-- <input type ="varchar(16)" class = "input-field" name="payment" placeholder="Payment method" required> -->
+							<select name = "payment" class = "payment-method" required>
+								<option value "" disabled selected> Select Credit Card </option>
+								<option value="MasterCard">MasterCard</option>
+								<option value="Visa">Visa</option>
+								<option value="American Express">Wyoming</option>
+								<option value="Placeholder">Placeholder</option>
+							</select>
 							<button type="submit" class = "btn-btn-primary" name="submit">
 							Sign up
 						  </button>
