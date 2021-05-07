@@ -5,6 +5,7 @@
 	<link rel = "stylesheet" type="text/css" href = "login.css">
 </head>
 <body>
+
 	<!-- Form which holds both the register_info and login_info -->
 	<div class = "FormHolder">
 			<section class = "signup-form">

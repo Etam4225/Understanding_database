@@ -2,6 +2,9 @@
 
 <?php
 session_start();
+
+date_default_timezone_set('America/New_York');
+
 include "database_login_info.php";
 //$mysqli->close();
 $mysqli = new mysqli($host, $username, $user_pass, $database_in_use);
