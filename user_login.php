@@ -97,7 +97,7 @@
 								<option value "" disabled selected> Select Credit Card </option>
 								<option value="MasterCard">MasterCard</option>
 								<option value="Visa">Visa</option>
-								<option value="American Express">Wyoming</option>
+								<option value="American Express">American Express</option>
 								<option value="Placeholder">Placeholder</option>
 							</select>
 							<button type="submit" class = "btn-btn-primary" name="submit">
