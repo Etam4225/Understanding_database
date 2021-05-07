@@ -157,6 +157,19 @@ nav ul li a:hover
 	border-top: 0;
 }
 
+.states{
+	width: 100%;
+	padding: 10px 0;
+	margin: 6px 0;
+	border-left: 0;
+	border-right: 0;
+	border-top: 0;
+	background: transparent;
+	outline: none;
+	border-bottom: 2px solid #b1cbbb;
+}
+
+
 #register{
 	left: 50px;
 }
