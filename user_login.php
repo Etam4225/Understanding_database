@@ -98,7 +98,7 @@
 								<option value="MasterCard">MasterCard</option>
 								<option value="Visa">Visa</option>
 								<option value="American Express">American Express</option>
-								<option value="Placeholder">Placeholder</option>
+								<option value="Discover">Discover</option>
 							</select>
 							<button type="submit" class = "btn-btn-primary" name="submit">
 							Sign up
