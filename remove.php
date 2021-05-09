@@ -31,8 +31,8 @@ include "database_login_info.php";
 $rollno = $_GET['rn'];
 $username = $_SESSION["username"];
 
-echo "<center><h2> Hello, " . $username . "<br>" . "</h2></center>";
-echo "<center><h2>" . $rollno . " is removed from your cart. </h2></center>";
+echo "<p><center><h2> Hello, " . $username . "<br>" . "</h2></center></p>";
+echo "<p><center><h2>" . $rollno . " is removed from your cart. </h2></center></p>";
 
 $sql = "DELETE FROM Cart where username ='" . $username . "' AND gameID ='" . $rollno . "';";
 $result = $mysqli->query($sql);
