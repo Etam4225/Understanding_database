@@ -1,0 +1,86 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body
+{
+	background: linear-gradient(to right, #6699ff 0%, #ffcc99 100%) !important;
+	height: 100%;
+	width: 100%;
+}
+
+.header
+{
+	height: 80px;
+	width: 100%;
+	background-color:#b1cbbb;
+	display:block;
+	/*background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));*/
+	padding-left: 8%;
+	padding-right: 8%;
+	box-sizing: border-box;
+}
+
+.logo_container
+{
+	height: 100%;
+	display: table;
+	float: left;
+	cursor: pointer;
+}
+
+.logo
+{
+	width: 75px;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.inner_header
+{
+	display: flex;
+	align-items: center;
+	
+	
+}
+
+nav
+{
+	flex: 1;
+	text-align: right;
+	margin-right: 40px;
+}
+
+nav ul li{
+	list-style: none;
+	display: inline-block;
+	color: #000;
+	font-size: 13px;
+	font-weight: bold;
+	margin-left: 60px;
+}
+
+nav ul li a
+{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+	font: bold;
+}
+
+nav ul li form button
+{
+	list-style: none;
+	display:inline-block;
+    font-size: 20px;
+    color: white;
+    outline: none;
+    border: none;
+	font-weight: bold;
+    background: transparent;
+    cursor: pointer;
+    font-family: sans-serif;
+}

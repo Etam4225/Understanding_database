@@ -6,13 +6,25 @@ session_start()
 <html>
 <head>
 	<meta charset = "UTF-8">
+	<link rel = "stylesheet" type="text/css" href = "css\remove.css">
 </head>
 
-<form method=POST>
-  <button type="submit" name="back">
-    Back
-  </button>
-</form>
+<div class = "header">  
+		<div class = "inner_header">
+			<div class = "logo_container">
+				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. -->
+			</div>
+
+      <nav>
+			<ul class = "navigation"> <!-- Placeholder header to use on other pages -->
+				<li><a href="#"> About us </a></li>
+				<li><form method=POST><p><button type="submit" name="back">Back</button></p></form></li>
+        <li><form method=POST><p><button type="submit" name="out">Checkout</button></p></form></li>
+			</ul>
+			</nav>
+    </div>
+</div>
+
 <?php
 include "database_login_info.php";
 $rollno = $_GET['rn'];
