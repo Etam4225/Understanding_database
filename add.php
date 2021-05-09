@@ -20,6 +20,7 @@ session_start(); //used to grab username
       </nav>
   </div>
 </div>
+</html>
 
 <?php
 
