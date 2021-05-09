@@ -75,3 +75,9 @@ nav ul li form button
     cursor: pointer;
     font-family: sans-serif;
 }
+
+.keywordTable
+{
+	margin-left: auto;
+	margin-right: auto;
+}
