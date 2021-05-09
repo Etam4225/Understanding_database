@@ -33,7 +33,7 @@
 							<!-- <img src = "/images/Sample_User_Icon.png"> -->
 							<!--<label for = "name"> <b> Username - </b> </label> -->
 							<input type ="varchar(16)" class = "input-field" name="name" placeholder="Username" required>
-							<input type ="password" class = "input-field" name="pass" placeholder="Enter Password" minlength="5" maxlength="64" required>
+							<input type ="password" class = "input-field" name="pass" placeholder="Enter Password" pattern = ".{5,64}" required>
 							<!-- <input type ="varchar(2)" class = "input-field" name="state" placeholder="State" required> -->
 							<select name = "state" class = "states" required>
 								<option value "" disabled selected> Select State </option>
@@ -121,6 +121,8 @@
 		var login_id = document.getElementById("login");
 		var button_id = document.getElementById("btn");
 		var login_form = document.getElementById("login_form");
+		//set max length of the password to 64 characters
+		document.getElementById("passwordfield").maxLength = "64";
 
 		function login(){
 			register_id.style.left = "-400px";
