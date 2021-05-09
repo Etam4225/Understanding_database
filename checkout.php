@@ -19,7 +19,7 @@ session_start();
       </nav>
   </div>
 </div>
-  
+</html>
   
 <?php
 
