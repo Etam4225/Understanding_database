@@ -1,7 +1,27 @@
-
-
 <?php
 session_start();
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset = "UTF-8">
+	<link rel = "stylesheet" type="text/css" href = "css\checkout.css">
+</head>
+<div class = "header">  
+		<div class = "inner_header">
+			<div class = "logo_container">
+				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. -->
+			</div>
+      <nav>
+        <ul class = "navigation">
+          <li><a href="../cart.php"> Back </a></li>
+      </nav>
+  </div>
+</div>
+  
+  
+<?php
 
 date_default_timezone_set('America/New_York');
 
@@ -9,7 +29,6 @@ include "database_login_info.php";
 //$mysqli->close();
 $mysqli = new mysqli($host, $username, $user_pass, $database_in_use);
 $name = $_SESSION['username'];
-echo $name . " Cart";
 
 $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) join Cart on game.gameID=Cart.gameID WHERE username='" .$name."';";
 $result = $mysqli->query($sql);
