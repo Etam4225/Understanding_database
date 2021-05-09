@@ -20,6 +20,7 @@
 			</nav>
     </div>
 </div>
+</html>
 
 <?php
 session_start();
