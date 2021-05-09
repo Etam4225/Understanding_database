@@ -2,6 +2,7 @@
 <html>
 <head>
 	<meta charset = "UTF-8">
+  <link rel = "stylesheet" type="text/css" href = "css\background.css">
 	<link rel = "stylesheet" type="text/css" href = "css\cart.css">
 </head>
 
@@ -20,6 +21,7 @@
 			</nav>
     </div>
 </div>
+
 </html>
 
 <?php
@@ -70,7 +72,5 @@ if(isset($_POST['back']))
   header("Location: ../interface.php");
 if(isset($_POST['out']))
   header("Location: ../checkout.php");
-
-
 
 ?>
