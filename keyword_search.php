@@ -2,8 +2,19 @@
 <html>
 <head>
 	<meta charset = "UTF-8">
+  <link rel = "stylesheet" type="text/css" href = "css/search.css">
 </head>
-<form method=POST>
+<div class = "header">  
+		<div class = "inner_header">
+			<div class = "logo_container">
+				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. -->
+			</div>
+      <nav>
+        <ul class = "navigation">
+          <li><a href="../interface.php"> Back </a></li>
+      </nav>
+  </div>
+</div>
 
 <?php
 
@@ -51,7 +62,6 @@ if ($result->num_rows > 0) {
   while($row = $result->fetch_assoc()) {
     echo "<tr>";
     echo "<td>" . $row['gameID'] . "</td>";
-	  //$idVals[] = $row['gameID'];
     $link_address = "../add.php?rn=$row[gameID]";
     echo "<td>" . $row['name'] . "</td>";
     echo "<td>" . $row['Store'] . "</td>";
@@ -61,7 +71,7 @@ if ($result->num_rows > 0) {
     echo "<td>" . $row['price'] . "</td>";
     echo "<td>" . $row['avail_copies'] . "</td>";
     echo "<td>" . $row['lowest'] . "</td>";
-    echo "<td>" . '<a href="'.$link_address.'">ADD</a>' . "</td>";
+    echo "<td>" . '<a href="'.$link_address.'">ADD</a>' . "</td>"; 
     echo "</tr>";
   }
   echo "</table>";
@@ -70,12 +80,4 @@ else {
   echo "0 results, please try a different game keyword.";
 }
 
-
-/* print code for testing purposes later
-foreach($idVals as $idValue){
-	echo "gameID value is : " . $idValue . "." . "<br> ";
-}*/ 
-
-//idVal stores the gameID for potential use later
-//print_r($idVal);
 ?>
