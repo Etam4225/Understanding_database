@@ -27,7 +27,6 @@ include "database_login_info.php";
 //$mysqli->close();
 $mysqli = new mysqli($host, $username, $user_pass, $database_in_use);
 $name = $_SESSION['username'];
-echo $name . " Cart";
 
 $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) join Cart on game.gameID=Cart.gameID WHERE username='" .$name."';";
 $result = $mysqli->query($sql);
