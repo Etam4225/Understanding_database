@@ -90,7 +90,6 @@ else if($word=='' && $passw=='' && $login_word !='' && $login_passw !=''){
   }
   else{
     //header("Location: ../interface.php?login=sucess");
-    echo "Hello," . $login_word . "<br>";
     echo "<br>";
   }
 }
