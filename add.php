@@ -31,8 +31,8 @@ $mysqli = new mysqli($host, $username, $user_pass, $database_in_use);
 $rollno = $_GET['rn'];
 $username = $_SESSION["username"];
 
-echo "Hello, " . $username . "<br>";
-echo $rollno . " is added to your cart.";
+echo "<p><center><h2>Hello, " . $username . "<br>" . "</h2></center></p>";
+echo "<p><center><h2>" . $rollno . " is added to your cart. </h2></center></p>";
 
 //check if the user already added the game to their cart
 $check = "SELECT * FROM Cart where username ='" . $username . "' AND gameID ='" . $rollno . "';";
