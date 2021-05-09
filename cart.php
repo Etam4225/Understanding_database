@@ -33,7 +33,10 @@ $name = $_SESSION['username'];
 
 $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) join Cart on game.gameID=Cart.gameID WHERE username='" .$name."';";
 $result = $mysqli->query($sql);
-echo "<table border='1'>
+
+?>
+
+<table border='1' class = "keywordTable">
 <tr>
 <th>gameID</th>
 <th>name</th>
@@ -44,17 +47,17 @@ echo "<table border='1'>
 <th>price</th>
 <th>available_copies</th>
 <th>Lowest_Price</th>
-<th>REMOVE from my Cart</th>
-</tr>";
+<th>REMOVE to Cart</th>
+</tr>
+
+<?php
 
 if ($result->num_rows > 0) {
   // output data of each row
   while($row = $result->fetch_assoc()) {
     echo "<tr>";
-    //echo "<td>" . $row['username'] . "</td>";
     echo "<td>" . $row['gameID'] . "</td>";
-	  //$idVals[] = $row['gameID'];
-    $link_address = "../remove.php?rn=$row[gameID]"; //need to change this
+    $link_address = "../remove.php?rn=$row[gameID]"; 
     echo "<td>" . $row['name'] . "</td>";
     echo "<td>" . $row['Store'] . "</td>";
     echo "<td>" . $row['copy'] . "</td>";
