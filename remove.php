@@ -24,6 +24,7 @@ session_start()
 			</nav>
     </div>
 </div>
+</html>
 
 <?php
 include "database_login_info.php";
