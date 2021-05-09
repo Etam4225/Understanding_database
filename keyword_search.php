@@ -15,6 +15,7 @@
       </nav>
   </div>
 </div>
+</html>
 
 <?php
 
