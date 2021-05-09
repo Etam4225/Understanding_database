@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset = "UTF-8">
+  <link rel = "stylesheet" type="text/css" href = "css/search.css">
+</head>
+<div class = "header">  
+		<div class = "inner_header">
+			<div class = "logo_container">
+				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. -->
+			</div>
+      <nav>
+        <ul class = "navigation">
+          <li><a href="../interface.php"> Back </a></li>
+      </nav>
+  </div>
+</div>
+</html>
 
 <?php
 
@@ -9,9 +27,19 @@ $keyword_from_user = $_GET["keyword"];
 
 //search the database for keywords
 echo "<h2> Displaying search results of the keyword, ".$keyword_from_user.", below: </h2>";
-//$sql = "SELECT testing_ID, Question, Statement FROM testing_table WHERE Question LIKE '%" .$keyword_from_user."%'";
-$sql = "SELECT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%'";
-$result = $mysqli->query($sql);
+if(!isset($_GET["Sorting"])){
+  //$sql = "SELECT testing_ID, Question, Statement FROM testing_table WHERE Question LIKE '%" .$keyword_from_user."%'";
+  $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%'";
+  $result = $mysqli->query($sql);
+}
+else{
+  $sort = $_GET["Sorting"];
+  if($sort=="rating")
+     $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%' ORDER BY sample." .$sort. " DESC;";
+  else
+    $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%' ORDER BY sample." .$sort. ";";
+  $result = $mysqli->query($sql);
+}
 
 echo "<table border='1'>
 <tr>
@@ -24,14 +52,18 @@ echo "<table border='1'>
 <th>price</th>
 <th>available_copies</th>
 <th>Lowest_Price</th>
+<th>ADD to Cart</th>
 </tr>";
+
+
+
 
 if ($result->num_rows > 0) {
   // output data of each row
   while($row = $result->fetch_assoc()) {
-    //echo "name: " . $row["name"]. " - Store: " . $row["Store"] . " - copy:" . $row["copy"]. " - Console: " . $row["Console"]. " - rating: " . $row["rating"] . " - price:" . $row["price"]. " - Available copies: " . $row["avail_copies"]. " - Lowest seen Price: " . $row["lowest"] . "<br>";
     echo "<tr>";
     echo "<td>" . $row['gameID'] . "</td>";
+    $link_address = "../add.php?rn=$row[gameID]";
     echo "<td>" . $row['name'] . "</td>";
     echo "<td>" . $row['Store'] . "</td>";
     echo "<td>" . $row['copy'] . "</td>";
@@ -40,17 +72,13 @@ if ($result->num_rows > 0) {
     echo "<td>" . $row['price'] . "</td>";
     echo "<td>" . $row['avail_copies'] . "</td>";
     echo "<td>" . $row['lowest'] . "</td>";
+    echo "<td>" . '<a href="'.$link_address.'">ADD</a>' . "</td>"; 
     echo "</tr>";
   }
   echo "</table>";
 }
-/*if ($result->num_rows > 0) {
-  // output data of each row
-  while($row = $result->fetch_assoc()) {
-    echo "ID: " . $row["testing_ID"]. " - Question: " . $row["Question"]. " " . $row["Statement"]. "<br>";
-  }
- }*/
 else {
   echo "0 results, please try a different game keyword.";
 }
+
 ?>
