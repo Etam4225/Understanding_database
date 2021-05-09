@@ -72,7 +72,6 @@ if($word !='' && $passw !='' && $state !='' && $city !='' && $street !='' && $pa
   $check = "SELECT * FROM Users where name='" . $word . "';";
   $query_check = $mysqli->query($check);
   if(mysqli_num_rows($query_check)==1){
-    //echo "UserName Or Password already exist. Please Try Again"; //might not include
     header("Location: ../user_login.php?signup=fail");
   }
   else{
@@ -86,10 +85,8 @@ else if($word=='' && $passw=='' && $login_word !='' && $login_passw !=''){
   $result = $mysqli->query($sql);
   if(mysqli_num_rows($result)!=1){
     header("Location: ../user_login.php?login=fail");
-    //echo "The User does not Exist" . "<br>";
   }
   else{
-    //header("Location: ../interface.php?login=sucess");
     echo "<br>";
   }
 }
@@ -104,8 +101,8 @@ if(isset($_POST['back']))
 
   <form action = "keyword_search.php" >
     Enter the game you are looking for: <br>
-    <input type="text" name="keyword"><br>
-    <select name="Sorting">
+    <input type="text" name="keyword" class="input-field"><br>
+    <select name="Sorting" class = "sort">
       <option selected disabled> SELECT </option>
       <option value="name"> name </option>
       <option value="Store"> Store </option>
@@ -114,5 +111,5 @@ if(isset($_POST['back']))
       <option value="rating"> Rating </option>
       <option value="price"> Price </option>
     </select>
-    <input type="submit" value="Search!">
+    <input type="submit" value="Search!" class="toggle-button">
   </form>
