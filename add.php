@@ -1,12 +1,25 @@
 <?php
-session_start(); //start session to grab username
+session_start(); //used to grab username
 ?>
 
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset = "UTF-8">
+  <link rel = "stylesheet" type="text/css" href = "css/add.css">
 </head>
+<div class = "header">  
+		<div class = "inner_header">
+			<div class = "logo_container">
+				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. -->
+			</div>
+      <nav>
+        <ul class = "navigation">
+          <li><a href="../interface.php"> Back </a></li>
+          <li><a href="../user_login.php"> SIGN OUT </a></li>
+      </nav>
+  </div>
+</div>
 
 <?php
 
@@ -31,17 +44,4 @@ $check = "SELECT * FROM Cart where username ='" . $username . "' AND gameID ='" 
 }
 
 session_write_close();
-?>
-  
-<br>
-  
-<form method=POST>
-  <button type="submit" name="back">
-    Back
-  </button>
-</form>
-<?php  
-if(isset($_POST['back']))
-  header("Location: ../interface.php");
-  
 ?>
