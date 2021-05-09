@@ -16,8 +16,6 @@
 			<nav>
 			<ul class = "navigation"> <!-- Placeholder header to use on other pages -->
 				<li><a href="#"> About us </a></li>
-				<li><a href="#"> PLACEHOLDER </a></li>
-				<li><a href="#"> PLACEHOLDER </a></li>
 			</ul>
 			</nav>
 		</div>
@@ -35,7 +33,7 @@
 							<!-- <img src = "/images/Sample_User_Icon.png"> -->
 							<!--<label for = "name"> <b> Username - </b> </label> -->
 							<input type ="varchar(16)" class = "input-field" name="name" placeholder="Username" required>
-							<input type ="password" class = "input-field" name="pass" placeholder="Enter Password" required>
+							<input type ="password" class = "input-field" name="pass" placeholder="Enter Password" minlength="5" maxlength="64" required>
 							<!-- <input type ="varchar(2)" class = "input-field" name="state" placeholder="State" required> -->
 							<select name = "state" class = "states" required>
 								<option value "" disabled selected> Select State </option>
@@ -108,7 +106,7 @@
 						<div class = "loginForm">
 							<form action= "interface.php" class = "input-form" id = "login" method=POST>
 								<input type ="varchar(16)" class = "input-field" name="login_name" placeholder="Username" required>
-								<input type="varchar(64)" class = "input-field" name="login_pass" placeholder="Password" required>
+								<input type="password" class = "input-field" name="login_pass" placeholder="Password" required>
 								<button type="submit" class = "btn-btn-primary" name="login_submit">
 								Login
 								</button>
