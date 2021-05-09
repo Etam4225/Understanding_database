@@ -2,11 +2,26 @@
 session_start();
 ?>
 
-<form method=POST>
-  <button type="submit" name="back">
-    Confirm and Sign Out
-  </button>
-</form>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset = "UTF-8">
+	<link rel = "stylesheet" type="text/css" href = "css\confirm.css">
+</head>
+
+<div class = "header">  
+		<div class = "inner_header">
+			<div class = "logo_container">
+				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. -->
+			</div>
+      <nav>
+			<ul class = "navigation"> <!-- Placeholder header to use on other pages -->
+				<li><form method=POST><p><button type="submit" name="back">Confirm and Sign Out</button></p></form></li>
+			</ul>
+			</nav>
+    </div>
+</div>
+</html>
 
 <?php
 include "database_login_info.php";
