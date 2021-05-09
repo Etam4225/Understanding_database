@@ -2,6 +2,7 @@
 <html>
 <head>
 	<meta charset = "UTF-8">
+  <link rel = "stylesheet" type="text/css" href = "css\background.css">
   <link rel = "stylesheet" type="text/css" href = "css/search.css">
 </head>
 <div class = "header">  
@@ -26,7 +27,11 @@ $keyword_from_user = $_GET["keyword"];
 //echo $keyword_from_user; echo's the keyword user inputs
 
 //search the database for keywords
-echo "<h2> Displaying search results of the keyword, ".$keyword_from_user.", below: </h2>";
+if($keyword_from_user == NULL){
+  echo "<h2> Displaying search results below: </h2>";
+}else{
+  echo "<h2> Displaying search results of the keyword, ".$keyword_from_user.", below: </h2>";
+}
 if(!isset($_GET["Sorting"])){
   //$sql = "SELECT testing_ID, Question, Statement FROM testing_table WHERE Question LIKE '%" .$keyword_from_user."%'";
   $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%'";
@@ -41,7 +46,23 @@ else{
   $result = $mysqli->query($sql);
 }
 
-echo "<table border='1'>
+// echo "<table border='1' class = 'keywordTable'>
+// <tr>
+// <th>gameID</th>
+// <th>name</th>
+// <th>Store</th>
+// <th>copy</th>
+// <th>Console</th>
+// <th>rating</th>
+// <th>price</th>
+// <th>available_copies</th>
+// <th>Lowest_Price</th>
+// <th>ADD to Cart</th>
+// </tr>";
+
+?>
+
+<table border='1' class = "keywordTable">
 <tr>
 <th>gameID</th>
 <th>name</th>
@@ -53,9 +74,10 @@ echo "<table border='1'>
 <th>available_copies</th>
 <th>Lowest_Price</th>
 <th>ADD to Cart</th>
-</tr>";
+</tr>
 
 
+<?php
 
 
 if ($result->num_rows > 0) {
