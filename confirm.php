@@ -31,15 +31,17 @@ $name = $_SESSION['username'];
 
 $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) join Cart on game.gameID=Cart.gameID WHERE username='" .$name."' AND copy='Digital';";
 $result = $mysqli->query($sql);
-echo "Your Order has been placed. Thank you for your purchase!" . "<br>";
+echo "<p><center><h2> Your Order has been placed. Thank you for your purchase!" . "<br>" . "</h2></center></p>";
 if ($result->num_rows > 0) {
-  echo "<table border='1'>
+  ?>
+  <table border='1' class = "keywordTable">
   <tr>
   <th>name</th>
-  <th>store</th>
+  <th>Store</th>
   <th>CODE</th>
-  </tr>";
-  echo "Here are your digital codes:" . "<br>";
+  </tr>
+    <?php
+  echo "<p><center><h2> Here are your digital codes:" . "<br>" . "</h2></center></p>";
   // output data of each row
   while($row = $result->fetch_assoc()) {
     $code ="";
