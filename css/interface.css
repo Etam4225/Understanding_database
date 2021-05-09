@@ -94,3 +94,44 @@ nav ul li button:hover
 	
 	
 }
+
+.sort{
+  width: 10%;
+	padding: 10px 0;
+	margin: 6px 0;
+	border-left: 0;
+	border-right: 0;
+	border-top: 0;
+	background: transparent;
+	outline: none;
+	border-bottom: 2px solid #b1cbbb;
+}
+
+.input-field
+{
+	width: 20%;
+	padding: 10px 0;
+	margin: 6px 0;
+	border-left: 0;
+	border-right: 0;
+	background: transparent;
+	outline: none;
+	border-bottom: 2px solid #b1cbbb;
+	border-top: 0;
+}
+
+.toggle-button
+{
+	background-color: #4CAF50;
+	width: 10%;
+	border: none;
+	outline: none;
+	color: white;
+	padding: 16px 32px;
+	cursor: pointer;
+	font-weight: bold;
+	margin: 4px 2px;
+	border-radius: 8px;
+	align-items: center;
+	
+}
