@@ -28,9 +28,9 @@ $keyword_from_user = $_GET["keyword"];
 
 //search the database for keywords
 if($keyword_from_user == NULL){
-  echo "<h2> Displaying search results below: </h2>";
+  echo "<center><h2> Displaying search results below: </h2></center>";
 }else{
-  echo "<h2> Displaying search results of the keyword, ".$keyword_from_user.", below: </h2>";
+  echo "<center><h2> Displaying search results of the keyword, ".$keyword_from_user.", below: </h2></center>";
 }
 if(!isset($_GET["Sorting"])){
   //$sql = "SELECT testing_ID, Question, Statement FROM testing_table WHERE Question LIKE '%" .$keyword_from_user."%'";
