@@ -2,6 +2,7 @@
 <html>
 <head>
 	<meta charset = "UTF-8">
+  <link rel = "stylesheet" type="text/css" href = "css/table.css">
   <link rel = "stylesheet" type="text/css" href = "css/background.css">
   <link rel = "stylesheet" type="text/css" href = "css/search.css">
 </head>
@@ -49,18 +50,18 @@ else{
 ?>
 
 <table border='1' class = "keywordTable">
-<tr>
-<th>gameID</th>
-<th>name</th>
-<th>Store</th>
-<th>copy</th>
-<th>Console</th>
-<th>rating</th>
-<th>price</th>
-<th>available_copies</th>
-<th>Lowest_Price</th>
-<th>ADD to Cart</th>
-</tr>
+  <tr>
+    <th>GameID</th>
+    <th>Name</th>
+    <th>Store</th>
+    <th>copy</th>
+    <th>Console</th>
+    <th>rating</th>
+    <th>price</th>
+    <th>available_copies</th>
+    <th>Lowest_Price</th>
+    <th>ADD to Cart</th>
+  </tr>
 
 
 <?php

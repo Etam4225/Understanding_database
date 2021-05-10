@@ -2,8 +2,9 @@
 <html>
 <head>
 	<meta charset = "UTF-8">
-  <link rel = "stylesheet" type="text/css" href = "css\background.css">
-	<link rel = "stylesheet" type="text/css" href = "css\cart.css">
+  <link rel = "stylesheet" type="text/css" href = "css/background.css">
+  <link rel = "stylesheet" type="text/css" href = "css/table.css">
+	<link rel = "stylesheet" type="text/css" href = "css/cart.css">
 </head>
 
 <div class = "header">  
@@ -71,6 +72,7 @@ if ($result->num_rows > 0) {
   }
   echo "</table>";
 }
+
 if(isset($_POST['back']))
   header("Location: ../interface.php");
 if(isset($_POST['out']))
