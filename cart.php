@@ -15,7 +15,6 @@
 
       <nav>
 			<ul class = "navigation"> <!-- Placeholder header to use on other pages -->
-				<li><a href="#"> About us </a></li>
 				<li><form method=POST><p><button type="submit" name="back">Back</button></p></form></li>
         <li><form method=POST><p><button type="submit" name="out">Checkout</button></p></form></li>
 			</ul>
