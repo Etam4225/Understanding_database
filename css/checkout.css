@@ -70,3 +70,59 @@ nav ul li a
     font-family: sans-serif;
 	font: bold;
 }
+
+.keywordTable
+{
+	margin-left: auto;
+  margin-right: 25px;
+	font-family: sans-serif;
+}
+
+table th
+{
+	background: linear-gradient(45deg, #49a09d, #5f2c82);
+  color: white;
+	font-family: sans-serif;
+}
+
+table
+{
+	border-collapse: collapse;
+	width: 75%;
+	box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+th, td
+{
+	background-color: rgba(255,255,255,0.5);
+	padding: 25px;
+  border: 2px solid black;
+}
+
+.input-field
+{
+	width: 20%;
+	padding: 10px 0;
+	margin: 6px 0;
+	border-left: 0;
+	border-right: 0;
+	background: transparent;
+	outline: none;
+	border-bottom: 2px solid #b1cbbb;
+	border-top: 0;
+}
+
+.btn-btn-primary
+{
+	background-color: #4CAF50;
+	width: 10%;
+	border: none;
+	outline: none;
+	color: white;
+	padding: 16px 32px;
+	cursor: pointer;
+	font-weight: bold;
+	margin: 4px 2px;
+	border-radius: 8px;
+	align-items: center;
+}
