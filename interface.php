@@ -11,11 +11,11 @@ session_start();
 <div class = "header">  
 		<div class = "inner_header">
 			<div class = "logo_container">
-				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. -->
+				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing  -->
 			</div>
 
 			<nav>
-			  <ul class = "navigation"> <!-- Placeholder header to use on other pages -->
+			  <ul class = "navigation"> <!--  Header to use on other pages -->
 				  <li>
             <?php
                 include "database_login_info.php";
@@ -49,13 +49,13 @@ session_start();
                 }
               echo "<br>" ;
               $link_address = "../cart.php?rn=$login_word";
-              echo "<td>" . '<a href="'.$link_address.'"> MY CART </a>' . "</td>"; 
+              echo "<td>" . '<a href="'.$link_address.'"> My Cart </a>' . "</td>"; 
             ?>
           </li>
           <li>  
             <form method=POST> <!-- sign out button -->
               <button type="submit" name="back">
-                  SIGN OUT
+                  Sign Out
               </button>
             </form>
           </li>
