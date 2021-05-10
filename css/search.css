@@ -86,3 +86,17 @@ th, td
 	border: 2px solid black;
 }
 
+table tr td a
+{
+	text-decoration: none;
+	padding: 10px 10px;
+	border: 1px solid #b1cbbb;
+	background-color: blue;
+	color: #FFF;
+	font-weight: bold;
+}
+
+tr
+{
+	text-align: center;
+}
