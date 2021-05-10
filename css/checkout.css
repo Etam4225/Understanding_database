@@ -126,3 +126,8 @@ th, td
 	border-radius: 8px;
 	align-items: center;
 }
+
+::placeholder {
+  color: white;
+  font-weight: bold;
+}
