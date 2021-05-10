@@ -5,19 +5,12 @@
 	<link rel = "stylesheet" type="text/css" href = "css\background.css">
 	<link rel = "stylesheet" type="text/css" href = "css/login.css">
 </head>
-
 <body>
 	<div class = "header">  
 		<div class = "inner_header">
 			<div class = "logo_container">
 				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. hover shows cursor -->
 			</div>
-
-			<nav>
-			<ul class = "navigation"> <!-- Placeholder header to use on other pages -->
-				<li><a href="#"> About us </a></li>
-			</ul>
-			</nav>
 		</div>
 		<div class = "FormHolder" id = "loginForm">
 				<div class = "signupForm">
@@ -115,7 +108,6 @@
 				</div> 
 		</div>
 	</div>
-
 	<script> /* Shifts the forms in and out of vision of the user */
 		var register_id = document.getElementById("register");
 		var login_id = document.getElementById("login");
@@ -123,13 +115,11 @@
 		var login_form = document.getElementById("login_form");
 		//set max length of the password to 64 characters
 		document.getElementById("passwordfield").maxLength = "64";
-
 		function login(){
 			register_id.style.left = "-400px";
 			login_id.style.left = "50px";
 			button_id.style.right = "0px";
 		}
-
 		function register(){
 			register_id.style.left = "50px";
 			login_id.style.left = "450px";
