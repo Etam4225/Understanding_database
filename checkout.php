@@ -32,7 +32,9 @@ $name = $_SESSION['username'];
 
 $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) join Cart on game.gameID=Cart.gameID WHERE username='" .$name."';";
 $result = $mysqli->query($sql);
-echo "<table border='1'>
+  
+?>
+<table border='1' class = "keywordTable">
 <tr>
 <th>gameID</th>
 <th>name</th>
@@ -43,16 +45,14 @@ echo "<table border='1'>
 <th>price</th>
 <th>available_copies</th>
 <th>Lowest_Price</th>
-</tr>";
-
+</tr>
+ 
+<?php
 if ($result->num_rows > 0) {
   // output data of each row
   while($row = $result->fetch_assoc()) {
     echo "<tr>";
-    //echo "<td>" . $row['username'] . "</td>";
     echo "<td>" . $row['gameID'] . "</td>";
-	  //$idVals[] = $row['gameID'];
-    //$link_address = "../remove.php?rn=$row[gameID]"; //need to change this
     echo "<td>" . $row['name'] . "</td>";
     echo "<td>" . $row['Store'] . "</td>";
     echo "<td>" . $row['copy'] . "</td>";
@@ -61,7 +61,6 @@ if ($result->num_rows > 0) {
     echo "<td>" . $row['price'] . "</td>";
     echo "<td>" . $row['avail_copies'] . "</td>";
     echo "<td>" . $row['lowest'] . "</td>";
-    //echo "<td>" . '<a href="'.$link_address.'">REMOVE</a>' . "</td>"; 
     echo "</tr>";
   }
   echo "</table>";
@@ -88,10 +87,13 @@ echo "Please Enter your Card Information:";
 
 ?>
 <form method=POST>
-  <input type=varchar(16) name="card" placeholder="Card Number">
-  <input type=varchar(4) name="CVC" placeholder="CVC Number">
+  <input type=varchar(16) name="card" class="input-field" placeholder="Card Number">
+  <br>
+  <input type=varchar(4) name="CVC" class="input-field" placeholder="CVC Number">
+  <br>
   <input type=month name="date" placeholder="Expiration Date">  <!--month datatype to get only month/year -->
-  <button type="submit" name="sub">
+  <br>
+  <button type="submit" class="btn-btn-primary" name="sub">
     Submit
   </button>
 </form>
