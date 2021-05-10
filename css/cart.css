@@ -80,7 +80,7 @@ nav ul li button:hover
 table th
 {
 	background: linear-gradient(45deg, #49a09d, #5f2c82);
-  color: white;
+    color: white;
 	font-family: sans-serif;
 }
 
@@ -96,4 +96,19 @@ th, td
 	background-color: rgba(255,255,255,0.5);
 	padding: 25px;
 	border: 2px solid black;
+}
+
+table tr td a
+{
+	text-decoration: none;
+	padding: 10px 10px;
+	border: 1px solid #b1cbbb;
+	background-color: blue;
+	color: #FFF;
+	font-weight: bold;
+}
+
+tr
+{
+	text-align: center;
 }
