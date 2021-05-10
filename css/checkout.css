@@ -131,3 +131,8 @@ th, td
   color: white;
   font-weight: bold;
 }
+
+tr
+{
+  text-align: center;
+}
