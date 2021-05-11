@@ -23,17 +23,18 @@ session_start();
   
 <?php
 
-date_default_timezone_set('America/New_York');
+date_default_timezone_set('America/New_York'); //sets our timezone
 
 include "database_login_info.php";
-//$mysqli->close();
+
 $mysqli = new mysqli($host, $username, $user_pass, $database_in_use);
-$name = $_SESSION['username'];
+$name = $_SESSION['username']; //gets the current user's username
 
 $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) join Cart on game.gameID=Cart.gameID WHERE username='" .$name."';";
 $result = $mysqli->query($sql);
   
 ?>
+<!-- creates our table -->
 <table border='1' class = "keywordTable">
 <tr>
 <th>gameID</th>
@@ -69,10 +70,10 @@ $price_total = "SELECT SUM(sample.price) FROM sample join game using (name,Store
 $result_price = $mysqli->query($price_total);
 if($result_price->num_rows >0){
   while($row = $result_price->fetch_assoc()){
-    echo "Total Cost: $" . $row['SUM(sample.price)'] . "<br>";
-    $tax = $row['SUM(sample.price)'] * .075;
-    echo "Tax: $" . round($tax,2) . "<br>";
-    $total = $row['SUM(sample.price)'] + $tax;
+    echo "Total Cost: $" . $row['SUM(sample.price)'] . "<br>"; // gets total cost of games
+    $tax = $row['SUM(sample.price)'] * .075; //calculates tax 
+    echo "Tax: $" . round($tax,2) . "<br>"; 
+    $total = $row['SUM(sample.price)'] + $tax; //gets total amount + tax
     echo "Total Cost: $" . round($total,2) . "<br>";
     $Date = date("m/d/Y"); //get today's date
     $num = rand(3,10); //randomly generates a number between 3 and 10
@@ -100,7 +101,8 @@ echo "Please Enter your Card Information:";
 
 
 <?php
-if(isset($_POST['sub'])){
+//checks if submitted info is correct/valid
+if(isset($_POST['sub'])){ 
   $exp_num = $_POST['date'];
   $card_num = $_POST['card'];
   $cvc_num = $_POST['CVC'];
@@ -111,17 +113,17 @@ if(isset($_POST['sub'])){
       $payment_m = $row['payment_method'];
     }
   }
-  if($exp_num < date("Y-m")){
+  if($exp_num < date("Y-m")){ //checks if card is stil Valid today
     header("Location: ../checkout.php?expiredcard");
   }
-  else if (strlen($cvc_num)!=3){
+  else if (strlen($cvc_num)!=3){ //checks length of CVC code 
     header("Location: ../checkout.php?invalidCVC");
   }
-  else if(strlen($card_num)!=16){
-    header("Location: ../checkout.php?invalidCard");
+  else if(strlen($card_num)!=16){ //checks length of card numbers
+    header("Location: ../checkout.php?invalidCard"); 
   }
   else{
-    header("Location: ../confirm.php"); 
+    header("Location: ../confirm.php"); //if all information is correct, sends user to confirmation page
   }
 }
 
