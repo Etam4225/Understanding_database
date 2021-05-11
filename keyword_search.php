@@ -9,7 +9,7 @@
 <div class = "header">  
 		<div class = "inner_header">
 			<div class = "logo_container">
-				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. -->
+				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- Just an image - not clickable -->
 			</div>
       <nav>
         <ul class = "navigation">
@@ -49,6 +49,7 @@ else{
 
 ?>
 
+<!-- Table that contains the results of the search from inferface. -->
 <table border='1' class = "keywordTable">
   <tr>
     <th>GameID</th>

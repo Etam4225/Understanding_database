@@ -97,7 +97,7 @@ if(isset($_POST['back']))
 ?>
 
 <br>
-
+  <!-- form to search for keywords -->
   <form action = "keyword_search.php" >
     Enter the game you are looking for: <br>
     <input type="text" name="keyword" class="input-field"><br>
@@ -112,3 +112,4 @@ if(isset($_POST['back']))
     </select>
     <input type="submit" value="Search!" class="toggle-button">
   </form>
+</html>
