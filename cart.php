@@ -10,11 +10,11 @@
 <div class = "header">  
 		<div class = "inner_header">
 			<div class = "logo_container">
-				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. -->
+				<img src = "images/logo.png" class = "logo" id = "logo_img"> 
 			</div>
 
       <nav>
-			<ul class = "navigation"> <!-- Placeholder header to use on other pages -->
+			<ul class = "navigation">
 				<li><form method=POST><p><button type="submit" name="back">Back</button></p></form></li>
         <li><form method=POST><p><button type="submit" name="out">Checkout</button></p></form></li>
 			</ul>
@@ -27,15 +27,14 @@
 <?php
 session_start();
 include "database_login_info.php";
-//$mysqli->close();
 $mysqli = new mysqli($host, $username, $user_pass, $database_in_use);
-$name = $_SESSION['username'];
+$name = $_SESSION['username']; //gets current user's username
 
 $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) join Cart on game.gameID=Cart.gameID WHERE username='" .$name."';";
 $result = $mysqli->query($sql);
 
 ?>
-
+<!-- create the table -->
 <table border='1' class = "keywordTable">
 <tr>
 <th>gameID</th>
