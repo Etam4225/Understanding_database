@@ -12,6 +12,7 @@
 				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. hover shows cursor -->
 			</div>
 		</div>
+		<!-- Holds the login and sign up forms -->
 		<div class = "FormHolder" id = "loginForm">
 				<div class = "signupForm">
 						<div class = "button-box">
@@ -23,11 +24,10 @@
 							</button>
 						</div>
 						<form class = "input-form" action ="interface.php" id = "register" method=POST>
-							<!-- <img src = "/images/Sample_User_Icon.png"> -->
-							<!--<label for = "name"> <b> Username - </b> </label> -->
 							<input type ="varchar(16)" class = "input-field" name="name" placeholder="Username" required>
+							<!-- Limits the characters for the password to be 5 to 64 characters -->
 							<input type ="password" class = "input-field" name="pass" placeholder="Enter Password" pattern = ".{5,64}" required>
-							<!-- <input type ="varchar(2)" class = "input-field" name="state" placeholder="State" required> -->
+							<!-- Holds the possible states to select -->
 							<select name = "state" class = "states" required>
 								<option value "" disabled selected> Select State </option>
 								<option value="AL">Alabama</option>
@@ -84,7 +84,7 @@
 							</select>
 							<input type ="varchar(64)" class = "input-field" name="city" placeholder="City" required>
 							<input type ="varchar(64)" class = "input-field" name="street" placeholder="Street" required>
-							<!-- <input type ="varchar(16)" class = "input-field" name="payment" placeholder="Payment method" required> -->
+							<!-- Holds possible payment methods -->
 							<select name = "payment" class = "payment-method" required>
 								<option value "" disabled selected> Select Credit Card </option>
 								<option value="MasterCard">MasterCard</option>
@@ -96,6 +96,7 @@
 							Sign up
 						  </button>
 						</form>
+						<!-- login form to login and enter the other php pages -->
 						<div class = "loginForm">
 							<form action= "interface.php" class = "input-form" id = "login" method=POST>
 								<input type ="varchar(16)" class = "input-field" name="login_name" placeholder="Username" required>
