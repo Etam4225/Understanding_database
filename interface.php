@@ -11,12 +11,11 @@ session_start();
 <div class = "header">  
 		<div class = "inner_header">
 			<div class = "logo_container">
-				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. -->
+				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing  -->
 			</div>
 
 			<nav>
-			  <ul class = "navigation"> <!-- Placeholder header to use on other pages -->
-				  <li><a href="#"> About us </a></li>
+			  <ul class = "navigation"> <!--  Header to use on other pages -->
 				  <li>
             <?php
                 include "database_login_info.php";
@@ -50,13 +49,13 @@ session_start();
                 }
               echo "<br>" ;
               $link_address = "../cart.php?rn=$login_word";
-              echo "<td>" . '<a href="'.$link_address.'"> MY CART </a>' . "</td>"; 
+              echo "<td>" . '<a href="'.$link_address.'"> My Cart </a>' . "</td>"; 
             ?>
           </li>
           <li>  
             <form method=POST> <!-- sign out button -->
               <button type="submit" name="back">
-                  SIGN OUT
+                  Sign Out
               </button>
             </form>
           </li>
@@ -69,10 +68,9 @@ session_start();
 
 //checks if the User is login or Signing up
 if($word !='' && $passw !='' && $state !='' && $city !='' && $street !='' && $payment !='' && $login_word=='' && $login_passw==''){
-  $check = "SELECT * FROM Users where name='" . $word . "';";
+  $check = "SELECT * FROM Users where username='" . $word . "';";
   $query_check = $mysqli->query($check);
   if(mysqli_num_rows($query_check)==1){
-    //echo "UserName Or Password already exist. Please Try Again"; //might not include
     header("Location: ../user_login.php?signup=fail");
   }
   else{
@@ -82,14 +80,12 @@ if($word !='' && $passw !='' && $state !='' && $city !='' && $street !='' && $pa
   }
 }
 else if($word=='' && $passw=='' && $login_word !='' && $login_passw !=''){
-  $sql = "SELECT * FROM Users where name ='" . $login_word . "' AND pass='" . $login_passw . "';";
+  $sql = "SELECT * FROM Users where username ='" . $login_word . "' AND pass='" . $login_passw . "';";
   $result = $mysqli->query($sql);
   if(mysqli_num_rows($result)!=1){
     header("Location: ../user_login.php?login=fail");
-    //echo "The User does not Exist" . "<br>";
   }
   else{
-    //header("Location: ../interface.php?login=sucess");
     echo "<br>";
   }
 }
@@ -104,8 +100,8 @@ if(isset($_POST['back']))
 
   <form action = "keyword_search.php" >
     Enter the game you are looking for: <br>
-    <input type="text" name="keyword"><br>
-    <select name="Sorting">
+    <input type="text" name="keyword" class="input-field"><br>
+    <select name="Sorting" class = "sort">
       <option selected disabled> SELECT </option>
       <option value="name"> name </option>
       <option value="Store"> Store </option>
@@ -114,5 +110,5 @@ if(isset($_POST['back']))
       <option value="rating"> Rating </option>
       <option value="price"> Price </option>
     </select>
-    <input type="submit" value="Search!">
+    <input type="submit" value="Search!" class="toggle-button">
   </form>
