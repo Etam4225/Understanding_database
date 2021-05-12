@@ -68,7 +68,7 @@ session_start();
 
 //checks if the User is login or Signing up
 if($word !='' && $passw !='' && $state !='' && $city !='' && $street !='' && $payment !='' && $login_word=='' && $login_passw==''){
-  $check = "SELECT * FROM Users where name='" . $word . "';";
+  $check = "SELECT * FROM Users where username='" . $word . "';";
   $query_check = $mysqli->query($check);
   if(mysqli_num_rows($query_check)==1){
     header("Location: ../user_login.php?signup=fail");
@@ -80,7 +80,7 @@ if($word !='' && $passw !='' && $state !='' && $city !='' && $street !='' && $pa
   }
 }
 else if($word=='' && $passw=='' && $login_word !='' && $login_passw !=''){
-  $sql = "SELECT * FROM Users where name ='" . $login_word . "' AND pass='" . $login_passw . "';";
+  $sql = "SELECT * FROM Users where username ='" . $login_word . "' AND pass='" . $login_passw . "';";
   $result = $mysqli->query($sql);
   if(mysqli_num_rows($result)!=1){
     header("Location: ../user_login.php?login=fail");
@@ -97,7 +97,7 @@ if(isset($_POST['back']))
 ?>
 
 <br>
-  <!-- form to search for keywords -->
+
   <form action = "keyword_search.php" >
     Enter the game you are looking for: <br>
     <input type="text" name="keyword" class="input-field"><br>
@@ -112,4 +112,3 @@ if(isset($_POST['back']))
     </select>
     <input type="submit" value="Search!" class="toggle-button">
   </form>
-</html>
