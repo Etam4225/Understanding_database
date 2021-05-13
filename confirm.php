@@ -74,7 +74,7 @@ if(isset($_POST['back'])){
   if($result_d->num_rows > 0){
     while($row = $result_d->fetch_assoc()){
       $reduce = $row['avail_copies'] - 1 ;
-      $repeat = "UPDATE sample SET avail_copies ='" . $reduce. "' WHERE name = '" .$row['name'] . "' AND Store = '" .$row['Store'] . "';";
+      $repeat = "UPDATE sample SET avail_copies ='" . $reduce. "' WHERE name = '" .$row['name'] . "' AND Store = '" .$row['Store'] . "' AND copy='Physical';";
       $perform = $mysqli->query($repeat);
     }
   }
