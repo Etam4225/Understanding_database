@@ -1,1501 +1,1500 @@
-"name","Store","copy","Console","rating","price","avail_copies","lowest"
-"Dark Souls","Walmart","Physical","XBox",3,31,2139,7
-"Dark Souls","Walmart","Digital","PC",1,14,10000,8
-"Dark Souls","Amazon","Physical","PS4",3,58,8344,11
-"Dark Souls","Amazon","Digital","XBox",5,40,10000,19
-"Dark Souls","Steam","Digital","PC",4,72,10000,54
-"Dark Souls","Best Buy","Physical","Switch",2,93,6376,67
-"Dark Souls","Best Buy","Digital","Switch",4,89,10000,64
-"Dark Souls","Target","Physical","PS4",3,94,4839,82
-"Dark Souls","Target","Digital","PS4",1,91,10000,61
-"Dark Souls","GameStop","Physical","PS5",4,70,1922,11
-"Dark Souls","GameStop","Digital","XBox",3,27,10000,17
-"Dark Souls","Epic Games","Digital","PC",1,45,10000,31
-"Dark Souls","Humble Bundle","Digital","PC",4,82,10000,66
-"Dark Souls","GOG","Digital","PC",5,63,10000,12
-"Dark Souls","eStarland","Physical","PS4",5,41,7427,28
-"Returnal","Walmart","Physical","PS5",4,43,9490,7
-"Returnal","Walmart","Digital","PS5",2,64,10000,7
-"Returnal","Amazon","Physical","PS5",4,88,1262,43
-"Returnal","Amazon","Digital","PS5",5,54,10000,48
-"Returnal","Steam","Digital","PS5",3,63,10000,25
-"Returnal","Best Buy","Physical","PS5",5,82,5054,75
-"Returnal","Best Buy","Digital","PS5",3,93,10000,53
-"Returnal","Target","Physical","PS5",3,33,3425,17
-"Returnal","Target","Digital","PS5",4,78,10000,60
-"Returnal","GameStop","Physical","PS5",3,71,6152,26
-"Returnal","GameStop","Digital","PS5",1,29,10000,8
-"Returnal","Epic Games","Digital","PS5",5,100,10000,19
-"Returnal","Humble Bundle","Digital","PS5",2,42,10000,36
-"Returnal","GOG","Digital","PS5",5,62,10000,42
-"Returnal","eStarland","Physical","PS5",1,20,5374,13
-"Skyrim","Walmart","Physical","PS4",5,10,8851,5
-"Skyrim","Walmart","Digital","PC",2,82,10000,43
-"Skyrim","Amazon","Physical","Switch",5,70,1826,29
-"Skyrim","Amazon","Digital","Switch",2,61,10000,11
-"Skyrim","Steam","Digital","PC",2,37,10000,36
-"Skyrim","Best Buy","Physical","PC",1,48,8385,6
-"Skyrim","Best Buy","Digital","PS5",4,67,10000,55
-"Skyrim","Target","Physical","Switch",2,19,5668,10
-"Skyrim","Target","Digital","PS4",4,45,10000,32
-"Skyrim","GameStop","Physical","PS5",1,91,9399,13
-"Skyrim","GameStop","Digital","Switch",5,70,10000,60
-"Skyrim","Epic Games","Digital","PC",5,89,10000,87
-"Skyrim","Humble Bundle","Digital","PC",4,26,10000,23
-"Skyrim","GOG","Digital","PC",1,14,10000,10
-"Skyrim","eStarland","Physical","PS4",1,36,3191,22
-"Dark Souls 2","Walmart","Physical","Switch",5,21,5532,19
-"Dark Souls 2","Walmart","Digital","PS5",3,28,10000,5
-"Dark Souls 2","Amazon","Physical","PS4",2,42,1451,20
-"Dark Souls 2","Amazon","Digital","XBox",1,95,10000,12
-"Dark Souls 2","Steam","Digital","PC",4,24,10000,18
-"Dark Souls 2","Best Buy","Physical","PC",4,96,3229,85
-"Dark Souls 2","Best Buy","Digital","XBox",4,73,10000,47
-"Dark Souls 2","Target","Physical","PC",1,64,7467,58
-"Dark Souls 2","Target","Digital","PC",3,16,10000,13
-"Dark Souls 2","GameStop","Physical","PS4",1,52,3145,40
-"Dark Souls 2","GameStop","Digital","Switch",4,49,10000,22
-"Dark Souls 2","Epic Games","Digital","PC",5,56,10000,34
-"Dark Souls 2","Humble Bundle","Digital","PC",5,68,10000,63
-"Dark Souls 2","GOG","Digital","PC",2,56,10000,26
-"Dark Souls 2","eStarland","Physical","Switch",3,38,2346,29
-"Dark Souls 3","Walmart","Physical","PC",2,65,1095,62
-"Dark Souls 3","Walmart","Digital","PS4",5,65,10000,50
-"Dark Souls 3","Amazon","Physical","PC",1,14,5147,7
-"Dark Souls 3","Amazon","Digital","Switch",4,79,10000,47
-"Dark Souls 3","Steam","Digital","PC",1,62,10000,50
-"Dark Souls 3","Best Buy","Physical","PS4",5,46,9429,34
-"Dark Souls 3","Best Buy","Digital","PS5",1,49,10000,35
-"Dark Souls 3","Target","Physical","PS5",1,28,5194,9
-"Dark Souls 3","Target","Digital","PS4",5,24,10000,9
-"Dark Souls 3","GameStop","Physical","PS4",1,91,8115,76
-"Dark Souls 3","GameStop","Digital","PC",5,56,10000,52
-"Dark Souls 3","Epic Games","Digital","PC",3,96,10000,45
-"Dark Souls 3","Humble Bundle","Digital","PC",4,64,10000,19
-"Dark Souls 3","GOG","Digital","PC",4,98,10000,44
-"Dark Souls 3","eStarland","Physical","PC",1,98,7512,32
-"Grand Theft Auto IV","Walmart","Physical","PC",2,26,276,25
-"Grand Theft Auto IV","Walmart","Digital","PS4",1,57,10000,44
-"Grand Theft Auto IV","Amazon","Physical","XBox",5,92,5450,65
-"Grand Theft Auto IV","Amazon","Digital","PC",2,29,10000,11
-"Grand Theft Auto IV","Steam","Digital","PC",3,48,10000,42
-"Grand Theft Auto IV","Best Buy","Physical","Switch",4,29,1191,6
-"Grand Theft Auto IV","Best Buy","Digital","XBox",4,76,10000,23
-"Grand Theft Auto IV","Target","Physical","XBox",3,73,2358,42
-"Grand Theft Auto IV","Target","Digital","PC",3,93,10000,55
-"Grand Theft Auto IV","GameStop","Physical","PS5",2,33,8036,16
-"Grand Theft Auto IV","GameStop","Digital","PS4",4,92,10000,63
-"Grand Theft Auto IV","Epic Games","Digital","PC",4,42,10000,13
-"Grand Theft Auto IV","Humble Bundle","Digital","PC",1,58,10000,45
-"Grand Theft Auto IV","GOG","Digital","PC",2,54,10000,12
-"Grand Theft Auto IV","eStarland","Physical","PS5",5,65,8345,20
-"Grand Theft Auto V","Walmart","Physical","XBox",3,71,4517,11
-"Grand Theft Auto V","Walmart","Digital","XBox",3,10,10000,8
-"Grand Theft Auto V","Amazon","Physical","Switch",4,29,1712,23
-"Grand Theft Auto V","Amazon","Digital","PC",2,69,10000,56
-"Grand Theft Auto V","Steam","Digital","PC",1,79,10000,32
-"Grand Theft Auto V","Best Buy","Physical","PC",2,100,6510,83
-"Grand Theft Auto V","Best Buy","Digital","PS5",2,22,10000,22
-"Grand Theft Auto V","Target","Physical","PS4",2,85,6707,51
-"Grand Theft Auto V","Target","Digital","PS4",3,40,10000,23
-"Grand Theft Auto V","GameStop","Physical","PC",2,85,2197,36
-"Grand Theft Auto V","GameStop","Digital","Switch",4,60,10000,54
-"Grand Theft Auto V","Epic Games","Digital","PC",1,18,10000,11
-"Grand Theft Auto V","Humble Bundle","Digital","PC",1,74,10000,60
-"Grand Theft Auto V","GOG","Digital","PC",1,53,10000,52
-"Grand Theft Auto V","eStarland","Physical","Switch",2,74,7304,34
-"Sekiro: Shadows Dies Twice","Walmart","Physical","XBox",4,92,1465,18
-"Sekiro: Shadows Dies Twice","Walmart","Digital","PC",2,46,10000,14
-"Sekiro: Shadows Dies Twice","Amazon","Physical","Switch",2,42,7203,13
-"Sekiro: Shadows Dies Twice","Amazon","Digital","XBox",4,82,10000,15
-"Sekiro: Shadows Dies Twice","Steam","Digital","PC",4,38,10000,25
-"Sekiro: Shadows Dies Twice","Best Buy","Physical","XBox",5,24,3737,6
-"Sekiro: Shadows Dies Twice","Best Buy","Digital","XBox",2,22,10000,14
-"Sekiro: Shadows Dies Twice","Target","Physical","PS4",2,76,9243,19
-"Sekiro: Shadows Dies Twice","Target","Digital","PS5",2,48,10000,42
-"Sekiro: Shadows Dies Twice","GameStop","Physical","PC",3,66,2009,47
-"Sekiro: Shadows Dies Twice","GameStop","Digital","Switch",4,76,10000,26
-"Sekiro: Shadows Dies Twice","Epic Games","Digital","PC",4,14,10000,9
-"Sekiro: Shadows Dies Twice","Humble Bundle","Digital","PC",3,52,10000,40
-"Sekiro: Shadows Dies Twice","GOG","Digital","PC",1,77,10000,66
-"Sekiro: Shadows Dies Twice","eStarland","Physical","XBox",4,45,8424,35
-"Red Dead Redemption","Walmart","Physical","PS4",5,73,153,35
-"Red Dead Redemption","Walmart","Digital","Switch",5,77,10000,50
-"Red Dead Redemption","Amazon","Physical","PS4",5,89,882,49
-"Red Dead Redemption","Amazon","Digital","Switch",1,42,10000,32
-"Red Dead Redemption","Steam","Digital","PC",5,75,10000,26
-"Red Dead Redemption","Best Buy","Physical","PS4",1,91,101,71
-"Red Dead Redemption","Best Buy","Digital","Switch",4,65,10000,19
-"Red Dead Redemption","Target","Physical","PC",2,87,7395,19
-"Red Dead Redemption","Target","Digital","PC",4,99,10000,40
-"Red Dead Redemption","GameStop","Physical","PS4",3,66,6367,58
-"Red Dead Redemption","GameStop","Digital","XBox",5,54,10000,25
-"Red Dead Redemption","Epic Games","Digital","PC",5,73,10000,45
-"Red Dead Redemption","Humble Bundle","Digital","PC",4,54,10000,13
-"Red Dead Redemption","GOG","Digital","PC",1,42,10000,27
-"Red Dead Redemption","eStarland","Physical","PS5",5,18,8882,14
-"Red Dead Redemption 2","Walmart","Physical","Switch",2,29,449,22
-"Red Dead Redemption 2","Walmart","Digital","XBox",2,55,10000,51
-"Red Dead Redemption 2","Amazon","Physical","PS5",3,75,4214,44
-"Red Dead Redemption 2","Amazon","Digital","Switch",2,83,10000,50
-"Red Dead Redemption 2","Steam","Digital","PC",5,89,10000,10
-"Red Dead Redemption 2","Best Buy","Physical","Switch",1,45,2165,18
-"Red Dead Redemption 2","Best Buy","Digital","PS5",2,69,10000,68
-"Red Dead Redemption 2","Target","Physical","PC",4,86,5057,7
-"Red Dead Redemption 2","Target","Digital","PS5",1,47,10000,7
-"Red Dead Redemption 2","GameStop","Physical","PC",2,31,9370,19
-"Red Dead Redemption 2","GameStop","Digital","PS4",1,18,10000,17
-"Red Dead Redemption 2","Epic Games","Digital","PC",2,64,10000,21
-"Red Dead Redemption 2","Humble Bundle","Digital","PC",3,72,10000,41
-"Red Dead Redemption 2","GOG","Digital","PC",2,10,10000,6
-"Red Dead Redemption 2","eStarland","Physical","Switch",1,24,6550,8
-"Little Nightmares","Walmart","Physical","XBox",1,48,6146,24
-"Little Nightmares","Walmart","Digital","Switch",3,32,10000,10
-"Little Nightmares","Amazon","Physical","Switch",2,19,7182,9
-"Little Nightmares","Amazon","Digital","PS4",2,63,10000,25
-"Little Nightmares","Steam","Digital","PC",2,55,10000,46
-"Little Nightmares","Best Buy","Physical","PS4",2,79,8430,29
-"Little Nightmares","Best Buy","Digital","PS5",2,89,10000,27
-"Little Nightmares","Target","Physical","XBox",2,80,4058,21
-"Little Nightmares","Target","Digital","PS5",2,68,10000,23
-"Little Nightmares","GameStop","Physical","Switch",5,11,5676,9
-"Little Nightmares","GameStop","Digital","PC",1,94,10000,57
-"Little Nightmares","Epic Games","Digital","PC",1,86,10000,75
-"Little Nightmares","Humble Bundle","Digital","PC",4,35,10000,10
-"Little Nightmares","GOG","Digital","PC",3,77,10000,40
-"Little Nightmares","eStarland","Physical","Switch",1,49,7418,16
-"Little Nightmares 2","Walmart","Physical","PS4",1,18,1333,6
-"Little Nightmares 2","Walmart","Digital","PS5",3,23,10000,17
-"Little Nightmares 2","Amazon","Physical","PS5",2,13,1493,5
-"Little Nightmares 2","Amazon","Digital","PC",1,93,10000,39
-"Little Nightmares 2","Steam","Digital","PC",1,80,10000,5
-"Little Nightmares 2","Best Buy","Physical","Switch",2,10,8067,9
-"Little Nightmares 2","Best Buy","Digital","PC",2,84,10000,6
-"Little Nightmares 2","Target","Physical","PS5",3,90,2978,7
-"Little Nightmares 2","Target","Digital","PS5",2,92,10000,13
-"Little Nightmares 2","GameStop","Physical","XBox",3,51,9027,49
-"Little Nightmares 2","GameStop","Digital","Switch",3,64,10000,49
-"Little Nightmares 2","Epic Games","Digital","PC",1,66,10000,39
-"Little Nightmares 2","Humble Bundle","Digital","PC",4,37,10000,17
-"Little Nightmares 2","GOG","Digital","PC",5,62,10000,48
-"Little Nightmares 2","eStarland","Physical","PC",2,64,1579,55
-"Celeste","Walmart","Physical","Switch",4,87,3507,17
-"Celeste","Walmart","Digital","PS5",2,12,10000,8
-"Celeste","Amazon","Physical","PS5",2,73,7757,10
-"Celeste","Amazon","Digital","PS5",3,37,10000,11
-"Celeste","Steam","Digital","PC",1,76,10000,59
-"Celeste","Best Buy","Physical","PS5",4,99,4540,92
-"Celeste","Best Buy","Digital","PS4",4,48,10000,19
-"Celeste","Target","Physical","PS4",3,81,7911,50
-"Celeste","Target","Digital","PS4",3,78,10000,31
-"Celeste","GameStop","Physical","Switch",1,84,9286,74
-"Celeste","GameStop","Digital","XBox",1,25,10000,11
-"Celeste","Epic Games","Digital","PC",4,54,10000,14
-"Celeste","Humble Bundle","Digital","PC",4,76,10000,41
-"Celeste","GOG","Digital","PC",1,30,10000,29
-"Celeste","eStarland","Physical","PS5",2,36,6560,20
-"NieR: Automata","Walmart","Physical","PS5",1,78,9226,22
-"NieR: Automata","Walmart","Digital","Switch",4,27,10000,18
-"NieR: Automata","Amazon","Physical","Switch",4,43,4923,16
-"NieR: Automata","Amazon","Digital","Switch",3,40,10000,35
-"NieR: Automata","Steam","Digital","PC",2,49,10000,33
-"NieR: Automata","Best Buy","Physical","PC",4,53,1157,53
-"NieR: Automata","Best Buy","Digital","PC",1,61,10000,43
-"NieR: Automata","Target","Physical","Switch",2,27,2222,23
-"NieR: Automata","Target","Digital","PS5",2,54,10000,36
-"NieR: Automata","GameStop","Physical","XBox",5,40,4943,12
-"NieR: Automata","GameStop","Digital","Switch",4,72,10000,60
-"NieR: Automata","Epic Games","Digital","PC",4,78,10000,16
-"NieR: Automata","Humble Bundle","Digital","PC",2,67,10000,7
-"NieR: Automata","GOG","Digital","PC",4,92,10000,70
-"NieR: Automata","eStarland","Physical","PC",2,29,3723,18
-"Monster Hunter World","Walmart","Physical","PC",3,51,4332,49
-"Monster Hunter World","Walmart","Digital","PC",4,17,10000,12
-"Monster Hunter World","Amazon","Physical","PS5",4,72,1088,26
-"Monster Hunter World","Amazon","Digital","PS5",2,83,10000,80
-"Monster Hunter World","Steam","Digital","PC",4,14,10000,10
-"Monster Hunter World","Best Buy","Physical","Switch",3,90,5039,60
-"Monster Hunter World","Best Buy","Digital","PC",5,96,10000,68
-"Monster Hunter World","Target","Physical","PS5",5,38,5607,25
-"Monster Hunter World","Target","Digital","PS5",3,29,10000,9
-"Monster Hunter World","GameStop","Physical","PS5",1,81,5858,36
-"Monster Hunter World","GameStop","Digital","XBox",1,18,10000,9
-"Monster Hunter World","Epic Games","Digital","PC",4,14,10000,7
-"Monster Hunter World","Humble Bundle","Digital","PC",1,67,10000,35
-"Monster Hunter World","GOG","Digital","PC",1,96,10000,95
-"Monster Hunter World","eStarland","Physical","PC",3,43,9893,16
-"Yakuza 0","Walmart","Physical","Switch",5,35,6598,15
-"Yakuza 0","Walmart","Digital","XBox",4,63,10000,61
-"Yakuza 0","Amazon","Physical","PS4",1,71,8544,28
-"Yakuza 0","Amazon","Digital","PC",5,57,10000,14
-"Yakuza 0","Steam","Digital","PC",4,17,10000,13
-"Yakuza 0","Best Buy","Physical","XBox",2,71,6611,68
-"Yakuza 0","Best Buy","Digital","Switch",3,16,10000,9
-"Yakuza 0","Target","Physical","Switch",5,15,4390,9
-"Yakuza 0","Target","Digital","PS5",5,60,10000,12
-"Yakuza 0","GameStop","Physical","XBox",5,57,4482,36
-"Yakuza 0","GameStop","Digital","PS5",5,69,10000,47
-"Yakuza 0","Epic Games","Digital","PC",2,80,10000,30
-"Yakuza 0","Humble Bundle","Digital","PC",5,43,10000,14
-"Yakuza 0","GOG","Digital","PC",5,59,10000,12
-"Yakuza 0","eStarland","Physical","PS5",5,80,7299,46
-"Yakuza Kiwami","Walmart","Physical","PC",5,38,887,36
-"Yakuza Kiwami","Walmart","Digital","XBox",4,24,10000,10
-"Yakuza Kiwami","Amazon","Physical","PS4",1,83,6617,20
-"Yakuza Kiwami","Amazon","Digital","Switch",5,96,10000,23
-"Yakuza Kiwami","Steam","Digital","PC",2,17,10000,16
-"Yakuza Kiwami","Best Buy","Physical","PS5",2,60,8437,19
-"Yakuza Kiwami","Best Buy","Digital","Switch",1,43,10000,23
-"Yakuza Kiwami","Target","Physical","Switch",3,11,9204,7
-"Yakuza Kiwami","Target","Digital","PS4",1,84,10000,71
-"Yakuza Kiwami","GameStop","Physical","PS4",4,41,5096,6
-"Yakuza Kiwami","GameStop","Digital","XBox",3,81,10000,62
-"Yakuza Kiwami","Epic Games","Digital","PC",2,70,10000,56
-"Yakuza Kiwami","Humble Bundle","Digital","PC",5,47,10000,43
-"Yakuza Kiwami","GOG","Digital","PC",2,67,10000,10
-"Yakuza Kiwami","eStarland","Physical","PS4",3,79,2718,62
-"Yakuza Kiwami 2","Walmart","Physical","PS4",3,10,1265,10
-"Yakuza Kiwami 2","Walmart","Digital","PS5",4,52,10000,32
-"Yakuza Kiwami 2","Amazon","Physical","PS4",3,85,597,30
-"Yakuza Kiwami 2","Amazon","Digital","XBox",5,27,10000,8
-"Yakuza Kiwami 2","Steam","Digital","PC",2,18,10000,12
-"Yakuza Kiwami 2","Best Buy","Physical","PC",1,85,7914,49
-"Yakuza Kiwami 2","Best Buy","Digital","Switch",4,100,10000,15
-"Yakuza Kiwami 2","Target","Physical","PS5",2,32,9861,16
-"Yakuza Kiwami 2","Target","Digital","PS5",5,74,10000,34
-"Yakuza Kiwami 2","GameStop","Physical","PS4",2,59,2780,22
-"Yakuza Kiwami 2","GameStop","Digital","PS5",2,24,10000,5
-"Yakuza Kiwami 2","Epic Games","Digital","PC",4,90,10000,22
-"Yakuza Kiwami 2","Humble Bundle","Digital","PC",5,15,10000,8
-"Yakuza Kiwami 2","GOG","Digital","PC",5,44,10000,7
-"Yakuza Kiwami 2","eStarland","Physical","PS5",3,81,9771,21
-"Yakuza 6: The Song of Life","Walmart","Physical","Switch",1,42,6370,26
-"Yakuza 6: The Song of Life","Walmart","Digital","PS4",2,38,10000,22
-"Yakuza 6: The Song of Life","Amazon","Physical","XBox",4,36,2661,22
-"Yakuza 6: The Song of Life","Amazon","Digital","PS4",3,97,10000,44
-"Yakuza 6: The Song of Life","Steam","Digital","PC",5,75,10000,56
-"Yakuza 6: The Song of Life","Best Buy","Physical","Switch",1,26,2321,19
-"Yakuza 6: The Song of Life","Best Buy","Digital","Switch",4,61,10000,24
-"Yakuza 6: The Song of Life","Target","Physical","PS5",5,57,2891,44
-"Yakuza 6: The Song of Life","Target","Digital","PC",4,60,10000,47
-"Yakuza 6: The Song of Life","GameStop","Physical","PC",1,30,8813,9
-"Yakuza 6: The Song of Life","GameStop","Digital","PS5",5,46,10000,38
-"Yakuza 6: The Song of Life","Epic Games","Digital","PC",3,79,10000,14
-"Yakuza 6: The Song of Life","Humble Bundle","Digital","PC",5,82,10000,15
-"Yakuza 6: The Song of Life","GOG","Digital","PC",3,13,10000,7
-"Yakuza 6: The Song of Life","eStarland","Physical","Switch",1,48,456,40
-"Yakuza: Like a Dragon","Walmart","Physical","PC",1,40,812,6
-"Yakuza: Like a Dragon","Walmart","Digital","Switch",3,96,10000,12
-"Yakuza: Like a Dragon","Amazon","Physical","PC",3,53,959,26
-"Yakuza: Like a Dragon","Amazon","Digital","PC",4,23,10000,13
-"Yakuza: Like a Dragon","Steam","Digital","PC",4,47,10000,29
-"Yakuza: Like a Dragon","Best Buy","Physical","XBox",4,36,7100,27
-"Yakuza: Like a Dragon","Best Buy","Digital","XBox",1,94,10000,70
-"Yakuza: Like a Dragon","Target","Physical","PS4",1,61,5265,57
-"Yakuza: Like a Dragon","Target","Digital","PS5",4,46,10000,27
-"Yakuza: Like a Dragon","GameStop","Physical","PS4",5,39,5258,39
-"Yakuza: Like a Dragon","GameStop","Digital","PS4",3,13,10000,13
-"Yakuza: Like a Dragon","Epic Games","Digital","PC",3,74,10000,6
-"Yakuza: Like a Dragon","Humble Bundle","Digital","PC",2,34,10000,5
-"Yakuza: Like a Dragon","GOG","Digital","PC",4,56,10000,16
-"Yakuza: Like a Dragon","eStarland","Physical","XBox",4,96,2552,43
-"Demon's Souls (2020)","Walmart","Physical","PS5",3,100,6482,23
-"Demon's Souls (2020)","Walmart","Digital","PS5",4,14,10000,5
-"Demon's Souls (2020)","Amazon","Physical","PS5",3,70,6264,70
-"Demon's Souls (2020)","Amazon","Digital","PS5",2,78,10000,46
-"Demon's Souls (2020)","Steam","Digital","PS5",5,84,10000,73
-"Demon's Souls (2020)","Best Buy","Physical","PS5",3,23,4339,6
-"Demon's Souls (2020)","Best Buy","Digital","PS5",4,71,10000,44
-"Demon's Souls (2020)","Target","Physical","PS5",4,88,5603,40
-"Demon's Souls (2020)","Target","Digital","PS5",1,30,10000,14
-"Demon's Souls (2020)","GameStop","Physical","PS5",4,29,3071,13
-"Demon's Souls (2020)","GameStop","Digital","PS5",5,27,10000,11
-"Demon's Souls (2020)","Epic Games","Digital","PS5",1,42,10000,29
-"Demon's Souls (2020)","Humble Bundle","Digital","PS5",5,97,10000,77
-"Demon's Souls (2020)","GOG","Digital","PS5",3,87,10000,34
-"Demon's Souls (2020)","eStarland","Physical","PS5",4,89,3726,70
-"Mortal Kombat 11","Walmart","Physical","Switch",5,72,5431,61
-"Mortal Kombat 11","Walmart","Digital","PS4",3,72,10000,15
-"Mortal Kombat 11","Amazon","Physical","PS4",4,88,6567,7
-"Mortal Kombat 11","Amazon","Digital","PS5",4,97,10000,54
-"Mortal Kombat 11","Steam","Digital","PC",3,10,10000,7
-"Mortal Kombat 11","Best Buy","Physical","PS5",4,65,6294,30
-"Mortal Kombat 11","Best Buy","Digital","PS5",5,87,10000,44
-"Mortal Kombat 11","Target","Physical","Switch",4,19,8121,7
-"Mortal Kombat 11","Target","Digital","PC",5,41,10000,23
-"Mortal Kombat 11","GameStop","Physical","PS4",3,52,8737,49
-"Mortal Kombat 11","GameStop","Digital","PC",2,42,10000,31
-"Mortal Kombat 11","Epic Games","Digital","PC",1,62,10000,39
-"Mortal Kombat 11","Humble Bundle","Digital","PC",1,67,10000,44
-"Mortal Kombat 11","GOG","Digital","PC",2,31,10000,5
-"Mortal Kombat 11","eStarland","Physical","PS4",3,29,5366,10
-"Streets of Rage 4","Walmart","Physical","XBox",1,65,7031,9
-"Streets of Rage 4","Walmart","Digital","Switch",5,48,10000,31
-"Streets of Rage 4","Amazon","Physical","PS4",5,86,8390,27
-"Streets of Rage 4","Amazon","Digital","PC",5,95,10000,8
-"Streets of Rage 4","Steam","Digital","PC",5,87,10000,85
-"Streets of Rage 4","Best Buy","Physical","XBox",2,58,7080,7
-"Streets of Rage 4","Best Buy","Digital","PS4",3,77,10000,35
-"Streets of Rage 4","Target","Physical","XBox",2,23,398,22
-"Streets of Rage 4","Target","Digital","PC",2,17,10000,5
-"Streets of Rage 4","GameStop","Physical","PS4",1,50,5146,31
-"Streets of Rage 4","GameStop","Digital","Switch",2,51,10000,34
-"Streets of Rage 4","Epic Games","Digital","PC",3,31,10000,12
-"Streets of Rage 4","Humble Bundle","Digital","PC",1,16,10000,16
-"Streets of Rage 4","GOG","Digital","PC",3,36,10000,18
-"Streets of Rage 4","eStarland","Physical","PC",4,22,9100,5
-"Mortal Kombat X","Walmart","Physical","PS5",1,56,9894,53
-"Mortal Kombat X","Walmart","Digital","Switch",5,49,10000,7
-"Mortal Kombat X","Amazon","Physical","PC",1,45,5441,38
-"Mortal Kombat X","Amazon","Digital","PC",5,41,10000,30
-"Mortal Kombat X","Steam","Digital","PC",3,92,10000,12
-"Mortal Kombat X","Best Buy","Physical","PC",4,78,7844,77
-"Mortal Kombat X","Best Buy","Digital","PC",3,61,10000,23
-"Mortal Kombat X","Target","Physical","PC",3,15,2966,7
-"Mortal Kombat X","Target","Digital","PS4",5,77,10000,59
-"Mortal Kombat X","GameStop","Physical","XBox",3,30,1884,18
-"Mortal Kombat X","GameStop","Digital","PS5",3,89,10000,51
-"Mortal Kombat X","Epic Games","Digital","PC",3,10,10000,10
-"Mortal Kombat X","Humble Bundle","Digital","PC",1,94,10000,30
-"Mortal Kombat X","GOG","Digital","PC",3,65,10000,38
-"Mortal Kombat X","eStarland","Physical","XBox",5,68,7166,32
-"Tekken 7","Walmart","Physical","Switch",1,22,2451,5
-"Tekken 7","Walmart","Digital","Switch",1,29,10000,23
-"Tekken 7","Amazon","Physical","PS4",2,60,7127,34
-"Tekken 7","Amazon","Digital","Switch",1,94,10000,22
-"Tekken 7","Steam","Digital","PC",1,53,10000,41
-"Tekken 7","Best Buy","Physical","PC",5,99,5382,29
-"Tekken 7","Best Buy","Digital","Switch",4,64,10000,50
-"Tekken 7","Target","Physical","PC",4,58,987,30
-"Tekken 7","Target","Digital","PS5",1,98,10000,22
-"Tekken 7","GameStop","Physical","PC",4,67,9459,13
-"Tekken 7","GameStop","Digital","PC",2,87,10000,64
-"Tekken 7","Epic Games","Digital","PC",2,49,10000,17
-"Tekken 7","Humble Bundle","Digital","PC",1,17,10000,14
-"Tekken 7","GOG","Digital","PC",1,48,10000,7
-"Tekken 7","eStarland","Physical","PS4",3,26,6423,14
-"Street Fighter V","Walmart","Physical","PC",2,80,4706,42
-"Street Fighter V","Walmart","Digital","PC",4,22,10000,8
-"Street Fighter V","Amazon","Physical","XBox",5,70,6427,49
-"Street Fighter V","Amazon","Digital","PS5",3,83,10000,80
-"Street Fighter V","Steam","Digital","PC",1,18,10000,12
-"Street Fighter V","Best Buy","Physical","PC",3,14,2393,8
-"Street Fighter V","Best Buy","Digital","PS4",3,77,10000,56
-"Street Fighter V","Target","Physical","XBox",2,92,9300,67
-"Street Fighter V","Target","Digital","PC",4,17,10000,10
-"Street Fighter V","GameStop","Physical","PS4",1,26,8974,14
-"Street Fighter V","GameStop","Digital","PC",2,34,10000,32
-"Street Fighter V","Epic Games","Digital","PC",4,27,10000,17
-"Street Fighter V","Humble Bundle","Digital","PC",4,90,10000,56
-"Street Fighter V","GOG","Digital","PC",3,22,10000,12
-"Street Fighter V","eStarland","Physical","XBox",2,31,4682,10
-"Diablo 3","Walmart","Physical","Switch",5,17,4361,14
-"Diablo 3","Walmart","Digital","Switch",4,44,10000,23
-"Diablo 3","Amazon","Physical","PS4",5,30,3831,28
-"Diablo 3","Amazon","Digital","PC",4,93,10000,85
-"Diablo 3","Steam","Digital","PC",4,90,10000,9
-"Diablo 3","Best Buy","Physical","PC",3,57,9752,46
-"Diablo 3","Best Buy","Digital","Switch",4,79,10000,21
-"Diablo 3","Target","Physical","PS5",5,98,3417,18
-"Diablo 3","Target","Digital","Switch",4,60,10000,39
-"Diablo 3","GameStop","Physical","Switch",2,40,4513,13
-"Diablo 3","GameStop","Digital","PC",3,19,10000,11
-"Diablo 3","Epic Games","Digital","PC",5,71,10000,40
-"Diablo 3","Humble Bundle","Digital","PC",5,94,10000,74
-"Diablo 3","GOG","Digital","PC",3,77,10000,74
-"Diablo 3","eStarland","Physical","PS5",3,70,7463,68
-"The Witcher 3: Wild Hunt","Walmart","Physical","XBox",4,43,479,16
-"The Witcher 3: Wild Hunt","Walmart","Digital","PC",4,74,10000,41
-"The Witcher 3: Wild Hunt","Amazon","Physical","PS4",1,11,2062,8
-"The Witcher 3: Wild Hunt","Amazon","Digital","PS5",2,32,10000,15
-"The Witcher 3: Wild Hunt","Steam","Digital","PC",4,59,10000,55
-"The Witcher 3: Wild Hunt","Best Buy","Physical","XBox",4,39,6233,27
-"The Witcher 3: Wild Hunt","Best Buy","Digital","PS4",5,27,10000,14
-"The Witcher 3: Wild Hunt","Target","Physical","XBox",3,69,300,59
-"The Witcher 3: Wild Hunt","Target","Digital","Switch",4,74,10000,26
-"The Witcher 3: Wild Hunt","GameStop","Physical","XBox",5,96,2213,31
-"The Witcher 3: Wild Hunt","GameStop","Digital","PS5",4,45,10000,35
-"The Witcher 3: Wild Hunt","Epic Games","Digital","PC",4,85,10000,31
-"The Witcher 3: Wild Hunt","Humble Bundle","Digital","PC",3,29,10000,7
-"The Witcher 3: Wild Hunt","GOG","Digital","PC",3,36,10000,8
-"The Witcher 3: Wild Hunt","eStarland","Physical","XBox",4,79,7570,62
-"Child of Light","Walmart","Physical","XBox",3,23,5703,20
-"Child of Light","Walmart","Digital","PC",2,100,10000,25
-"Child of Light","Amazon","Physical","PS4",1,51,3032,15
-"Child of Light","Amazon","Digital","PC",5,70,10000,38
-"Child of Light","Steam","Digital","PC",4,26,10000,24
-"Child of Light","Best Buy","Physical","PS4",1,72,8422,30
-"Child of Light","Best Buy","Digital","PS5",1,21,10000,19
-"Child of Light","Target","Physical","XBox",3,59,271,25
-"Child of Light","Target","Digital","Switch",3,28,10000,8
-"Child of Light","GameStop","Physical","PS5",3,47,8045,24
-"Child of Light","GameStop","Digital","PC",3,32,10000,25
-"Child of Light","Epic Games","Digital","PC",5,12,10000,10
-"Child of Light","Humble Bundle","Digital","PC",1,34,10000,15
-"Child of Light","GOG","Digital","PC",4,83,10000,67
-"Child of Light","eStarland","Physical","XBox",1,70,1601,42
-"Shin Megami Tensei: Persona 4","Walmart","Physical","PS5",5,43,3753,33
-"Shin Megami Tensei: Persona 4","Walmart","Digital","PC",2,32,10000,21
-"Shin Megami Tensei: Persona 4","Amazon","Physical","PS5",4,87,1213,49
-"Shin Megami Tensei: Persona 4","Amazon","Digital","PC",3,86,10000,77
-"Shin Megami Tensei: Persona 4","Steam","Digital","PC",4,49,10000,9
-"Shin Megami Tensei: Persona 4","Best Buy","Physical","XBox",4,98,291,79
-"Shin Megami Tensei: Persona 4","Best Buy","Digital","XBox",4,92,10000,88
-"Shin Megami Tensei: Persona 4","Target","Physical","PS5",4,92,9912,26
-"Shin Megami Tensei: Persona 4","Target","Digital","PS5",5,13,10000,10
-"Shin Megami Tensei: Persona 4","GameStop","Physical","XBox",4,61,3154,47
-"Shin Megami Tensei: Persona 4","GameStop","Digital","XBox",2,67,10000,52
-"Shin Megami Tensei: Persona 4","Epic Games","Digital","PC",4,96,10000,59
-"Shin Megami Tensei: Persona 4","Humble Bundle","Digital","PC",2,68,10000,30
-"Shin Megami Tensei: Persona 4","GOG","Digital","PC",2,92,10000,35
-"Shin Megami Tensei: Persona 4","eStarland","Physical","PS4",2,81,8728,42
-"Shin Megami Tensei: Persona 5","Walmart","Physical","Switch",2,92,6300,50
-"Shin Megami Tensei: Persona 5","Walmart","Digital","XBox",3,13,10000,5
-"Shin Megami Tensei: Persona 5","Amazon","Physical","PS5",1,68,7093,67
-"Shin Megami Tensei: Persona 5","Amazon","Digital","PS4",5,69,10000,27
-"Shin Megami Tensei: Persona 5","Steam","Digital","PC",5,26,10000,14
-"Shin Megami Tensei: Persona 5","Best Buy","Physical","XBox",3,40,5894,27
-"Shin Megami Tensei: Persona 5","Best Buy","Digital","PC",5,86,10000,9
-"Shin Megami Tensei: Persona 5","Target","Physical","Switch",4,96,9872,38
-"Shin Megami Tensei: Persona 5","Target","Digital","PS4",5,56,10000,47
-"Shin Megami Tensei: Persona 5","GameStop","Physical","PS4",5,61,4318,33
-"Shin Megami Tensei: Persona 5","GameStop","Digital","XBox",1,66,10000,24
-"Shin Megami Tensei: Persona 5","Epic Games","Digital","PC",3,78,10000,7
-"Shin Megami Tensei: Persona 5","Humble Bundle","Digital","PC",5,93,10000,62
-"Shin Megami Tensei: Persona 5","GOG","Digital","PC",2,92,10000,5
-"Shin Megami Tensei: Persona 5","eStarland","Physical","PC",3,62,7605,34
-"UNO","Walmart","Physical","XBox",4,85,9919,37
-"UNO","Walmart","Digital","Switch",3,77,10000,5
-"UNO","Amazon","Physical","PS4",2,20,7490,10
-"UNO","Amazon","Digital","PS4",2,36,10000,29
-"UNO","Steam","Digital","PC",1,92,10000,35
-"UNO","Best Buy","Physical","PC",4,36,9456,31
-"UNO","Best Buy","Digital","XBox",4,50,10000,46
-"UNO","Target","Physical","PS4",3,49,6929,25
-"UNO","Target","Digital","PS5",1,96,10000,30
-"UNO","GameStop","Physical","Switch",2,83,7232,42
-"UNO","GameStop","Digital","PS5",3,23,10000,5
-"UNO","Epic Games","Digital","PC",3,42,10000,22
-"UNO","Humble Bundle","Digital","PC",2,41,10000,22
-"UNO","GOG","Digital","PC",4,33,10000,6
-"UNO","eStarland","Physical","PS5",2,59,5712,39
-"No Man's Sky","Walmart","Physical","PS4",4,58,5633,8
-"No Man's Sky","Walmart","Digital","XBox",5,29,10000,13
-"No Man's Sky","Amazon","Physical","PS5",4,29,5432,20
-"No Man's Sky","Amazon","Digital","PC",1,56,10000,55
-"No Man's Sky","Steam","Digital","PC",3,54,10000,17
-"No Man's Sky","Best Buy","Physical","XBox",1,61,5032,25
-"No Man's Sky","Best Buy","Digital","PS5",2,54,10000,33
-"No Man's Sky","Target","Physical","PC",1,72,2462,15
-"No Man's Sky","Target","Digital","PS5",4,10,10000,7
-"No Man's Sky","GameStop","Physical","Switch",2,64,3347,29
-"No Man's Sky","GameStop","Digital","PC",2,73,10000,71
-"No Man's Sky","Epic Games","Digital","PC",2,58,10000,10
-"No Man's Sky","Humble Bundle","Digital","PC",2,92,10000,86
-"No Man's Sky","GOG","Digital","PC",2,20,10000,13
-"No Man's Sky","eStarland","Physical","PC",5,51,1361,18
-"Dead By Daylight","Walmart","Physical","PC",1,22,798,20
-"Dead By Daylight","Walmart","Digital","PS4",4,19,10000,9
-"Dead By Daylight","Amazon","Physical","Switch",1,14,5227,12
-"Dead By Daylight","Amazon","Digital","PS5",3,10,10000,6
-"Dead By Daylight","Steam","Digital","PC",5,88,10000,12
-"Dead By Daylight","Best Buy","Physical","Switch",5,74,7984,13
-"Dead By Daylight","Best Buy","Digital","Switch",5,62,10000,35
-"Dead By Daylight","Target","Physical","PS4",1,37,9292,28
-"Dead By Daylight","Target","Digital","PS5",4,76,10000,22
-"Dead By Daylight","GameStop","Physical","PS5",1,18,4542,14
-"Dead By Daylight","GameStop","Digital","XBox",4,15,10000,7
-"Dead By Daylight","Epic Games","Digital","PC",4,64,10000,46
-"Dead By Daylight","Humble Bundle","Digital","PC",4,23,10000,17
-"Dead By Daylight","GOG","Digital","PC",2,65,10000,32
-"Dead By Daylight","eStarland","Physical","PC",5,35,3111,32
-"CyberPunk 2077","Walmart","Physical","XBox",3,72,1900,10
-"CyberPunk 2077","Walmart","Digital","PS5",1,54,10000,26
-"CyberPunk 2077","Amazon","Physical","PC",3,61,883,32
-"CyberPunk 2077","Amazon","Digital","XBox",4,50,10000,46
-"CyberPunk 2077","Steam","Digital","PC",3,13,10000,10
-"CyberPunk 2077","Best Buy","Physical","PC",3,35,5102,11
-"CyberPunk 2077","Best Buy","Digital","XBox",2,78,10000,59
-"CyberPunk 2077","Target","Physical","PC",4,28,1761,11
-"CyberPunk 2077","Target","Digital","XBox",5,26,10000,12
-"CyberPunk 2077","GameStop","Physical","XBox",2,47,1773,5
-"CyberPunk 2077","GameStop","Digital","PS5",4,91,10000,10
-"CyberPunk 2077","Epic Games","Digital","PC",3,68,10000,44
-"CyberPunk 2077","Humble Bundle","Digital","PC",4,46,10000,10
-"CyberPunk 2077","GOG","Digital","PC",2,61,10000,6
-"CyberPunk 2077","eStarland","Physical","PC",4,71,1610,47
-"Super Mega Baseball 2","Walmart","Physical","PS5",3,100,2835,7
-"Super Mega Baseball 2","Walmart","Digital","XBox",2,96,10000,7
-"Super Mega Baseball 2","Amazon","Physical","PS5",2,32,5891,7
-"Super Mega Baseball 2","Amazon","Digital","Switch",1,23,10000,6
-"Super Mega Baseball 2","Steam","Digital","PC",3,56,10000,19
-"Super Mega Baseball 2","Best Buy","Physical","PS4",5,69,9945,66
-"Super Mega Baseball 2","Best Buy","Digital","PS5",2,58,10000,36
-"Super Mega Baseball 2","Target","Physical","PS5",2,99,2978,99
-"Super Mega Baseball 2","Target","Digital","Switch",4,34,10000,31
-"Super Mega Baseball 2","GameStop","Physical","PS5",4,38,8190,32
-"Super Mega Baseball 2","GameStop","Digital","Switch",2,24,10000,6
-"Super Mega Baseball 2","Epic Games","Digital","PC",1,86,10000,86
-"Super Mega Baseball 2","Humble Bundle","Digital","PC",4,91,10000,70
-"Super Mega Baseball 2","GOG","Digital","PC",2,73,10000,32
-"Super Mega Baseball 2","eStarland","Physical","XBox",5,88,7076,79
-"Super Mega Baseball 3","Walmart","Physical","XBox",5,84,9018,14
-"Super Mega Baseball 3","Walmart","Digital","PS4",1,86,10000,46
-"Super Mega Baseball 3","Amazon","Physical","Switch",2,42,504,41
-"Super Mega Baseball 3","Amazon","Digital","PS5",3,81,10000,14
-"Super Mega Baseball 3","Steam","Digital","PC",1,10,10000,10
-"Super Mega Baseball 3","Best Buy","Physical","XBox",3,100,3389,20
-"Super Mega Baseball 3","Best Buy","Digital","PC",5,96,10000,47
-"Super Mega Baseball 3","Target","Physical","PC",3,49,2120,10
-"Super Mega Baseball 3","Target","Digital","Switch",1,28,10000,18
-"Super Mega Baseball 3","GameStop","Physical","Switch",5,25,8521,18
-"Super Mega Baseball 3","GameStop","Digital","PC",5,25,10000,22
-"Super Mega Baseball 3","Epic Games","Digital","PC",1,36,10000,28
-"Super Mega Baseball 3","Humble Bundle","Digital","PC",5,95,10000,66
-"Super Mega Baseball 3","GOG","Digital","PC",5,18,10000,14
-"Super Mega Baseball 3","eStarland","Physical","PC",4,86,6177,30
-"Call of Duty: Modern Warfare","Walmart","Physical","PS4",2,69,5413,53
-"Call of Duty: Modern Warfare","Walmart","Digital","PS5",2,82,10000,36
-"Call of Duty: Modern Warfare","Amazon","Physical","XBox",5,62,411,37
-"Call of Duty: Modern Warfare","Amazon","Digital","XBox",3,41,10000,18
-"Call of Duty: Modern Warfare","Steam","Digital","PC",4,12,10000,12
-"Call of Duty: Modern Warfare","Best Buy","Physical","PC",5,91,9723,70
-"Call of Duty: Modern Warfare","Best Buy","Digital","Switch",5,60,10000,31
-"Call of Duty: Modern Warfare","Target","Physical","Switch",4,46,3848,12
-"Call of Duty: Modern Warfare","Target","Digital","PS5",3,12,10000,12
-"Call of Duty: Modern Warfare","GameStop","Physical","PC",1,53,103,51
-"Call of Duty: Modern Warfare","GameStop","Digital","XBox",5,53,10000,22
-"Call of Duty: Modern Warfare","Epic Games","Digital","PC",5,65,10000,25
-"Call of Duty: Modern Warfare","Humble Bundle","Digital","PC",5,99,10000,76
-"Call of Duty: Modern Warfare","GOG","Digital","PC",2,11,10000,7
-"Call of Duty: Modern Warfare","eStarland","Physical","Switch",4,90,1724,58
-"Call of Duty: Warzone","Walmart","Physical","PS4",3,31,4064,6
-"Call of Duty: Warzone","Walmart","Digital","PC",5,88,10000,59
-"Call of Duty: Warzone","Amazon","Physical","PC",2,90,8136,66
-"Call of Duty: Warzone","Amazon","Digital","XBox",5,77,10000,40
-"Call of Duty: Warzone","Steam","Digital","PC",3,64,10000,52
-"Call of Duty: Warzone","Best Buy","Physical","PS4",4,49,600,35
-"Call of Duty: Warzone","Best Buy","Digital","XBox",4,36,10000,18
-"Call of Duty: Warzone","Target","Physical","XBox",1,99,9092,66
-"Call of Duty: Warzone","Target","Digital","PS4",4,46,10000,43
-"Call of Duty: Warzone","GameStop","Physical","PC",3,79,7211,6
-"Call of Duty: Warzone","GameStop","Digital","Switch",4,65,10000,23
-"Call of Duty: Warzone","Epic Games","Digital","PC",4,77,10000,31
-"Call of Duty: Warzone","Humble Bundle","Digital","PC",1,93,10000,80
-"Call of Duty: Warzone","GOG","Digital","PC",2,43,10000,18
-"Call of Duty: Warzone","eStarland","Physical","XBox",3,28,9452,18
-"Overwatch","Walmart","Physical","Switch",2,99,8441,55
-"Overwatch","Walmart","Digital","PS5",5,25,10000,11
-"Overwatch","Amazon","Physical","PS5",2,30,548,18
-"Overwatch","Amazon","Digital","PC",1,32,10000,26
-"Overwatch","Steam","Digital","PC",4,79,10000,44
-"Overwatch","Best Buy","Physical","PS4",4,69,9527,43
-"Overwatch","Best Buy","Digital","PS4",1,20,10000,7
-"Overwatch","Target","Physical","PS4",2,44,3989,11
-"Overwatch","Target","Digital","PS5",4,55,10000,37
-"Overwatch","GameStop","Physical","XBox",5,47,2846,36
-"Overwatch","GameStop","Digital","PS4",5,18,10000,12
-"Overwatch","Epic Games","Digital","PC",3,51,10000,35
-"Overwatch","Humble Bundle","Digital","PC",1,42,10000,27
-"Overwatch","GOG","Digital","PC",5,24,10000,10
-"Overwatch","eStarland","Physical","XBox",4,85,564,31
-"Assassin's Creed Valhalla","Walmart","Physical","XBox",2,35,1519,24
-"Assassin's Creed Valhalla","Walmart","Digital","XBox",4,51,10000,21
-"Assassin's Creed Valhalla","Amazon","Physical","Switch",1,12,7177,11
-"Assassin's Creed Valhalla","Amazon","Digital","XBox",4,98,10000,56
-"Assassin's Creed Valhalla","Steam","Digital","PC",3,97,10000,22
-"Assassin's Creed Valhalla","Best Buy","Physical","PC",2,73,5602,28
-"Assassin's Creed Valhalla","Best Buy","Digital","PS5",1,49,10000,37
-"Assassin's Creed Valhalla","Target","Physical","PS5",1,52,6283,17
-"Assassin's Creed Valhalla","Target","Digital","XBox",3,67,10000,54
-"Assassin's Creed Valhalla","GameStop","Physical","PC",3,50,6590,33
-"Assassin's Creed Valhalla","GameStop","Digital","XBox",3,94,10000,28
-"Assassin's Creed Valhalla","Epic Games","Digital","PC",5,55,10000,49
-"Assassin's Creed Valhalla","Humble Bundle","Digital","PC",4,54,10000,47
-"Assassin's Creed Valhalla","GOG","Digital","PC",4,39,10000,15
-"Assassin's Creed Valhalla","eStarland","Physical","XBox",3,60,6715,58
-"Borderlands 3","Walmart","Physical","XBox",5,90,1468,48
-"Borderlands 3","Walmart","Digital","PS4",1,71,10000,63
-"Borderlands 3","Amazon","Physical","PS5",5,72,9030,12
-"Borderlands 3","Amazon","Digital","Switch",3,75,10000,34
-"Borderlands 3","Steam","Digital","PC",4,57,10000,17
-"Borderlands 3","Best Buy","Physical","Switch",1,37,755,5
-"Borderlands 3","Best Buy","Digital","PS5",3,76,10000,51
-"Borderlands 3","Target","Physical","PS5",1,83,7392,45
-"Borderlands 3","Target","Digital","PC",1,53,10000,7
-"Borderlands 3","GameStop","Physical","Switch",5,29,3392,8
-"Borderlands 3","GameStop","Digital","XBox",1,32,10000,30
-"Borderlands 3","Epic Games","Digital","PC",3,70,10000,24
-"Borderlands 3","Humble Bundle","Digital","PC",2,73,10000,69
-"Borderlands 3","GOG","Digital","PC",1,83,10000,6
-"Borderlands 3","eStarland","Physical","XBox",3,57,447,42
-"Ultimate Chicken Horse","Walmart","Physical","Switch",2,59,8196,27
-"Ultimate Chicken Horse","Walmart","Digital","Switch",1,23,10000,12
-"Ultimate Chicken Horse","Amazon","Physical","PS4",4,72,5717,63
-"Ultimate Chicken Horse","Amazon","Digital","PC",5,26,10000,23
-"Ultimate Chicken Horse","Steam","Digital","PC",2,55,10000,23
-"Ultimate Chicken Horse","Best Buy","Physical","XBox",3,100,1108,41
-"Ultimate Chicken Horse","Best Buy","Digital","PS5",4,43,10000,40
-"Ultimate Chicken Horse","Target","Physical","XBox",2,76,4728,51
-"Ultimate Chicken Horse","Target","Digital","PS4",1,80,10000,73
-"Ultimate Chicken Horse","GameStop","Physical","Switch",3,89,6554,29
-"Ultimate Chicken Horse","GameStop","Digital","Switch",3,36,10000,11
-"Ultimate Chicken Horse","Epic Games","Digital","PC",5,65,10000,36
-"Ultimate Chicken Horse","Humble Bundle","Digital","PC",2,15,10000,10
-"Ultimate Chicken Horse","GOG","Digital","PC",5,13,10000,11
-"Ultimate Chicken Horse","eStarland","Physical","PS4",5,52,2769,52
-"Darkest Dungeon","Walmart","Physical","PS4",3,49,7546,6
-"Darkest Dungeon","Walmart","Digital","Switch",1,71,10000,5
-"Darkest Dungeon","Amazon","Physical","Switch",4,78,5037,10
-"Darkest Dungeon","Amazon","Digital","XBox",1,22,10000,15
-"Darkest Dungeon","Steam","Digital","PC",2,12,10000,7
-"Darkest Dungeon","Best Buy","Physical","Switch",3,27,2955,26
-"Darkest Dungeon","Best Buy","Digital","XBox",4,39,10000,18
-"Darkest Dungeon","Target","Physical","XBox",3,89,7045,49
-"Darkest Dungeon","Target","Digital","XBox",4,20,10000,11
-"Darkest Dungeon","GameStop","Physical","XBox",1,99,2751,77
-"Darkest Dungeon","GameStop","Digital","PS4",5,10,10000,10
-"Darkest Dungeon","Epic Games","Digital","PC",5,96,10000,29
-"Darkest Dungeon","Humble Bundle","Digital","PC",2,17,10000,6
-"Darkest Dungeon","GOG","Digital","PC",5,74,10000,56
-"Darkest Dungeon","eStarland","Physical","PS4",1,99,3650,69
-"Bloodborne","Walmart","Physical","XBox",2,58,6994,52
-"Bloodborne","Walmart","Digital","XBox",3,34,10000,18
-"Bloodborne","Amazon","Physical","Switch",1,72,8508,21
-"Bloodborne","Amazon","Digital","PS5",5,82,10000,53
-"Bloodborne","Steam","Digital","PC",3,35,10000,29
-"Bloodborne","Best Buy","Physical","PC",5,28,8087,8
-"Bloodborne","Best Buy","Digital","XBox",5,88,10000,56
-"Bloodborne","Target","Physical","PC",1,11,5304,7
-"Bloodborne","Target","Digital","PS4",3,21,10000,21
-"Bloodborne","GameStop","Physical","PS5",5,48,739,22
-"Bloodborne","GameStop","Digital","Switch",2,58,10000,26
-"Bloodborne","Epic Games","Digital","PC",3,59,10000,8
-"Bloodborne","Humble Bundle","Digital","PC",1,61,10000,18
-"Bloodborne","GOG","Digital","PC",1,38,10000,12
-"Bloodborne","eStarland","Physical","Switch",1,84,4867,80
-"Power Rangers: Battle for the Grid","Walmart","Physical","PC",2,70,9286,40
-"Power Rangers: Battle for the Grid","Walmart","Digital","PC",2,32,10000,21
-"Power Rangers: Battle for the Grid","Amazon","Physical","Switch",4,42,5211,17
-"Power Rangers: Battle for the Grid","Amazon","Digital","Switch",2,21,10000,19
-"Power Rangers: Battle for the Grid","Steam","Digital","PC",1,70,10000,51
-"Power Rangers: Battle for the Grid","Best Buy","Physical","PS4",4,30,4331,28
-"Power Rangers: Battle for the Grid","Best Buy","Digital","PS4",3,70,10000,9
-"Power Rangers: Battle for the Grid","Target","Physical","Switch",1,21,6619,5
-"Power Rangers: Battle for the Grid","Target","Digital","PC",5,35,10000,30
-"Power Rangers: Battle for the Grid","GameStop","Physical","XBox",1,49,2170,11
-"Power Rangers: Battle for the Grid","GameStop","Digital","PS5",3,19,10000,14
-"Power Rangers: Battle for the Grid","Epic Games","Digital","PC",5,35,10000,9
-"Power Rangers: Battle for the Grid","Humble Bundle","Digital","PC",4,43,10000,37
-"Power Rangers: Battle for the Grid","GOG","Digital","PC",2,97,10000,74
-"Power Rangers: Battle for the Grid","eStarland","Physical","PS5",4,34,5647,25
-"Need for Speed: Hot Pursuit","Walmart","Physical","Switch",2,70,4940,43
-"Need for Speed: Hot Pursuit","Walmart","Digital","PS5",5,63,10000,10
-"Need for Speed: Hot Pursuit","Amazon","Physical","XBox",1,79,1193,9
-"Need for Speed: Hot Pursuit","Amazon","Digital","PC",2,81,10000,16
-"Need for Speed: Hot Pursuit","Steam","Digital","PC",3,70,10000,40
-"Need for Speed: Hot Pursuit","Best Buy","Physical","PS4",2,75,7116,44
-"Need for Speed: Hot Pursuit","Best Buy","Digital","PS4",4,25,10000,7
-"Need for Speed: Hot Pursuit","Target","Physical","XBox",3,39,1407,27
-"Need for Speed: Hot Pursuit","Target","Digital","XBox",1,98,10000,97
-"Need for Speed: Hot Pursuit","GameStop","Physical","Switch",4,10,3320,6
-"Need for Speed: Hot Pursuit","GameStop","Digital","PS5",5,64,10000,34
-"Need for Speed: Hot Pursuit","Epic Games","Digital","PC",5,99,10000,57
-"Need for Speed: Hot Pursuit","Humble Bundle","Digital","PC",5,100,10000,100
-"Need for Speed: Hot Pursuit","GOG","Digital","PC",1,16,10000,5
-"Need for Speed: Hot Pursuit","eStarland","Physical","XBox",3,21,1125,10
-"Minecraft Dungeons","Walmart","Physical","Switch",4,96,383,30
-"Minecraft Dungeons","Walmart","Digital","PS4",5,79,10000,7
-"Minecraft Dungeons","Amazon","Physical","PC",2,22,8629,14
-"Minecraft Dungeons","Amazon","Digital","Switch",3,26,10000,5
-"Minecraft Dungeons","Steam","Digital","PC",1,52,10000,14
-"Minecraft Dungeons","Best Buy","Physical","Switch",5,54,4065,48
-"Minecraft Dungeons","Best Buy","Digital","PS5",5,10,10000,10
-"Minecraft Dungeons","Target","Physical","PS5",2,80,8404,78
-"Minecraft Dungeons","Target","Digital","XBox",3,17,10000,14
-"Minecraft Dungeons","GameStop","Physical","Switch",3,68,3133,65
-"Minecraft Dungeons","GameStop","Digital","PS4",4,79,10000,25
-"Minecraft Dungeons","Epic Games","Digital","PC",4,89,10000,75
-"Minecraft Dungeons","Humble Bundle","Digital","PC",4,61,10000,22
-"Minecraft Dungeons","GOG","Digital","PC",1,60,10000,6
-"Minecraft Dungeons","eStarland","Physical","PS4",3,23,3101,8
-"Minecraft: Bedrock Edition","Walmart","Physical","XBox",5,22,3468,7
-"Minecraft: Bedrock Edition","Walmart","Digital","PS4",5,87,10000,84
-"Minecraft: Bedrock Edition","Amazon","Physical","XBox",5,92,6960,61
-"Minecraft: Bedrock Edition","Amazon","Digital","XBox",2,59,10000,18
-"Minecraft: Bedrock Edition","Steam","Digital","PC",1,20,10000,15
-"Minecraft: Bedrock Edition","Best Buy","Physical","XBox",4,54,7133,9
-"Minecraft: Bedrock Edition","Best Buy","Digital","XBox",2,60,10000,42
-"Minecraft: Bedrock Edition","Target","Physical","PS4",5,57,6583,50
-"Minecraft: Bedrock Edition","Target","Digital","PC",5,67,10000,47
-"Minecraft: Bedrock Edition","GameStop","Physical","Switch",2,75,2573,34
-"Minecraft: Bedrock Edition","GameStop","Digital","PS5",1,85,10000,18
-"Minecraft: Bedrock Edition","Epic Games","Digital","PC",5,81,10000,75
-"Minecraft: Bedrock Edition","Humble Bundle","Digital","PC",3,44,10000,27
-"Minecraft: Bedrock Edition","GOG","Digital","PC",2,48,10000,9
-"Minecraft: Bedrock Edition","eStarland","Physical","PS5",2,34,1925,15
-"Aragami","Walmart","Physical","PC",3,72,1802,65
-"Aragami","Walmart","Digital","PS4",4,66,10000,38
-"Aragami","Amazon","Physical","PS5",3,55,1729,39
-"Aragami","Amazon","Digital","PS5",1,86,10000,72
-"Aragami","Steam","Digital","PC",5,50,10000,25
-"Aragami","Best Buy","Physical","Switch",3,40,6047,39
-"Aragami","Best Buy","Digital","PS4",1,72,10000,10
-"Aragami","Target","Physical","PC",4,45,5401,30
-"Aragami","Target","Digital","Switch",4,98,10000,49
-"Aragami","GameStop","Physical","PS5",2,80,1237,73
-"Aragami","GameStop","Digital","XBox",1,78,10000,10
-"Aragami","Epic Games","Digital","PC",5,59,10000,5
-"Aragami","Humble Bundle","Digital","PC",5,57,10000,38
-"Aragami","GOG","Digital","PC",4,45,10000,22
-"Aragami","eStarland","Physical","PS5",5,50,9845,45
-"Mass Effect","Walmart","Physical","PC",3,59,1779,14
-"Mass Effect","Walmart","Digital","PC",2,95,10000,87
-"Mass Effect","Amazon","Physical","PC",3,22,5764,5
-"Mass Effect","Amazon","Digital","Switch",5,50,10000,25
-"Mass Effect","Steam","Digital","PC",5,92,10000,87
-"Mass Effect","Best Buy","Physical","PC",5,79,370,76
-"Mass Effect","Best Buy","Digital","PS4",3,55,10000,45
-"Mass Effect","Target","Physical","PS4",5,24,2440,10
-"Mass Effect","Target","Digital","PC",1,92,10000,63
-"Mass Effect","GameStop","Physical","XBox",1,83,3413,30
-"Mass Effect","GameStop","Digital","XBox",5,81,10000,60
-"Mass Effect","Epic Games","Digital","PC",2,71,10000,12
-"Mass Effect","Humble Bundle","Digital","PC",3,18,10000,13
-"Mass Effect","GOG","Digital","PC",2,86,10000,79
-"Mass Effect","eStarland","Physical","Switch",1,21,5493,13
-"Need for Speed: Heat","Walmart","Physical","PS4",3,56,551,36
-"Need for Speed: Heat","Walmart","Digital","PS5",3,96,10000,54
-"Need for Speed: Heat","Amazon","Physical","Switch",2,73,5597,30
-"Need for Speed: Heat","Amazon","Digital","XBox",1,16,10000,11
-"Need for Speed: Heat","Steam","Digital","PC",4,72,10000,34
-"Need for Speed: Heat","Best Buy","Physical","PC",4,54,2028,31
-"Need for Speed: Heat","Best Buy","Digital","PC",4,99,10000,78
-"Need for Speed: Heat","Target","Physical","PS4",5,88,1301,36
-"Need for Speed: Heat","Target","Digital","Switch",5,18,10000,16
-"Need for Speed: Heat","GameStop","Physical","XBox",3,88,8747,76
-"Need for Speed: Heat","GameStop","Digital","PS5",1,50,10000,11
-"Need for Speed: Heat","Epic Games","Digital","PC",5,96,10000,17
-"Need for Speed: Heat","Humble Bundle","Digital","PC",2,32,10000,19
-"Need for Speed: Heat","GOG","Digital","PC",3,16,10000,12
-"Need for Speed: Heat","eStarland","Physical","PS5",5,31,8217,30
-"Neverwinter Nights","Walmart","Physical","PS4",4,74,5545,54
-"Neverwinter Nights","Walmart","Digital","Switch",2,34,10000,24
-"Neverwinter Nights","Amazon","Physical","PC",1,15,9170,7
-"Neverwinter Nights","Amazon","Digital","PS4",1,19,10000,9
-"Neverwinter Nights","Steam","Digital","PC",5,100,10000,99
-"Neverwinter Nights","Best Buy","Physical","PS5",4,72,1366,34
-"Neverwinter Nights","Best Buy","Digital","PS4",1,71,10000,8
-"Neverwinter Nights","Target","Physical","PS4",2,76,2654,54
-"Neverwinter Nights","Target","Digital","PS5",5,65,10000,32
-"Neverwinter Nights","GameStop","Physical","XBox",3,96,9610,83
-"Neverwinter Nights","GameStop","Digital","PS5",5,97,10000,55
-"Neverwinter Nights","Epic Games","Digital","PC",1,43,10000,40
-"Neverwinter Nights","Humble Bundle","Digital","PC",2,79,10000,41
-"Neverwinter Nights","GOG","Digital","PC",4,43,10000,21
-"Neverwinter Nights","eStarland","Physical","PS5",4,99,2253,50
-"Subnautica","Walmart","Physical","PS5",2,19,4492,10
-"Subnautica","Walmart","Digital","PC",3,21,10000,15
-"Subnautica","Amazon","Physical","Switch",1,62,2454,17
-"Subnautica","Amazon","Digital","PS5",1,44,10000,9
-"Subnautica","Steam","Digital","PC",4,41,10000,9
-"Subnautica","Best Buy","Physical","XBox",2,14,1210,12
-"Subnautica","Best Buy","Digital","XBox",5,59,10000,23
-"Subnautica","Target","Physical","PC",4,61,6437,45
-"Subnautica","Target","Digital","PS4",3,85,10000,40
-"Subnautica","GameStop","Physical","Switch",2,47,7806,15
-"Subnautica","GameStop","Digital","PS5",5,58,10000,45
-"Subnautica","Epic Games","Digital","PC",3,29,10000,28
-"Subnautica","Humble Bundle","Digital","PC",1,88,10000,29
-"Subnautica","GOG","Digital","PC",1,53,10000,17
-"Subnautica","eStarland","Physical","PS4",1,61,8712,19
-"Dragon Ball FighterZ","Walmart","Physical","Switch",5,39,6052,38
-"Dragon Ball FighterZ","Walmart","Digital","XBox",4,59,10000,29
-"Dragon Ball FighterZ","Amazon","Physical","Switch",5,69,1603,47
-"Dragon Ball FighterZ","Amazon","Digital","PC",1,73,10000,58
-"Dragon Ball FighterZ","Steam","Digital","PC",2,75,10000,59
-"Dragon Ball FighterZ","Best Buy","Physical","PS5",2,28,5142,10
-"Dragon Ball FighterZ","Best Buy","Digital","PC",4,11,10000,7
-"Dragon Ball FighterZ","Target","Physical","XBox",3,78,6141,49
-"Dragon Ball FighterZ","Target","Digital","PC",2,88,10000,44
-"Dragon Ball FighterZ","GameStop","Physical","PC",3,82,7154,74
-"Dragon Ball FighterZ","GameStop","Digital","PS5",2,61,10000,50
-"Dragon Ball FighterZ","Epic Games","Digital","PC",5,35,10000,16
-"Dragon Ball FighterZ","Humble Bundle","Digital","PC",4,45,10000,8
-"Dragon Ball FighterZ","GOG","Digital","PC",3,40,10000,22
-"Dragon Ball FighterZ","eStarland","Physical","PS5",3,23,3847,10
-"Portal","Walmart","Physical","PS4",5,93,8985,66
-"Portal","Walmart","Digital","PS4",3,55,10000,26
-"Portal","Amazon","Physical","PS5",3,13,988,13
-"Portal","Amazon","Digital","PS5",2,48,10000,43
-"Portal","Steam","Digital","PC",5,41,10000,31
-"Portal","Best Buy","Physical","PS4",1,82,6356,19
-"Portal","Best Buy","Digital","PS4",2,71,10000,51
-"Portal","Target","Physical","PC",2,45,6595,13
-"Portal","Target","Digital","PS5",1,89,10000,66
-"Portal","GameStop","Physical","Switch",4,82,3245,53
-"Portal","GameStop","Digital","Switch",2,13,10000,11
-"Portal","Epic Games","Digital","PC",3,19,10000,6
-"Portal","Humble Bundle","Digital","PC",3,98,10000,42
-"Portal","GOG","Digital","PC",5,53,10000,34
-"Portal","eStarland","Physical","XBox",5,46,7264,15
-"Portal 2","Walmart","Physical","PS5",2,49,2413,29
-"Portal 2","Walmart","Digital","PS4",4,65,10000,21
-"Portal 2","Amazon","Physical","PS5",4,78,1951,59
-"Portal 2","Amazon","Digital","PC",5,80,10000,24
-"Portal 2","Steam","Digital","PC",3,15,10000,11
-"Portal 2","Best Buy","Physical","XBox",4,36,3885,21
-"Portal 2","Best Buy","Digital","PS5",2,43,10000,42
-"Portal 2","Target","Physical","PS4",5,74,8675,13
-"Portal 2","Target","Digital","PS4",5,92,10000,12
-"Portal 2","GameStop","Physical","PC",5,58,127,42
-"Portal 2","GameStop","Digital","Switch",5,52,10000,13
-"Portal 2","Epic Games","Digital","PC",4,92,10000,31
-"Portal 2","Humble Bundle","Digital","PC",5,53,10000,40
-"Portal 2","GOG","Digital","PC",3,82,10000,6
-"Portal 2","eStarland","Physical","PS5",4,88,2615,84
-"L.A. Noire","Walmart","Physical","PS5",3,94,6207,54
-"L.A. Noire","Walmart","Digital","PC",4,47,10000,27
-"L.A. Noire","Amazon","Physical","XBox",1,77,7823,55
-"L.A. Noire","Amazon","Digital","PS5",3,70,10000,48
-"L.A. Noire","Steam","Digital","PC",3,74,10000,16
-"L.A. Noire","Best Buy","Physical","Switch",5,22,9744,19
-"L.A. Noire","Best Buy","Digital","XBox",5,23,10000,9
-"L.A. Noire","Target","Physical","PS4",4,41,8859,7
-"L.A. Noire","Target","Digital","XBox",2,18,10000,15
-"L.A. Noire","GameStop","Physical","PC",1,97,9255,19
-"L.A. Noire","GameStop","Digital","PC",4,36,10000,34
-"L.A. Noire","Epic Games","Digital","PC",4,12,10000,7
-"L.A. Noire","Humble Bundle","Digital","PC",3,21,10000,14
-"L.A. Noire","GOG","Digital","PC",4,51,10000,33
-"L.A. Noire","eStarland","Physical","Switch",4,45,2092,7
-"Dishonored 2","Walmart","Physical","PC",4,76,6145,18
-"Dishonored 2","Walmart","Digital","XBox",5,60,10000,32
-"Dishonored 2","Amazon","Physical","PS5",1,49,9252,9
-"Dishonored 2","Amazon","Digital","PS5",2,100,10000,14
-"Dishonored 2","Steam","Digital","PC",2,26,10000,16
-"Dishonored 2","Best Buy","Physical","PC",3,99,2503,87
-"Dishonored 2","Best Buy","Digital","PC",2,14,10000,13
-"Dishonored 2","Target","Physical","Switch",5,71,4218,31
-"Dishonored 2","Target","Digital","XBox",5,97,10000,65
-"Dishonored 2","GameStop","Physical","XBox",3,48,7460,35
-"Dishonored 2","GameStop","Digital","XBox",3,39,10000,8
-"Dishonored 2","Epic Games","Digital","PC",2,65,10000,47
-"Dishonored 2","Humble Bundle","Digital","PC",1,35,10000,31
-"Dishonored 2","GOG","Digital","PC",4,95,10000,23
-"Dishonored 2","eStarland","Physical","PS5",5,13,4244,5
-"Middle-earth: Shadow of Mordor","Walmart","Physical","XBox",3,54,835,35
-"Middle-earth: Shadow of Mordor","Walmart","Digital","PC",3,71,10000,36
-"Middle-earth: Shadow of Mordor","Amazon","Physical","XBox",4,55,1996,11
-"Middle-earth: Shadow of Mordor","Amazon","Digital","XBox",4,87,10000,66
-"Middle-earth: Shadow of Mordor","Steam","Digital","PC",5,43,10000,16
-"Middle-earth: Shadow of Mordor","Best Buy","Physical","Switch",2,36,9980,32
-"Middle-earth: Shadow of Mordor","Best Buy","Digital","PC",1,86,10000,72
-"Middle-earth: Shadow of Mordor","Target","Physical","Switch",2,40,4606,40
-"Middle-earth: Shadow of Mordor","Target","Digital","XBox",1,84,10000,63
-"Middle-earth: Shadow of Mordor","GameStop","Physical","Switch",1,74,9481,38
-"Middle-earth: Shadow of Mordor","GameStop","Digital","PC",1,75,10000,54
-"Middle-earth: Shadow of Mordor","Epic Games","Digital","PC",3,55,10000,5
-"Middle-earth: Shadow of Mordor","Humble Bundle","Digital","PC",2,24,10000,11
-"Middle-earth: Shadow of Mordor","GOG","Digital","PC",4,16,10000,9
-"Middle-earth: Shadow of Mordor","eStarland","Physical","Switch",4,60,8557,13
-"Rise of the Tomb Raider","Walmart","Physical","PS5",2,77,550,5
-"Rise of the Tomb Raider","Walmart","Digital","PS4",4,93,10000,35
-"Rise of the Tomb Raider","Amazon","Physical","PS5",4,63,6204,48
-"Rise of the Tomb Raider","Amazon","Digital","PC",2,83,10000,8
-"Rise of the Tomb Raider","Steam","Digital","PC",3,46,10000,18
-"Rise of the Tomb Raider","Best Buy","Physical","PS4",3,94,4497,12
-"Rise of the Tomb Raider","Best Buy","Digital","Switch",3,32,10000,14
-"Rise of the Tomb Raider","Target","Physical","Switch",5,80,4876,48
-"Rise of the Tomb Raider","Target","Digital","PS4",1,25,10000,21
-"Rise of the Tomb Raider","GameStop","Physical","PC",5,33,3078,8
-"Rise of the Tomb Raider","GameStop","Digital","XBox",3,70,10000,14
-"Rise of the Tomb Raider","Epic Games","Digital","PC",3,56,10000,29
-"Rise of the Tomb Raider","Humble Bundle","Digital","PC",4,29,10000,24
-"Rise of the Tomb Raider","GOG","Digital","PC",5,55,10000,6
-"Rise of the Tomb Raider","eStarland","Physical","XBox",1,26,4568,23
-"Hellblade: Senua's Sacrifice","Walmart","Physical","XBox",1,63,2033,12
-"Hellblade: Senua's Sacrifice","Walmart","Digital","PS4",4,97,10000,43
-"Hellblade: Senua's Sacrifice","Amazon","Physical","Switch",1,25,1098,20
-"Hellblade: Senua's Sacrifice","Amazon","Digital","XBox",1,82,10000,33
-"Hellblade: Senua's Sacrifice","Steam","Digital","PC",4,11,10000,5
-"Hellblade: Senua's Sacrifice","Best Buy","Physical","XBox",5,78,4361,70
-"Hellblade: Senua's Sacrifice","Best Buy","Digital","PC",3,38,10000,6
-"Hellblade: Senua's Sacrifice","Target","Physical","Switch",5,14,6514,14
-"Hellblade: Senua's Sacrifice","Target","Digital","PC",2,11,10000,11
-"Hellblade: Senua's Sacrifice","GameStop","Physical","XBox",2,52,3812,29
-"Hellblade: Senua's Sacrifice","GameStop","Digital","PS5",4,39,10000,18
-"Hellblade: Senua's Sacrifice","Epic Games","Digital","PC",4,20,10000,17
-"Hellblade: Senua's Sacrifice","Humble Bundle","Digital","PC",2,29,10000,26
-"Hellblade: Senua's Sacrifice","GOG","Digital","PC",2,81,10000,67
-"Hellblade: Senua's Sacrifice","eStarland","Physical","PS4",2,92,6162,79
-"Devil May Cry 5","Walmart","Physical","PC",2,30,3096,26
-"Devil May Cry 5","Walmart","Digital","PC",2,11,10000,9
-"Devil May Cry 5","Amazon","Physical","PC",3,44,5725,11
-"Devil May Cry 5","Amazon","Digital","PS5",5,38,10000,33
-"Devil May Cry 5","Steam","Digital","PC",3,13,10000,12
-"Devil May Cry 5","Best Buy","Physical","Switch",5,17,7493,8
-"Devil May Cry 5","Best Buy","Digital","Switch",3,18,10000,9
-"Devil May Cry 5","Target","Physical","PS4",5,13,1187,6
-"Devil May Cry 5","Target","Digital","PC",1,14,10000,5
-"Devil May Cry 5","GameStop","Physical","PC",3,77,8690,19
-"Devil May Cry 5","GameStop","Digital","PS5",1,85,10000,26
-"Devil May Cry 5","Epic Games","Digital","PC",4,23,10000,18
-"Devil May Cry 5","Humble Bundle","Digital","PC",1,95,10000,54
-"Devil May Cry 5","GOG","Digital","PC",1,41,10000,40
-"Devil May Cry 5","eStarland","Physical","PS4",4,51,1068,11
-"Jump Force","Walmart","Physical","Switch",4,54,7278,41
-"Jump Force","Walmart","Digital","PS4",2,17,10000,7
-"Jump Force","Amazon","Physical","PS5",5,35,9631,31
-"Jump Force","Amazon","Digital","Switch",2,48,10000,32
-"Jump Force","Steam","Digital","PC",5,64,10000,10
-"Jump Force","Best Buy","Physical","PC",2,20,9768,9
-"Jump Force","Best Buy","Digital","XBox",5,57,10000,22
-"Jump Force","Target","Physical","XBox",1,53,1327,11
-"Jump Force","Target","Digital","Switch",5,44,10000,12
-"Jump Force","GameStop","Physical","XBox",2,69,9016,23
-"Jump Force","GameStop","Digital","PS5",2,45,10000,20
-"Jump Force","Epic Games","Digital","PC",1,45,10000,13
-"Jump Force","Humble Bundle","Digital","PC",5,66,10000,50
-"Jump Force","GOG","Digital","PC",5,15,10000,7
-"Jump Force","eStarland","Physical","Switch",2,84,3799,82
-"Injustice: Gods Among Us","Walmart","Physical","XBox",3,49,241,40
-"Injustice: Gods Among Us","Walmart","Digital","Switch",1,99,10000,78
-"Injustice: Gods Among Us","Amazon","Physical","PS4",1,74,7434,56
-"Injustice: Gods Among Us","Amazon","Digital","PS5",3,39,10000,30
-"Injustice: Gods Among Us","Steam","Digital","PC",4,74,10000,44
-"Injustice: Gods Among Us","Best Buy","Physical","PC",3,10,9364,6
-"Injustice: Gods Among Us","Best Buy","Digital","PS4",1,93,10000,74
-"Injustice: Gods Among Us","Target","Physical","XBox",1,86,279,49
-"Injustice: Gods Among Us","Target","Digital","PS5",4,53,10000,43
-"Injustice: Gods Among Us","GameStop","Physical","PS4",4,21,2781,14
-"Injustice: Gods Among Us","GameStop","Digital","XBox",5,71,10000,12
-"Injustice: Gods Among Us","Epic Games","Digital","PC",3,92,10000,51
-"Injustice: Gods Among Us","Humble Bundle","Digital","PC",1,77,10000,77
-"Injustice: Gods Among Us","GOG","Digital","PC",5,44,10000,10
-"Injustice: Gods Among Us","eStarland","Physical","PS5",3,21,7798,21
-"SoulCalibur VI","Walmart","Physical","XBox",4,54,6780,26
-"SoulCalibur VI","Walmart","Digital","Switch",4,77,10000,36
-"SoulCalibur VI","Amazon","Physical","PS4",1,95,679,57
-"SoulCalibur VI","Amazon","Digital","XBox",1,91,10000,51
-"SoulCalibur VI","Steam","Digital","PC",5,36,10000,31
-"SoulCalibur VI","Best Buy","Physical","XBox",3,66,9244,18
-"SoulCalibur VI","Best Buy","Digital","PC",2,84,10000,15
-"SoulCalibur VI","Target","Physical","XBox",3,39,9937,31
-"SoulCalibur VI","Target","Digital","Switch",4,28,10000,12
-"SoulCalibur VI","GameStop","Physical","PS4",3,40,7469,36
-"SoulCalibur VI","GameStop","Digital","PS5",5,22,10000,14
-"SoulCalibur VI","Epic Games","Digital","PC",1,11,10000,6
-"SoulCalibur VI","Humble Bundle","Digital","PC",3,40,10000,17
-"SoulCalibur VI","GOG","Digital","PC",5,68,10000,48
-"SoulCalibur VI","eStarland","Physical","PS4",5,65,9742,50
-"Dragon Quest Builders 2","Walmart","Physical","PS4",3,88,548,67
-"Dragon Quest Builders 2","Walmart","Digital","PS4",3,80,10000,8
-"Dragon Quest Builders 2","Amazon","Physical","XBox",4,45,2315,34
-"Dragon Quest Builders 2","Amazon","Digital","PS4",1,76,10000,35
-"Dragon Quest Builders 2","Steam","Digital","PC",2,34,10000,27
-"Dragon Quest Builders 2","Best Buy","Physical","PC",3,71,7789,71
-"Dragon Quest Builders 2","Best Buy","Digital","PC",4,38,10000,28
-"Dragon Quest Builders 2","Target","Physical","PS4",5,68,7846,58
-"Dragon Quest Builders 2","Target","Digital","PS4",2,14,10000,7
-"Dragon Quest Builders 2","GameStop","Physical","PS4",5,14,2743,9
-"Dragon Quest Builders 2","GameStop","Digital","PS5",4,47,10000,6
-"Dragon Quest Builders 2","Epic Games","Digital","PC",5,10,10000,10
-"Dragon Quest Builders 2","Humble Bundle","Digital","PC",3,65,10000,53
-"Dragon Quest Builders 2","GOG","Digital","PC",1,24,10000,6
-"Dragon Quest Builders 2","eStarland","Physical","PC",1,45,1893,38
-"Final Fantasy XIV","Walmart","Physical","Switch",3,44,5659,20
-"Final Fantasy XIV","Walmart","Digital","PS4",1,84,10000,30
-"Final Fantasy XIV","Amazon","Physical","PS5",1,56,2419,34
-"Final Fantasy XIV","Amazon","Digital","PS4",5,79,10000,70
-"Final Fantasy XIV","Steam","Digital","PC",3,88,10000,63
-"Final Fantasy XIV","Best Buy","Physical","XBox",4,97,901,45
-"Final Fantasy XIV","Best Buy","Digital","XBox",3,43,10000,42
-"Final Fantasy XIV","Target","Physical","Switch",5,50,9201,32
-"Final Fantasy XIV","Target","Digital","Switch",3,38,10000,35
-"Final Fantasy XIV","GameStop","Physical","Switch",4,17,7529,6
-"Final Fantasy XIV","GameStop","Digital","PC",1,61,10000,57
-"Final Fantasy XIV","Epic Games","Digital","PC",5,35,10000,30
-"Final Fantasy XIV","Humble Bundle","Digital","PC",4,45,10000,24
-"Final Fantasy XIV","GOG","Digital","PC",1,66,10000,50
-"Final Fantasy XIV","eStarland","Physical","PC",3,62,9431,7
-"Destiny","Walmart","Physical","Switch",1,22,6278,17
-"Destiny","Walmart","Digital","Switch",5,90,10000,52
-"Destiny","Amazon","Physical","PC",4,95,1202,25
-"Destiny","Amazon","Digital","PS4",2,10,10000,9
-"Destiny","Steam","Digital","PC",4,34,10000,29
-"Destiny","Best Buy","Physical","Switch",5,36,3231,7
-"Destiny","Best Buy","Digital","PS4",5,53,10000,14
-"Destiny","Target","Physical","PC",3,71,5115,7
-"Destiny","Target","Digital","PS5",5,58,10000,16
-"Destiny","GameStop","Physical","XBox",4,70,6257,10
-"Destiny","GameStop","Digital","XBox",2,52,10000,22
-"Destiny","Epic Games","Digital","PC",3,45,10000,26
-"Destiny","Humble Bundle","Digital","PC",2,94,10000,62
-"Destiny","GOG","Digital","PC",3,89,10000,39
-"Destiny","eStarland","Physical","Switch",2,92,517,43
-"NBA 2K20","Walmart","Physical","Switch",3,90,4701,56
-"NBA 2K20","Walmart","Digital","PS4",5,19,10000,16
-"NBA 2K20","Amazon","Physical","PS5",2,26,5182,24
-"NBA 2K20","Amazon","Digital","PC",1,86,10000,34
-"NBA 2K20","Steam","Digital","PC",2,77,10000,74
-"NBA 2K20","Best Buy","Physical","Switch",1,52,8982,21
-"NBA 2K20","Best Buy","Digital","XBox",2,82,10000,7
-"NBA 2K20","Target","Physical","PS4",4,31,7881,22
-"NBA 2K20","Target","Digital","PS5",4,37,10000,17
-"NBA 2K20","GameStop","Physical","PS4",1,62,3196,55
-"NBA 2K20","GameStop","Digital","PS5",4,97,10000,20
-"NBA 2K20","Epic Games","Digital","PC",3,20,10000,8
-"NBA 2K20","Humble Bundle","Digital","PC",1,31,10000,8
-"NBA 2K20","GOG","Digital","PC",4,25,10000,13
-"NBA 2K20","eStarland","Physical","PS4",2,98,7676,26
-"Star Wars Jedi:Fallen Order","Walmart","Physical","PS4",4,70,631,45
-"Star Wars Jedi:Fallen Order","Walmart","Digital","Switch",1,90,10000,39
-"Star Wars Jedi:Fallen Order","Amazon","Physical","XBox",2,14,3491,9
-"Star Wars Jedi:Fallen Order","Amazon","Digital","PS5",5,80,10000,67
-"Star Wars Jedi:Fallen Order","Steam","Digital","PC",2,18,10000,8
-"Star Wars Jedi:Fallen Order","Best Buy","Physical","PC",5,49,4352,20
-"Star Wars Jedi:Fallen Order","Best Buy","Digital","PS4",4,74,10000,68
-"Star Wars Jedi:Fallen Order","Target","Physical","Switch",4,15,5659,6
-"Star Wars Jedi:Fallen Order","Target","Digital","PS4",2,85,10000,81
-"Star Wars Jedi:Fallen Order","GameStop","Physical","Switch",1,55,4367,54
-"Star Wars Jedi:Fallen Order","GameStop","Digital","PS4",5,20,10000,18
-"Star Wars Jedi:Fallen Order","Epic Games","Digital","PC",3,22,10000,9
-"Star Wars Jedi:Fallen Order","Humble Bundle","Digital","PC",5,86,10000,49
-"Star Wars Jedi:Fallen Order","GOG","Digital","PC",4,44,10000,22
-"Star Wars Jedi:Fallen Order","eStarland","Physical","Switch",2,34,842,7
-"Tom Clancy's The Division 2","Walmart","Physical","PS5",5,29,4612,27
-"Tom Clancy's The Division 2","Walmart","Digital","PS4",3,63,10000,16
-"Tom Clancy's The Division 2","Amazon","Physical","Switch",5,69,5667,30
-"Tom Clancy's The Division 2","Amazon","Digital","PC",2,24,10000,18
-"Tom Clancy's The Division 2","Steam","Digital","PC",4,21,10000,6
-"Tom Clancy's The Division 2","Best Buy","Physical","PC",3,54,3434,11
-"Tom Clancy's The Division 2","Best Buy","Digital","XBox",4,50,10000,25
-"Tom Clancy's The Division 2","Target","Physical","Switch",3,11,7783,7
-"Tom Clancy's The Division 2","Target","Digital","PS4",1,12,10000,10
-"Tom Clancy's The Division 2","GameStop","Physical","PS4",1,20,4207,13
-"Tom Clancy's The Division 2","GameStop","Digital","PS5",5,46,10000,22
-"Tom Clancy's The Division 2","Epic Games","Digital","PC",3,89,10000,86
-"Tom Clancy's The Division 2","Humble Bundle","Digital","PC",4,15,10000,12
-"Tom Clancy's The Division 2","GOG","Digital","PC",5,69,10000,42
-"Tom Clancy's The Division 2","eStarland","Physical","Switch",5,21,2459,10
-"Doom Eternal","Walmart","Physical","XBox",5,39,7590,13
-"Doom Eternal","Walmart","Digital","PC",4,79,10000,51
-"Doom Eternal","Amazon","Physical","XBox",2,74,3513,9
-"Doom Eternal","Amazon","Digital","Switch",1,70,10000,63
-"Doom Eternal","Steam","Digital","PC",4,97,10000,62
-"Doom Eternal","Best Buy","Physical","PS5",4,50,5865,35
-"Doom Eternal","Best Buy","Digital","PS5",5,21,10000,7
-"Doom Eternal","Target","Physical","PS4",5,26,3579,8
-"Doom Eternal","Target","Digital","PS5",4,82,10000,81
-"Doom Eternal","GameStop","Physical","Switch",2,53,7246,20
-"Doom Eternal","GameStop","Digital","PS5",2,40,10000,12
-"Doom Eternal","Epic Games","Digital","PC",5,84,10000,37
-"Doom Eternal","Humble Bundle","Digital","PC",5,44,10000,29
-"Doom Eternal","GOG","Digital","PC",4,59,10000,46
-"Doom Eternal","eStarland","Physical","XBox",3,51,5164,16
-"Final Fantasy VII Remake","Walmart","Physical","XBox",5,80,5647,16
-"Final Fantasy VII Remake","Walmart","Digital","PS5",3,35,10000,27
-"Final Fantasy VII Remake","Amazon","Physical","XBox",2,69,4681,15
-"Final Fantasy VII Remake","Amazon","Digital","Switch",1,62,10000,29
-"Final Fantasy VII Remake","Steam","Digital","PC",1,50,10000,12
-"Final Fantasy VII Remake","Best Buy","Physical","XBox",1,30,1692,7
-"Final Fantasy VII Remake","Best Buy","Digital","XBox",4,91,10000,15
-"Final Fantasy VII Remake","Target","Physical","Switch",3,58,4932,17
-"Final Fantasy VII Remake","Target","Digital","PS4",2,11,10000,7
-"Final Fantasy VII Remake","GameStop","Physical","PC",4,54,3822,20
-"Final Fantasy VII Remake","GameStop","Digital","Switch",4,85,10000,21
-"Final Fantasy VII Remake","Epic Games","Digital","PC",1,26,10000,14
-"Final Fantasy VII Remake","Humble Bundle","Digital","PC",5,68,10000,17
-"Final Fantasy VII Remake","GOG","Digital","PC",3,31,10000,16
-"Final Fantasy VII Remake","eStarland","Physical","Switch",1,76,2052,59
-"Ghost of Tsushima","Walmart","Physical","Switch",3,26,2491,17
-"Ghost of Tsushima","Walmart","Digital","PS4",5,99,10000,34
-"Ghost of Tsushima","Amazon","Physical","PC",5,80,7545,6
-"Ghost of Tsushima","Amazon","Digital","Switch",3,47,10000,24
-"Ghost of Tsushima","Steam","Digital","PC",3,25,10000,13
-"Ghost of Tsushima","Best Buy","Physical","XBox",1,82,2458,20
-"Ghost of Tsushima","Best Buy","Digital","PS4",5,26,10000,19
-"Ghost of Tsushima","Target","Physical","XBox",2,14,2241,7
-"Ghost of Tsushima","Target","Digital","XBox",5,14,10000,13
-"Ghost of Tsushima","GameStop","Physical","PS4",3,51,9991,39
-"Ghost of Tsushima","GameStop","Digital","PS5",4,36,10000,30
-"Ghost of Tsushima","Epic Games","Digital","PC",5,68,10000,8
-"Ghost of Tsushima","Humble Bundle","Digital","PC",3,37,10000,37
-"Ghost of Tsushima","GOG","Digital","PC",5,52,10000,35
-"Ghost of Tsushima","eStarland","Physical","PS4",5,32,2212,18
-"Fall Guys: Ultimate Knockout","Walmart","Physical","Switch",5,85,9069,5
-"Fall Guys: Ultimate Knockout","Walmart","Digital","PS5",1,98,10000,97
-"Fall Guys: Ultimate Knockout","Amazon","Physical","PC",5,26,7052,17
-"Fall Guys: Ultimate Knockout","Amazon","Digital","PS5",2,19,10000,5
-"Fall Guys: Ultimate Knockout","Steam","Digital","PC",2,53,10000,32
-"Fall Guys: Ultimate Knockout","Best Buy","Physical","PS4",3,21,5744,8
-"Fall Guys: Ultimate Knockout","Best Buy","Digital","PS4",4,69,10000,29
-"Fall Guys: Ultimate Knockout","Target","Physical","XBox",3,34,9816,21
-"Fall Guys: Ultimate Knockout","Target","Digital","XBox",4,80,10000,26
-"Fall Guys: Ultimate Knockout","GameStop","Physical","PC",1,24,2121,12
-"Fall Guys: Ultimate Knockout","GameStop","Digital","PC",1,23,10000,13
-"Fall Guys: Ultimate Knockout","Epic Games","Digital","PC",2,66,10000,41
-"Fall Guys: Ultimate Knockout","Humble Bundle","Digital","PC",4,95,10000,44
-"Fall Guys: Ultimate Knockout","GOG","Digital","PC",2,32,10000,32
-"Fall Guys: Ultimate Knockout","eStarland","Physical","PS4",4,50,6034,37
-"Ori and the Will of the Wisps","Walmart","Physical","Switch",4,58,6463,16
-"Ori and the Will of the Wisps","Walmart","Digital","Switch",4,82,10000,12
-"Ori and the Will of the Wisps","Amazon","Physical","PS4",3,35,8477,26
-"Ori and the Will of the Wisps","Amazon","Digital","PC",5,16,10000,8
-"Ori and the Will of the Wisps","Steam","Digital","PC",1,38,10000,13
-"Ori and the Will of the Wisps","Best Buy","Physical","Switch",2,42,6054,42
-"Ori and the Will of the Wisps","Best Buy","Digital","PC",3,75,10000,42
-"Ori and the Will of the Wisps","Target","Physical","Switch",3,59,1928,9
-"Ori and the Will of the Wisps","Target","Digital","PC",1,67,10000,10
-"Ori and the Will of the Wisps","GameStop","Physical","PS4",5,82,2118,76
-"Ori and the Will of the Wisps","GameStop","Digital","PC",5,86,10000,9
-"Ori and the Will of the Wisps","Epic Games","Digital","PC",1,13,10000,8
-"Ori and the Will of the Wisps","Humble Bundle","Digital","PC",1,84,10000,46
-"Ori and the Will of the Wisps","GOG","Digital","PC",3,62,10000,5
-"Ori and the Will of the Wisps","eStarland","Physical","PS4",4,48,6165,43
-"Spelunky 2","Walmart","Physical","PC",1,34,6296,31
-"Spelunky 2","Walmart","Digital","PS5",1,87,10000,30
-"Spelunky 2","Amazon","Physical","XBox",2,17,5038,8
-"Spelunky 2","Amazon","Digital","PC",5,98,10000,34
-"Spelunky 2","Steam","Digital","PC",1,58,10000,33
-"Spelunky 2","Best Buy","Physical","XBox",3,19,6914,18
-"Spelunky 2","Best Buy","Digital","PS4",2,56,10000,49
-"Spelunky 2","Target","Physical","PS5",1,16,9338,11
-"Spelunky 2","Target","Digital","PS4",5,91,10000,16
-"Spelunky 2","GameStop","Physical","PC",3,19,7636,8
-"Spelunky 2","GameStop","Digital","PS4",1,83,10000,8
-"Spelunky 2","Epic Games","Digital","PC",4,70,10000,66
-"Spelunky 2","Humble Bundle","Digital","PC",3,77,10000,60
-"Spelunky 2","GOG","Digital","PC",3,48,10000,31
-"Spelunky 2","eStarland","Physical","XBox",5,19,8836,17
-"Paper Mario: The Origami King","Walmart","Physical","Switch",5,31,2957,15
-"Paper Mario: The Origami King","Walmart","Digital","Switch",5,73,10000,38
-"Paper Mario: The Origami King","Amazon","Physical","Switch",5,57,4360,54
-"Paper Mario: The Origami King","Amazon","Digital","Switch",2,31,10000,10
-"Paper Mario: The Origami King","Steam","Digital","Switch",5,60,10000,27
-"Paper Mario: The Origami King","Best Buy","Physical","Switch",1,77,615,71
-"Paper Mario: The Origami King","Best Buy","Digital","Switch",1,86,10000,19
-"Paper Mario: The Origami King","Target","Physical","Switch",5,96,9481,10
-"Paper Mario: The Origami King","Target","Digital","Switch",5,97,10000,89
-"Paper Mario: The Origami King","GameStop","Physical","Switch",5,99,8533,23
-"Paper Mario: The Origami King","GameStop","Digital","Switch",4,35,10000,22
-"Paper Mario: The Origami King","Epic Games","Digital","Switch",4,93,10000,20
-"Paper Mario: The Origami King","Humble Bundle","Digital","Switch",5,74,10000,56
-"Paper Mario: The Origami King","GOG","Digital","Switch",5,91,10000,29
-"Paper Mario: The Origami King","eStarland","Physical","Switch",3,52,7356,51
-"Star Wars: Squadrons","Walmart","Physical","PS5",5,75,7929,35
-"Star Wars: Squadrons","Walmart","Digital","Switch",4,13,10000,9
-"Star Wars: Squadrons","Amazon","Physical","Switch",1,93,3228,5
-"Star Wars: Squadrons","Amazon","Digital","XBox",3,70,10000,32
-"Star Wars: Squadrons","Steam","Digital","PC",4,54,10000,11
-"Star Wars: Squadrons","Best Buy","Physical","PC",2,11,9007,7
-"Star Wars: Squadrons","Best Buy","Digital","XBox",2,70,10000,59
-"Star Wars: Squadrons","Target","Physical","PC",5,12,7850,11
-"Star Wars: Squadrons","Target","Digital","XBox",2,41,10000,35
-"Star Wars: Squadrons","GameStop","Physical","XBox",1,49,1023,22
-"Star Wars: Squadrons","GameStop","Digital","Switch",5,66,10000,14
-"Star Wars: Squadrons","Epic Games","Digital","PC",1,74,10000,22
-"Star Wars: Squadrons","Humble Bundle","Digital","PC",2,21,10000,9
-"Star Wars: Squadrons","GOG","Digital","PC",4,60,10000,6
-"Star Wars: Squadrons","eStarland","Physical","PS5",4,58,8474,24
-"Chivalry 2","Walmart","Physical","PS4",3,65,1075,6
-"Chivalry 2","Walmart","Digital","PS5",1,14,10000,9
-"Chivalry 2","Amazon","Physical","PS5",2,18,5897,15
-"Chivalry 2","Amazon","Digital","Switch",4,31,10000,11
-"Chivalry 2","Steam","Digital","PC",3,66,10000,9
-"Chivalry 2","Best Buy","Physical","XBox",2,67,9138,13
-"Chivalry 2","Best Buy","Digital","PS5",2,73,10000,32
-"Chivalry 2","Target","Physical","PS5",2,71,9287,43
-"Chivalry 2","Target","Digital","PC",3,19,10000,16
-"Chivalry 2","GameStop","Physical","PS5",4,17,8219,6
-"Chivalry 2","GameStop","Digital","XBox",5,52,10000,31
-"Chivalry 2","Epic Games","Digital","PC",5,59,10000,37
-"Chivalry 2","Humble Bundle","Digital","PC",5,51,10000,38
-"Chivalry 2","GOG","Digital","PC",4,22,10000,17
-"Chivalry 2","eStarland","Physical","Switch",3,47,3795,20
-"Spiritfarer","Walmart","Physical","PC",2,10,8696,5
-"Spiritfarer","Walmart","Digital","PC",2,100,10000,92
-"Spiritfarer","Amazon","Physical","PC",5,54,3682,19
-"Spiritfarer","Amazon","Digital","PS5",4,35,10000,7
-"Spiritfarer","Steam","Digital","PC",4,93,10000,31
-"Spiritfarer","Best Buy","Physical","PS5",3,76,9819,27
-"Spiritfarer","Best Buy","Digital","Switch",3,63,10000,22
-"Spiritfarer","Target","Physical","XBox",1,92,2882,54
-"Spiritfarer","Target","Digital","PC",3,64,10000,34
-"Spiritfarer","GameStop","Physical","XBox",2,88,7334,45
-"Spiritfarer","GameStop","Digital","PS5",3,80,10000,20
-"Spiritfarer","Epic Games","Digital","PC",3,98,10000,53
-"Spiritfarer","Humble Bundle","Digital","PC",4,78,10000,49
-"Spiritfarer","GOG","Digital","PC",1,13,10000,10
-"Spiritfarer","eStarland","Physical","XBox",4,81,203,62
-"Dragon Ball Z: Kakarot","Walmart","Physical","PS4",1,96,420,53
-"Dragon Ball Z: Kakarot","Walmart","Digital","PS4",3,71,10000,42
-"Dragon Ball Z: Kakarot","Amazon","Physical","Switch",2,53,5970,39
-"Dragon Ball Z: Kakarot","Amazon","Digital","PS5",4,83,10000,74
-"Dragon Ball Z: Kakarot","Steam","Digital","PC",4,80,10000,17
-"Dragon Ball Z: Kakarot","Best Buy","Physical","XBox",1,99,5516,77
-"Dragon Ball Z: Kakarot","Best Buy","Digital","Switch",3,86,10000,66
-"Dragon Ball Z: Kakarot","Target","Physical","PC",3,28,6798,28
-"Dragon Ball Z: Kakarot","Target","Digital","PS5",2,60,10000,13
-"Dragon Ball Z: Kakarot","GameStop","Physical","PC",3,72,9094,46
-"Dragon Ball Z: Kakarot","GameStop","Digital","Switch",5,22,10000,7
-"Dragon Ball Z: Kakarot","Epic Games","Digital","PC",4,40,10000,10
-"Dragon Ball Z: Kakarot","Humble Bundle","Digital","PC",1,27,10000,24
-"Dragon Ball Z: Kakarot","GOG","Digital","PC",5,16,10000,13
-"Dragon Ball Z: Kakarot","eStarland","Physical","PS5",3,86,4814,85
-"Hellpoint","Walmart","Physical","PS5",2,29,4362,29
-"Hellpoint","Walmart","Digital","PS5",1,59,10000,51
-"Hellpoint","Amazon","Physical","PC",3,37,9765,9
-"Hellpoint","Amazon","Digital","Switch",4,64,10000,59
-"Hellpoint","Steam","Digital","PC",5,61,10000,43
-"Hellpoint","Best Buy","Physical","PS4",1,50,3686,24
-"Hellpoint","Best Buy","Digital","PS4",5,99,10000,10
-"Hellpoint","Target","Physical","PS4",2,80,8175,17
-"Hellpoint","Target","Digital","PS4",4,90,10000,49
-"Hellpoint","GameStop","Physical","PS4",1,70,5755,5
-"Hellpoint","GameStop","Digital","PS4",4,56,10000,56
-"Hellpoint","Epic Games","Digital","PC",2,92,10000,90
-"Hellpoint","Humble Bundle","Digital","PC",3,74,10000,57
-"Hellpoint","GOG","Digital","PC",2,38,10000,22
-"Hellpoint","eStarland","Physical","PC",5,26,6908,8
-"NBA 2K21","Walmart","Physical","PS5",4,81,5941,58
-"NBA 2K21","Walmart","Digital","Switch",4,36,10000,10
-"NBA 2K21","Amazon","Physical","PS5",3,16,5709,15
-"NBA 2K21","Amazon","Digital","XBox",2,84,10000,68
-"NBA 2K21","Steam","Digital","PC",2,72,10000,23
-"NBA 2K21","Best Buy","Physical","PS4",3,39,8486,30
-"NBA 2K21","Best Buy","Digital","XBox",5,56,10000,26
-"NBA 2K21","Target","Physical","PS5",1,96,510,83
-"NBA 2K21","Target","Digital","PS4",5,11,10000,7
-"NBA 2K21","GameStop","Physical","PC",2,57,4716,39
-"NBA 2K21","GameStop","Digital","PS5",3,26,10000,12
-"NBA 2K21","Epic Games","Digital","PC",3,54,10000,32
-"NBA 2K21","Humble Bundle","Digital","PC",1,35,10000,17
-"NBA 2K21","GOG","Digital","PC",4,29,10000,5
-"NBA 2K21","eStarland","Physical","PS4",1,95,9025,20
-"WRC 9","Walmart","Physical","XBox",3,100,783,73
-"WRC 9","Walmart","Digital","PS4",1,91,10000,62
-"WRC 9","Amazon","Physical","XBox",1,24,7412,12
-"WRC 9","Amazon","Digital","PC",3,11,10000,8
-"WRC 9","Steam","Digital","PC",5,98,10000,91
-"WRC 9","Best Buy","Physical","PS5",1,49,8660,11
-"WRC 9","Best Buy","Digital","PS4",4,37,10000,11
-"WRC 9","Target","Physical","XBox",5,66,5111,24
-"WRC 9","Target","Digital","PC",3,25,10000,18
-"WRC 9","GameStop","Physical","PC",2,43,4677,13
-"WRC 9","GameStop","Digital","PS4",3,84,10000,46
-"WRC 9","Epic Games","Digital","PC",4,93,10000,71
-"WRC 9","Humble Bundle","Digital","PC",4,54,10000,13
-"WRC 9","GOG","Digital","PC",5,18,10000,17
-"WRC 9","eStarland","Physical","PC",3,60,218,25
-"Destroy All Humans!","Walmart","Physical","Switch",3,13,7813,11
-"Destroy All Humans!","Walmart","Digital","PC",2,59,10000,56
-"Destroy All Humans!","Amazon","Physical","PS5",2,14,5580,13
-"Destroy All Humans!","Amazon","Digital","XBox",3,99,10000,11
-"Destroy All Humans!","Steam","Digital","PC",2,16,10000,10
-"Destroy All Humans!","Best Buy","Physical","PS4",4,96,2511,65
-"Destroy All Humans!","Best Buy","Digital","PS5",2,99,10000,73
-"Destroy All Humans!","Target","Physical","Switch",1,67,9062,29
-"Destroy All Humans!","Target","Digital","PS4",3,16,10000,14
-"Destroy All Humans!","GameStop","Physical","PC",5,68,1516,47
-"Destroy All Humans!","GameStop","Digital","Switch",2,83,10000,16
-"Destroy All Humans!","Epic Games","Digital","PC",2,22,10000,14
-"Destroy All Humans!","Humble Bundle","Digital","PC",1,15,10000,9
-"Destroy All Humans!","GOG","Digital","PC",3,36,10000,23
-"Destroy All Humans!","eStarland","Physical","PS5",2,64,6360,31
-"Watch Dogs: Legion","Walmart","Physical","Switch",2,83,595,18
-"Watch Dogs: Legion","Walmart","Digital","XBox",3,87,10000,73
-"Watch Dogs: Legion","Amazon","Physical","PS4",5,20,1376,9
-"Watch Dogs: Legion","Amazon","Digital","PS5",2,43,10000,5
-"Watch Dogs: Legion","Steam","Digital","PC",3,41,10000,14
-"Watch Dogs: Legion","Best Buy","Physical","PS5",2,43,4306,36
-"Watch Dogs: Legion","Best Buy","Digital","PS5",2,17,10000,10
-"Watch Dogs: Legion","Target","Physical","XBox",5,80,7338,47
-"Watch Dogs: Legion","Target","Digital","PS5",1,71,10000,44
-"Watch Dogs: Legion","GameStop","Physical","XBox",5,48,9636,27
-"Watch Dogs: Legion","GameStop","Digital","PC",5,57,10000,10
-"Watch Dogs: Legion","Epic Games","Digital","PC",2,16,10000,7
-"Watch Dogs: Legion","Humble Bundle","Digital","PC",5,12,10000,7
-"Watch Dogs: Legion","GOG","Digital","PC",2,47,10000,27
-"Watch Dogs: Legion","eStarland","Physical","PS4",3,50,6718,28
-"Marvel's Avengers","Walmart","Physical","XBox",1,27,5909,24
-"Marvel's Avengers","Walmart","Digital","XBox",1,33,10000,26
-"Marvel's Avengers","Amazon","Physical","Switch",4,96,3439,36
-"Marvel's Avengers","Amazon","Digital","XBox",2,51,10000,10
-"Marvel's Avengers","Steam","Digital","PC",3,67,10000,36
-"Marvel's Avengers","Best Buy","Physical","Switch",3,16,353,6
-"Marvel's Avengers","Best Buy","Digital","PS4",5,30,10000,5
-"Marvel's Avengers","Target","Physical","XBox",3,65,9299,52
-"Marvel's Avengers","Target","Digital","PS4",2,15,10000,13
-"Marvel's Avengers","GameStop","Physical","Switch",1,84,8492,22
-"Marvel's Avengers","GameStop","Digital","PS5",4,10,10000,8
-"Marvel's Avengers","Epic Games","Digital","PC",1,67,10000,60
-"Marvel's Avengers","Humble Bundle","Digital","PC",3,92,10000,14
-"Marvel's Avengers","GOG","Digital","PC",3,40,10000,16
-"Marvel's Avengers","eStarland","Physical","PS4",4,51,7913,46
-"Tony Hawk's Pro Skater","Walmart","Physical","Switch",1,21,2280,14
-"Tony Hawk's Pro Skater","Walmart","Digital","PS4",4,37,10000,5
-"Tony Hawk's Pro Skater","Amazon","Physical","PS4",3,60,6810,56
-"Tony Hawk's Pro Skater","Amazon","Digital","Switch",5,46,10000,41
-"Tony Hawk's Pro Skater","Steam","Digital","PC",5,30,10000,12
-"Tony Hawk's Pro Skater","Best Buy","Physical","PS4",5,55,1015,38
-"Tony Hawk's Pro Skater","Best Buy","Digital","XBox",3,99,10000,23
-"Tony Hawk's Pro Skater","Target","Physical","XBox",1,84,4578,37
-"Tony Hawk's Pro Skater","Target","Digital","PS4",3,98,10000,57
-"Tony Hawk's Pro Skater","GameStop","Physical","XBox",2,83,4589,72
-"Tony Hawk's Pro Skater","GameStop","Digital","PS4",2,17,10000,11
-"Tony Hawk's Pro Skater","Epic Games","Digital","PC",5,18,10000,8
-"Tony Hawk's Pro Skater","Humble Bundle","Digital","PC",5,13,10000,12
-"Tony Hawk's Pro Skater","GOG","Digital","PC",4,94,10000,59
-"Tony Hawk's Pro Skater","eStarland","Physical","Switch",2,67,7219,58
-"Resident Evil Village","Walmart","Physical","PS4",2,39,7912,22
-"Resident Evil Village","Walmart","Digital","PC",5,71,10000,36
-"Resident Evil Village","Amazon","Physical","PC",3,33,641,25
-"Resident Evil Village","Amazon","Digital","PS5",3,53,10000,14
-"Resident Evil Village","Steam","Digital","PC",2,93,10000,91
-"Resident Evil Village","Best Buy","Physical","Switch",2,79,4473,29
-"Resident Evil Village","Best Buy","Digital","PS4",5,77,10000,65
-"Resident Evil Village","Target","Physical","Switch",2,61,3633,23
-"Resident Evil Village","Target","Digital","Switch",2,87,10000,76
-"Resident Evil Village","GameStop","Physical","PS4",1,100,5134,57
-"Resident Evil Village","GameStop","Digital","PS4",3,21,10000,6
-"Resident Evil Village","Epic Games","Digital","PC",1,56,10000,27
-"Resident Evil Village","Humble Bundle","Digital","PC",2,50,10000,22
-"Resident Evil Village","GOG","Digital","PC",4,56,10000,32
-"Resident Evil Village","eStarland","Physical","PC",1,59,8197,55
-"Far Cry 6","Walmart","Physical","Switch",3,17,4713,11
-"Far Cry 6","Walmart","Digital","PC",4,22,10000,16
-"Far Cry 6","Amazon","Physical","XBox",5,15,8253,7
-"Far Cry 6","Amazon","Digital","PS4",3,93,10000,33
-"Far Cry 6","Steam","Digital","PC",2,25,10000,16
-"Far Cry 6","Best Buy","Physical","Switch",2,58,7237,43
-"Far Cry 6","Best Buy","Digital","Switch",1,23,10000,5
-"Far Cry 6","Target","Physical","PS4",1,61,2227,44
-"Far Cry 6","Target","Digital","PC",3,38,10000,19
-"Far Cry 6","GameStop","Physical","PC",5,69,1602,34
-"Far Cry 6","GameStop","Digital","Switch",1,89,10000,17
-"Far Cry 6","Epic Games","Digital","PC",4,17,10000,12
-"Far Cry 6","Humble Bundle","Digital","PC",1,52,10000,43
-"Far Cry 6","GOG","Digital","PC",1,34,10000,28
-"Far Cry 6","eStarland","Physical","XBox",2,63,1564,24
-"Hitman 3","Walmart","Physical","XBox",1,51,4807,25
-"Hitman 3","Walmart","Digital","Switch",2,71,10000,27
-"Hitman 3","Amazon","Physical","XBox",1,86,7263,50
-"Hitman 3","Amazon","Digital","PS5",4,76,10000,27
-"Hitman 3","Steam","Digital","PC",1,90,10000,90
-"Hitman 3","Best Buy","Physical","XBox",4,19,5241,18
-"Hitman 3","Best Buy","Digital","PS5",2,34,10000,10
-"Hitman 3","Target","Physical","XBox",5,61,3259,24
-"Hitman 3","Target","Digital","PS5",5,55,10000,55
-"Hitman 3","GameStop","Physical","Switch",2,15,6647,14
-"Hitman 3","GameStop","Digital","Switch",1,53,10000,31
-"Hitman 3","Epic Games","Digital","PC",2,90,10000,35
-"Hitman 3","Humble Bundle","Digital","PC",1,53,10000,19
-"Hitman 3","GOG","Digital","PC",4,26,10000,11
-"Hitman 3","eStarland","Physical","PS4",2,55,9902,31
-"It Takes Two","Walmart","Physical","Switch",4,60,7364,29
-"It Takes Two","Walmart","Digital","PS4",4,73,10000,67
-"It Takes Two","Amazon","Physical","PS5",4,45,909,38
-"It Takes Two","Amazon","Digital","XBox",4,38,10000,22
-"It Takes Two","Steam","Digital","PC",3,24,10000,23
-"It Takes Two","Best Buy","Physical","PS4",4,93,6601,42
-"It Takes Two","Best Buy","Digital","PS4",2,29,10000,17
-"It Takes Two","Target","Physical","PS4",2,15,6132,11
-"It Takes Two","Target","Digital","XBox",3,10,10000,7
-"It Takes Two","GameStop","Physical","PS5",5,75,3458,17
-"It Takes Two","GameStop","Digital","PS5",3,87,10000,43
-"It Takes Two","Epic Games","Digital","PC",3,75,10000,10
-"It Takes Two","Humble Bundle","Digital","PC",2,77,10000,49
-"It Takes Two","GOG","Digital","PC",1,28,10000,24
-"It Takes Two","eStarland","Physical","Switch",4,34,7131,7
-"New Pokemon Snap","Walmart","Physical","Switch",3,10,5904,9
-"New Pokemon Snap","Walmart","Digital","Switch",5,49,10000,20
-"New Pokemon Snap","Amazon","Physical","Switch",5,45,4417,12
-"New Pokemon Snap","Amazon","Digital","Switch",5,60,10000,11
-"New Pokemon Snap","Steam","Digital","Switch",1,82,10000,58
-"New Pokemon Snap","Best Buy","Physical","Switch",4,80,579,46
-"New Pokemon Snap","Best Buy","Digital","Switch",4,20,10000,14
-"New Pokemon Snap","Target","Physical","Switch",3,99,3981,71
-"New Pokemon Snap","Target","Digital","Switch",5,70,10000,8
-"New Pokemon Snap","GameStop","Physical","Switch",5,27,6613,6
-"New Pokemon Snap","GameStop","Digital","Switch",1,67,10000,38
-"New Pokemon Snap","Epic Games","Digital","Switch",2,96,10000,90
-"New Pokemon Snap","Humble Bundle","Digital","Switch",2,53,10000,15
-"New Pokemon Snap","GOG","Digital","Switch",3,91,10000,9
-"New Pokemon Snap","eStarland","Physical","Switch",3,97,6782,88
-"Cyber Shadow","Walmart","Physical","XBox",2,47,5920,21
-"Cyber Shadow","Walmart","Digital","PS4",1,38,10000,16
-"Cyber Shadow","Amazon","Physical","XBox",4,42,5074,41
-"Cyber Shadow","Amazon","Digital","XBox",1,42,10000,29
-"Cyber Shadow","Steam","Digital","PC",3,34,10000,9
-"Cyber Shadow","Best Buy","Physical","PC",3,32,3433,14
-"Cyber Shadow","Best Buy","Digital","PS5",5,74,10000,74
-"Cyber Shadow","Target","Physical","PS4",5,12,3223,10
-"Cyber Shadow","Target","Digital","PS5",3,79,10000,38
-"Cyber Shadow","GameStop","Physical","PS4",2,46,7057,24
-"Cyber Shadow","GameStop","Digital","PC",1,99,10000,84
-"Cyber Shadow","Epic Games","Digital","PC",3,89,10000,71
-"Cyber Shadow","Humble Bundle","Digital","PC",1,66,10000,63
-"Cyber Shadow","GOG","Digital","PC",1,47,10000,37
-"Cyber Shadow","eStarland","Physical","Switch",2,80,1236,23
-"Metro Exodus","Walmart","Physical","PS5",1,98,6754,62
-"Metro Exodus","Walmart","Digital","PC",3,47,10000,7
-"Metro Exodus","Amazon","Physical","PS4",2,30,8146,18
-"Metro Exodus","Amazon","Digital","XBox",5,14,10000,10
-"Metro Exodus","Steam","Digital","PC",3,48,10000,22
-"Metro Exodus","Best Buy","Physical","XBox",2,15,4677,6
-"Metro Exodus","Best Buy","Digital","XBox",3,36,10000,20
-"Metro Exodus","Target","Physical","PS4",4,96,7005,82
-"Metro Exodus","Target","Digital","XBox",1,96,10000,86
-"Metro Exodus","GameStop","Physical","XBox",1,52,7877,10
-"Metro Exodus","GameStop","Digital","PS4",3,15,10000,8
-"Metro Exodus","Epic Games","Digital","PC",2,24,10000,5
-"Metro Exodus","Humble Bundle","Digital","PC",3,74,10000,43
-"Metro Exodus","GOG","Digital","PC",4,78,10000,21
-"Metro Exodus","eStarland","Physical","XBox",3,44,7583,35
-"Untitled Goose Game","Walmart","Physical","Switch",2,62,8795,33
-"Untitled Goose Game","Walmart","Digital","Switch",2,88,10000,66
-"Untitled Goose Game","Amazon","Physical","PS5",2,84,7684,78
-"Untitled Goose Game","Amazon","Digital","PS5",2,49,10000,35
-"Untitled Goose Game","Steam","Digital","PC",3,48,10000,33
-"Untitled Goose Game","Best Buy","Physical","XBox",5,90,5855,47
-"Untitled Goose Game","Best Buy","Digital","PS5",2,21,10000,14
-"Untitled Goose Game","Target","Physical","PS4",4,17,9259,8
-"Untitled Goose Game","Target","Digital","PC",3,46,10000,7
-"Untitled Goose Game","GameStop","Physical","PS5",3,47,1447,47
-"Untitled Goose Game","GameStop","Digital","PC",1,68,10000,22
-"Untitled Goose Game","Epic Games","Digital","PC",4,16,10000,10
-"Untitled Goose Game","Humble Bundle","Digital","PC",2,43,10000,16
-"Untitled Goose Game","GOG","Digital","PC",1,55,10000,30
-"Untitled Goose Game","eStarland","Physical","XBox",5,44,2498,29
-"Overcooked 2","Walmart","Physical","PS4",1,40,4720,23
-"Overcooked 2","Walmart","Digital","PC",2,27,10000,6
-"Overcooked 2","Amazon","Physical","Switch",5,91,1076,29
-"Overcooked 2","Amazon","Digital","XBox",3,40,10000,9
-"Overcooked 2","Steam","Digital","PC",2,41,10000,14
-"Overcooked 2","Best Buy","Physical","PS5",5,72,8180,30
-"Overcooked 2","Best Buy","Digital","PC",3,10,10000,7
-"Overcooked 2","Target","Physical","PS4",5,83,1158,28
-"Overcooked 2","Target","Digital","PC",4,100,10000,58
-"Overcooked 2","GameStop","Physical","XBox",2,79,9669,61
-"Overcooked 2","GameStop","Digital","PS5",4,70,10000,53
-"Overcooked 2","Epic Games","Digital","PC",3,54,10000,34
-"Overcooked 2","Humble Bundle","Digital","PC",3,57,10000,19
-"Overcooked 2","GOG","Digital","PC",5,39,10000,9
-"Overcooked 2","eStarland","Physical","PS5",3,61,1330,47
-"Aggelos","Walmart","Physical","PC",4,94,387,86
-"Aggelos","Walmart","Digital","PS4",4,92,10000,35
-"Aggelos","Amazon","Physical","PS4",2,82,7882,63
-"Aggelos","Amazon","Digital","XBox",2,23,10000,11
-"Aggelos","Steam","Digital","PC",5,64,10000,41
-"Aggelos","Best Buy","Physical","XBox",1,65,2489,35
-"Aggelos","Best Buy","Digital","Switch",5,68,10000,37
-"Aggelos","Target","Physical","PS4",4,25,8353,7
-"Aggelos","Target","Digital","PS5",2,39,10000,13
-"Aggelos","GameStop","Physical","PS5",4,87,6525,41
-"Aggelos","GameStop","Digital","XBox",1,41,10000,35
-"Aggelos","Epic Games","Digital","PC",3,79,10000,37
-"Aggelos","Humble Bundle","Digital","PC",4,68,10000,18
-"Aggelos","GOG","Digital","PC",2,97,10000,20
-"Aggelos","eStarland","Physical","PC",3,29,3113,23
+"Dark Souls","Walmart","Physical","XBox","3","31","2134","7"
+"Dark Souls","Walmart","Digital","PC","1","14",NULL,"8"
+"Dark Souls","Amazon","Physical","PS4","3","58","8344","11"
+"Dark Souls","Amazon","Digital","XBox","5","40",NULL,"19"
+"Dark Souls","Steam","Digital","PC","4","72",NULL,"54"
+"Dark Souls","Best Buy","Physical","Switch","2","93","6376","67"
+"Dark Souls","Best Buy","Digital","Switch","4","89",NULL,"64"
+"Dark Souls","Target","Physical","PS4","3","94","4839","82"
+"Dark Souls","Target","Digital","PS4","1","91",NULL,"61"
+"Dark Souls","GameStop","Physical","PS5","4","70","1922","11"
+"Dark Souls","GameStop","Digital","XBox","3","27",NULL,"17"
+"Dark Souls","Epic Games","Digital","PC","1","45",NULL,"31"
+"Dark Souls","Humble Bundle","Digital","PC","4","82",NULL,"66"
+"Dark Souls","GOG","Digital","PC","5","63",NULL,"12"
+"Dark Souls","eStarland","Physical","PS4","5","41","7427","28"
+"Returnal","Walmart","Physical","PS5","4","43","9490","7"
+"Returnal","Walmart","Digital","PS5","2","64",NULL,"7"
+"Returnal","Amazon","Physical","PS5","4","88","1262","43"
+"Returnal","Amazon","Digital","PS5","5","54",NULL,"48"
+"Returnal","Steam","Digital","PS5","3","63",NULL,"25"
+"Returnal","Best Buy","Physical","PS5","5","82","5054","75"
+"Returnal","Best Buy","Digital","PS5","3","93",NULL,"53"
+"Returnal","Target","Physical","PS5","3","33","3425","17"
+"Returnal","Target","Digital","PS5","4","78",NULL,"60"
+"Returnal","GameStop","Physical","PS5","3","71","6152","26"
+"Returnal","GameStop","Digital","PS5","1","29",NULL,"8"
+"Returnal","Epic Games","Digital","PS5","5","100",NULL,"19"
+"Returnal","Humble Bundle","Digital","PS5","2","42",NULL,"36"
+"Returnal","GOG","Digital","PS5","5","62",NULL,"42"
+"Returnal","eStarland","Physical","PS5","1","20","5374","13"
+"Skyrim","Walmart","Physical","PS4","5","10","8851","5"
+"Skyrim","Walmart","Digital","PC","2","82",NULL,"43"
+"Skyrim","Amazon","Physical","Switch","5","70","1826","29"
+"Skyrim","Amazon","Digital","Switch","2","61",NULL,"11"
+"Skyrim","Steam","Digital","PC","2","37",NULL,"36"
+"Skyrim","Best Buy","Physical","PC","1","48","8385","6"
+"Skyrim","Best Buy","Digital","PS5","4","67",NULL,"55"
+"Skyrim","Target","Physical","Switch","2","19","5668","10"
+"Skyrim","Target","Digital","PS4","4","45",NULL,"32"
+"Skyrim","GameStop","Physical","PS5","1","91","9399","13"
+"Skyrim","GameStop","Digital","Switch","5","70",NULL,"60"
+"Skyrim","Epic Games","Digital","PC","5","89",NULL,"87"
+"Skyrim","Humble Bundle","Digital","PC","4","26",NULL,"23"
+"Skyrim","GOG","Digital","PC","1","14",NULL,"10"
+"Skyrim","eStarland","Physical","PS4","1","36","3191","22"
+"Dark Souls 2","Walmart","Physical","Switch","5","21","5532","19"
+"Dark Souls 2","Walmart","Digital","PS5","3","28",NULL,"5"
+"Dark Souls 2","Amazon","Physical","PS4","2","42","1451","20"
+"Dark Souls 2","Amazon","Digital","XBox","1","95",NULL,"12"
+"Dark Souls 2","Steam","Digital","PC","4","24",NULL,"18"
+"Dark Souls 2","Best Buy","Physical","PC","4","96","3229","85"
+"Dark Souls 2","Best Buy","Digital","XBox","4","73",NULL,"47"
+"Dark Souls 2","Target","Physical","PC","1","64","7467","58"
+"Dark Souls 2","Target","Digital","PC","3","16",NULL,"13"
+"Dark Souls 2","GameStop","Physical","PS4","1","52","3145","40"
+"Dark Souls 2","GameStop","Digital","Switch","4","49",NULL,"22"
+"Dark Souls 2","Epic Games","Digital","PC","5","56",NULL,"34"
+"Dark Souls 2","Humble Bundle","Digital","PC","5","68",NULL,"63"
+"Dark Souls 2","GOG","Digital","PC","2","56",NULL,"26"
+"Dark Souls 2","eStarland","Physical","Switch","3","38","2346","29"
+"Dark Souls 3","Walmart","Physical","PC","2","65","1095","62"
+"Dark Souls 3","Walmart","Digital","PS4","5","65",NULL,"50"
+"Dark Souls 3","Amazon","Physical","PC","1","14","5147","7"
+"Dark Souls 3","Amazon","Digital","Switch","4","79",NULL,"47"
+"Dark Souls 3","Steam","Digital","PC","1","62",NULL,"50"
+"Dark Souls 3","Best Buy","Physical","PS4","5","46","9429","34"
+"Dark Souls 3","Best Buy","Digital","PS5","1","49",NULL,"35"
+"Dark Souls 3","Target","Physical","PS5","1","28","5194","9"
+"Dark Souls 3","Target","Digital","PS4","5","24",NULL,"9"
+"Dark Souls 3","GameStop","Physical","PS4","1","91","8115","76"
+"Dark Souls 3","GameStop","Digital","PC","5","56",NULL,"52"
+"Dark Souls 3","Epic Games","Digital","PC","3","96",NULL,"45"
+"Dark Souls 3","Humble Bundle","Digital","PC","4","64",NULL,"19"
+"Dark Souls 3","GOG","Digital","PC","4","98",NULL,"44"
+"Dark Souls 3","eStarland","Physical","PC","1","98","7512","32"
+"Grand Theft Auto IV","Walmart","Physical","PC","2","26","276","25"
+"Grand Theft Auto IV","Walmart","Digital","PS4","1","57",NULL,"44"
+"Grand Theft Auto IV","Amazon","Physical","XBox","5","92","5450","65"
+"Grand Theft Auto IV","Amazon","Digital","PC","2","29",NULL,"11"
+"Grand Theft Auto IV","Steam","Digital","PC","3","48",NULL,"42"
+"Grand Theft Auto IV","Best Buy","Physical","Switch","4","29","1191","6"
+"Grand Theft Auto IV","Best Buy","Digital","XBox","4","76",NULL,"23"
+"Grand Theft Auto IV","Target","Physical","XBox","3","73","2358","42"
+"Grand Theft Auto IV","Target","Digital","PC","3","93",NULL,"55"
+"Grand Theft Auto IV","GameStop","Physical","PS5","2","33","8036","16"
+"Grand Theft Auto IV","GameStop","Digital","PS4","4","92",NULL,"63"
+"Grand Theft Auto IV","Epic Games","Digital","PC","4","42",NULL,"13"
+"Grand Theft Auto IV","Humble Bundle","Digital","PC","1","58",NULL,"45"
+"Grand Theft Auto IV","GOG","Digital","PC","2","54",NULL,"12"
+"Grand Theft Auto IV","eStarland","Physical","PS5","5","65","8345","20"
+"Grand Theft Auto V","Walmart","Physical","XBox","3","71","4517","11"
+"Grand Theft Auto V","Walmart","Digital","XBox","3","10",NULL,"8"
+"Grand Theft Auto V","Amazon","Physical","Switch","4","29","1712","23"
+"Grand Theft Auto V","Amazon","Digital","PC","2","69",NULL,"56"
+"Grand Theft Auto V","Steam","Digital","PC","1","79",NULL,"32"
+"Grand Theft Auto V","Best Buy","Physical","PC","2","100","6510","83"
+"Grand Theft Auto V","Best Buy","Digital","PS5","2","22",NULL,"22"
+"Grand Theft Auto V","Target","Physical","PS4","2","85","6707","51"
+"Grand Theft Auto V","Target","Digital","PS4","3","40",NULL,"23"
+"Grand Theft Auto V","GameStop","Physical","PC","2","85","2197","36"
+"Grand Theft Auto V","GameStop","Digital","Switch","4","60",NULL,"54"
+"Grand Theft Auto V","Epic Games","Digital","PC","1","18",NULL,"11"
+"Grand Theft Auto V","Humble Bundle","Digital","PC","1","74",NULL,"60"
+"Grand Theft Auto V","GOG","Digital","PC","1","53",NULL,"52"
+"Grand Theft Auto V","eStarland","Physical","Switch","2","74","7304","34"
+"Sekiro: Shadows Dies Twice","Walmart","Physical","XBox","4","92","1465","18"
+"Sekiro: Shadows Dies Twice","Walmart","Digital","PC","2","46",NULL,"14"
+"Sekiro: Shadows Dies Twice","Amazon","Physical","Switch","2","42","7203","13"
+"Sekiro: Shadows Dies Twice","Amazon","Digital","XBox","4","82",NULL,"15"
+"Sekiro: Shadows Dies Twice","Steam","Digital","PC","4","38",NULL,"25"
+"Sekiro: Shadows Dies Twice","Best Buy","Physical","XBox","5","24","3737","6"
+"Sekiro: Shadows Dies Twice","Best Buy","Digital","XBox","2","22",NULL,"14"
+"Sekiro: Shadows Dies Twice","Target","Physical","PS4","2","76","9243","19"
+"Sekiro: Shadows Dies Twice","Target","Digital","PS5","2","48",NULL,"42"
+"Sekiro: Shadows Dies Twice","GameStop","Physical","PC","3","66","2009","47"
+"Sekiro: Shadows Dies Twice","GameStop","Digital","Switch","4","76",NULL,"26"
+"Sekiro: Shadows Dies Twice","Epic Games","Digital","PC","4","14",NULL,"9"
+"Sekiro: Shadows Dies Twice","Humble Bundle","Digital","PC","3","52",NULL,"40"
+"Sekiro: Shadows Dies Twice","GOG","Digital","PC","1","77",NULL,"66"
+"Sekiro: Shadows Dies Twice","eStarland","Physical","XBox","4","45","8424","35"
+"Red Dead Redemption","Walmart","Physical","PS4","5","73","153","35"
+"Red Dead Redemption","Walmart","Digital","Switch","5","77",NULL,"50"
+"Red Dead Redemption","Amazon","Physical","PS4","5","89","882","49"
+"Red Dead Redemption","Amazon","Digital","Switch","1","42",NULL,"32"
+"Red Dead Redemption","Steam","Digital","PC","5","75",NULL,"26"
+"Red Dead Redemption","Best Buy","Physical","PS4","1","91","101","71"
+"Red Dead Redemption","Best Buy","Digital","Switch","4","65",NULL,"19"
+"Red Dead Redemption","Target","Physical","PC","2","87","7395","19"
+"Red Dead Redemption","Target","Digital","PC","4","99",NULL,"40"
+"Red Dead Redemption","GameStop","Physical","PS4","3","66","6367","58"
+"Red Dead Redemption","GameStop","Digital","XBox","5","54",NULL,"25"
+"Red Dead Redemption","Epic Games","Digital","PC","5","73",NULL,"45"
+"Red Dead Redemption","Humble Bundle","Digital","PC","4","54",NULL,"13"
+"Red Dead Redemption","GOG","Digital","PC","1","42",NULL,"27"
+"Red Dead Redemption","eStarland","Physical","PS5","5","18","8882","14"
+"Red Dead Redemption 2","Walmart","Physical","Switch","2","29","449","22"
+"Red Dead Redemption 2","Walmart","Digital","XBox","2","55",NULL,"51"
+"Red Dead Redemption 2","Amazon","Physical","PS5","3","75","4214","44"
+"Red Dead Redemption 2","Amazon","Digital","Switch","2","83",NULL,"50"
+"Red Dead Redemption 2","Steam","Digital","PC","5","89",NULL,"10"
+"Red Dead Redemption 2","Best Buy","Physical","Switch","1","45","2165","18"
+"Red Dead Redemption 2","Best Buy","Digital","PS5","2","69",NULL,"68"
+"Red Dead Redemption 2","Target","Physical","PC","4","86","5057","7"
+"Red Dead Redemption 2","Target","Digital","PS5","1","47",NULL,"7"
+"Red Dead Redemption 2","GameStop","Physical","PC","2","31","9370","19"
+"Red Dead Redemption 2","GameStop","Digital","PS4","1","18",NULL,"17"
+"Red Dead Redemption 2","Epic Games","Digital","PC","2","64",NULL,"21"
+"Red Dead Redemption 2","Humble Bundle","Digital","PC","3","72",NULL,"41"
+"Red Dead Redemption 2","GOG","Digital","PC","2","10",NULL,"6"
+"Red Dead Redemption 2","eStarland","Physical","Switch","1","24","6550","8"
+"Little Nightmares","Walmart","Physical","XBox","1","48","6146","24"
+"Little Nightmares","Walmart","Digital","Switch","3","32",NULL,"10"
+"Little Nightmares","Amazon","Physical","Switch","2","19","7182","9"
+"Little Nightmares","Amazon","Digital","PS4","2","63",NULL,"25"
+"Little Nightmares","Steam","Digital","PC","2","55",NULL,"46"
+"Little Nightmares","Best Buy","Physical","PS4","2","79","8430","29"
+"Little Nightmares","Best Buy","Digital","PS5","2","89",NULL,"27"
+"Little Nightmares","Target","Physical","XBox","2","80","4058","21"
+"Little Nightmares","Target","Digital","PS5","2","68",NULL,"23"
+"Little Nightmares","GameStop","Physical","Switch","5","11","5676","9"
+"Little Nightmares","GameStop","Digital","PC","1","94",NULL,"57"
+"Little Nightmares","Epic Games","Digital","PC","1","86",NULL,"75"
+"Little Nightmares","Humble Bundle","Digital","PC","4","35",NULL,"10"
+"Little Nightmares","GOG","Digital","PC","3","77",NULL,"40"
+"Little Nightmares","eStarland","Physical","Switch","1","49","7418","16"
+"Little Nightmares 2","Walmart","Physical","PS4","1","18","1333","6"
+"Little Nightmares 2","Walmart","Digital","PS5","3","23",NULL,"17"
+"Little Nightmares 2","Amazon","Physical","PS5","2","13","1493","5"
+"Little Nightmares 2","Amazon","Digital","PC","1","93",NULL,"39"
+"Little Nightmares 2","Steam","Digital","PC","1","80",NULL,"5"
+"Little Nightmares 2","Best Buy","Physical","Switch","2","10","8066","9"
+"Little Nightmares 2","Best Buy","Digital","PC","2","84",NULL,"6"
+"Little Nightmares 2","Target","Physical","PS5","3","90","2978","7"
+"Little Nightmares 2","Target","Digital","PS5","2","92",NULL,"13"
+"Little Nightmares 2","GameStop","Physical","XBox","3","51","9027","49"
+"Little Nightmares 2","GameStop","Digital","Switch","3","64",NULL,"49"
+"Little Nightmares 2","Epic Games","Digital","PC","1","66",NULL,"39"
+"Little Nightmares 2","Humble Bundle","Digital","PC","4","37",NULL,"17"
+"Little Nightmares 2","GOG","Digital","PC","5","62",NULL,"48"
+"Little Nightmares 2","eStarland","Physical","PC","2","64","1579","55"
+"Celeste","Walmart","Physical","Switch","4","87","3507","17"
+"Celeste","Walmart","Digital","PS5","2","12",NULL,"8"
+"Celeste","Amazon","Physical","PS5","2","73","7757","10"
+"Celeste","Amazon","Digital","PS5","3","37",NULL,"11"
+"Celeste","Steam","Digital","PC","1","76",NULL,"59"
+"Celeste","Best Buy","Physical","PS5","4","99","4540","92"
+"Celeste","Best Buy","Digital","PS4","4","48",NULL,"19"
+"Celeste","Target","Physical","PS4","3","81","7911","50"
+"Celeste","Target","Digital","PS4","3","78",NULL,"31"
+"Celeste","GameStop","Physical","Switch","1","84","9286","74"
+"Celeste","GameStop","Digital","XBox","1","25",NULL,"11"
+"Celeste","Epic Games","Digital","PC","4","54",NULL,"14"
+"Celeste","Humble Bundle","Digital","PC","4","76",NULL,"41"
+"Celeste","GOG","Digital","PC","1","30",NULL,"29"
+"Celeste","eStarland","Physical","PS5","2","36","6560","20"
+"NieR: Automata","Walmart","Physical","PS5","1","78","9226","22"
+"NieR: Automata","Walmart","Digital","Switch","4","27",NULL,"18"
+"NieR: Automata","Amazon","Physical","Switch","4","43","4923","16"
+"NieR: Automata","Amazon","Digital","Switch","3","40",NULL,"35"
+"NieR: Automata","Steam","Digital","PC","2","49",NULL,"33"
+"NieR: Automata","Best Buy","Physical","PC","4","53","1157","53"
+"NieR: Automata","Best Buy","Digital","PC","1","61",NULL,"43"
+"NieR: Automata","Target","Physical","Switch","2","27","2222","23"
+"NieR: Automata","Target","Digital","PS5","2","54",NULL,"36"
+"NieR: Automata","GameStop","Physical","XBox","5","40","4943","12"
+"NieR: Automata","GameStop","Digital","Switch","4","72",NULL,"60"
+"NieR: Automata","Epic Games","Digital","PC","4","78",NULL,"16"
+"NieR: Automata","Humble Bundle","Digital","PC","2","67",NULL,"7"
+"NieR: Automata","GOG","Digital","PC","4","92",NULL,"70"
+"NieR: Automata","eStarland","Physical","PC","2","29","3723","18"
+"Monster Hunter World","Walmart","Physical","PC","3","51","4332","49"
+"Monster Hunter World","Walmart","Digital","PC","4","17",NULL,"12"
+"Monster Hunter World","Amazon","Physical","PS5","4","72","1088","26"
+"Monster Hunter World","Amazon","Digital","PS5","2","83",NULL,"80"
+"Monster Hunter World","Steam","Digital","PC","4","14",NULL,"10"
+"Monster Hunter World","Best Buy","Physical","Switch","3","90","5039","60"
+"Monster Hunter World","Best Buy","Digital","PC","5","96",NULL,"68"
+"Monster Hunter World","Target","Physical","PS5","5","38","5607","25"
+"Monster Hunter World","Target","Digital","PS5","3","29",NULL,"9"
+"Monster Hunter World","GameStop","Physical","PS5","1","81","5858","36"
+"Monster Hunter World","GameStop","Digital","XBox","1","18",NULL,"9"
+"Monster Hunter World","Epic Games","Digital","PC","4","14",NULL,"7"
+"Monster Hunter World","Humble Bundle","Digital","PC","1","67",NULL,"35"
+"Monster Hunter World","GOG","Digital","PC","1","96",NULL,"95"
+"Monster Hunter World","eStarland","Physical","PC","3","43","9893","16"
+"Yakuza 0","Walmart","Physical","Switch","5","35","6598","15"
+"Yakuza 0","Walmart","Digital","XBox","4","63",NULL,"61"
+"Yakuza 0","Amazon","Physical","PS4","1","71","8544","28"
+"Yakuza 0","Amazon","Digital","PC","5","57",NULL,"14"
+"Yakuza 0","Steam","Digital","PC","4","17",NULL,"13"
+"Yakuza 0","Best Buy","Physical","XBox","2","71","6611","68"
+"Yakuza 0","Best Buy","Digital","Switch","3","16",NULL,"9"
+"Yakuza 0","Target","Physical","Switch","5","15","4390","9"
+"Yakuza 0","Target","Digital","PS5","5","60",NULL,"12"
+"Yakuza 0","GameStop","Physical","XBox","5","57","4482","36"
+"Yakuza 0","GameStop","Digital","PS5","5","69",NULL,"47"
+"Yakuza 0","Epic Games","Digital","PC","2","80",NULL,"30"
+"Yakuza 0","Humble Bundle","Digital","PC","5","43",NULL,"14"
+"Yakuza 0","GOG","Digital","PC","5","59",NULL,"12"
+"Yakuza 0","eStarland","Physical","PS5","5","80","7299","46"
+"Yakuza Kiwami","Walmart","Physical","PC","5","38","887","36"
+"Yakuza Kiwami","Walmart","Digital","XBox","4","24",NULL,"10"
+"Yakuza Kiwami","Amazon","Physical","PS4","1","83","6617","20"
+"Yakuza Kiwami","Amazon","Digital","Switch","5","96",NULL,"23"
+"Yakuza Kiwami","Steam","Digital","PC","2","17",NULL,"16"
+"Yakuza Kiwami","Best Buy","Physical","PS5","2","60","8437","19"
+"Yakuza Kiwami","Best Buy","Digital","Switch","1","43",NULL,"23"
+"Yakuza Kiwami","Target","Physical","Switch","3","11","9204","7"
+"Yakuza Kiwami","Target","Digital","PS4","1","84",NULL,"71"
+"Yakuza Kiwami","GameStop","Physical","PS4","4","41","5096","6"
+"Yakuza Kiwami","GameStop","Digital","XBox","3","81",NULL,"62"
+"Yakuza Kiwami","Epic Games","Digital","PC","2","70",NULL,"56"
+"Yakuza Kiwami","Humble Bundle","Digital","PC","5","47",NULL,"43"
+"Yakuza Kiwami","GOG","Digital","PC","2","67",NULL,"10"
+"Yakuza Kiwami","eStarland","Physical","PS4","3","79","2718","62"
+"Yakuza Kiwami 2","Walmart","Physical","PS4","3","10","1265","10"
+"Yakuza Kiwami 2","Walmart","Digital","PS5","4","52",NULL,"32"
+"Yakuza Kiwami 2","Amazon","Physical","PS4","3","85","597","30"
+"Yakuza Kiwami 2","Amazon","Digital","XBox","5","27",NULL,"8"
+"Yakuza Kiwami 2","Steam","Digital","PC","2","18",NULL,"12"
+"Yakuza Kiwami 2","Best Buy","Physical","PC","1","85","7914","49"
+"Yakuza Kiwami 2","Best Buy","Digital","Switch","4","100",NULL,"15"
+"Yakuza Kiwami 2","Target","Physical","PS5","2","32","9861","16"
+"Yakuza Kiwami 2","Target","Digital","PS5","5","74",NULL,"34"
+"Yakuza Kiwami 2","GameStop","Physical","PS4","2","59","2780","22"
+"Yakuza Kiwami 2","GameStop","Digital","PS5","2","24",NULL,"5"
+"Yakuza Kiwami 2","Epic Games","Digital","PC","4","90",NULL,"22"
+"Yakuza Kiwami 2","Humble Bundle","Digital","PC","5","15",NULL,"8"
+"Yakuza Kiwami 2","GOG","Digital","PC","5","44",NULL,"7"
+"Yakuza Kiwami 2","eStarland","Physical","PS5","3","81","9771","21"
+"Yakuza 6: The Song of Life","Walmart","Physical","Switch","1","42","6370","26"
+"Yakuza 6: The Song of Life","Walmart","Digital","PS4","2","38",NULL,"22"
+"Yakuza 6: The Song of Life","Amazon","Physical","XBox","4","36","2661","22"
+"Yakuza 6: The Song of Life","Amazon","Digital","PS4","3","97",NULL,"44"
+"Yakuza 6: The Song of Life","Steam","Digital","PC","5","75",NULL,"56"
+"Yakuza 6: The Song of Life","Best Buy","Physical","Switch","1","26","2321","19"
+"Yakuza 6: The Song of Life","Best Buy","Digital","Switch","4","61",NULL,"24"
+"Yakuza 6: The Song of Life","Target","Physical","PS5","5","57","2891","44"
+"Yakuza 6: The Song of Life","Target","Digital","PC","4","60",NULL,"47"
+"Yakuza 6: The Song of Life","GameStop","Physical","PC","1","30","8813","9"
+"Yakuza 6: The Song of Life","GameStop","Digital","PS5","5","46",NULL,"38"
+"Yakuza 6: The Song of Life","Epic Games","Digital","PC","3","79",NULL,"14"
+"Yakuza 6: The Song of Life","Humble Bundle","Digital","PC","5","82",NULL,"15"
+"Yakuza 6: The Song of Life","GOG","Digital","PC","3","13",NULL,"7"
+"Yakuza 6: The Song of Life","eStarland","Physical","Switch","1","48","456","40"
+"Yakuza: Like a Dragon","Walmart","Physical","PC","1","40","812","6"
+"Yakuza: Like a Dragon","Walmart","Digital","Switch","3","96",NULL,"12"
+"Yakuza: Like a Dragon","Amazon","Physical","PC","3","53","959","26"
+"Yakuza: Like a Dragon","Amazon","Digital","PC","4","23",NULL,"13"
+"Yakuza: Like a Dragon","Steam","Digital","PC","4","47",NULL,"29"
+"Yakuza: Like a Dragon","Best Buy","Physical","XBox","4","36","7100","27"
+"Yakuza: Like a Dragon","Best Buy","Digital","XBox","1","94",NULL,"70"
+"Yakuza: Like a Dragon","Target","Physical","PS4","1","61","5265","57"
+"Yakuza: Like a Dragon","Target","Digital","PS5","4","46",NULL,"27"
+"Yakuza: Like a Dragon","GameStop","Physical","PS4","5","39","5258","39"
+"Yakuza: Like a Dragon","GameStop","Digital","PS4","3","13",NULL,"13"
+"Yakuza: Like a Dragon","Epic Games","Digital","PC","3","74",NULL,"6"
+"Yakuza: Like a Dragon","Humble Bundle","Digital","PC","2","34",NULL,"5"
+"Yakuza: Like a Dragon","GOG","Digital","PC","4","56",NULL,"16"
+"Yakuza: Like a Dragon","eStarland","Physical","XBox","4","96","2552","43"
+"Demon's Souls (2020)","Walmart","Physical","PS5","3","100","6482","23"
+"Demon's Souls (2020)","Walmart","Digital","PS5","4","14",NULL,"5"
+"Demon's Souls (2020)","Amazon","Physical","PS5","3","70","6264","70"
+"Demon's Souls (2020)","Amazon","Digital","PS5","2","78",NULL,"46"
+"Demon's Souls (2020)","Steam","Digital","PS5","5","84",NULL,"73"
+"Demon's Souls (2020)","Best Buy","Physical","PS5","3","23","4339","6"
+"Demon's Souls (2020)","Best Buy","Digital","PS5","4","71",NULL,"44"
+"Demon's Souls (2020)","Target","Physical","PS5","4","88","5603","40"
+"Demon's Souls (2020)","Target","Digital","PS5","1","30",NULL,"14"
+"Demon's Souls (2020)","GameStop","Physical","PS5","4","29","3071","13"
+"Demon's Souls (2020)","GameStop","Digital","PS5","5","27",NULL,"11"
+"Demon's Souls (2020)","Epic Games","Digital","PS5","1","42",NULL,"29"
+"Demon's Souls (2020)","Humble Bundle","Digital","PS5","5","97",NULL,"77"
+"Demon's Souls (2020)","GOG","Digital","PS5","3","87",NULL,"34"
+"Demon's Souls (2020)","eStarland","Physical","PS5","4","89","3726","70"
+"Mortal Kombat 11","Walmart","Physical","Switch","5","72","5431","61"
+"Mortal Kombat 11","Walmart","Digital","PS4","3","72",NULL,"15"
+"Mortal Kombat 11","Amazon","Physical","PS4","4","88","6567","7"
+"Mortal Kombat 11","Amazon","Digital","PS5","4","97",NULL,"54"
+"Mortal Kombat 11","Steam","Digital","PC","3","10",NULL,"7"
+"Mortal Kombat 11","Best Buy","Physical","PS5","4","65","6294","30"
+"Mortal Kombat 11","Best Buy","Digital","PS5","5","87",NULL,"44"
+"Mortal Kombat 11","Target","Physical","Switch","4","19","8121","7"
+"Mortal Kombat 11","Target","Digital","PC","5","41",NULL,"23"
+"Mortal Kombat 11","GameStop","Physical","PS4","3","52","8737","49"
+"Mortal Kombat 11","GameStop","Digital","PC","2","42",NULL,"31"
+"Mortal Kombat 11","Epic Games","Digital","PC","1","62",NULL,"39"
+"Mortal Kombat 11","Humble Bundle","Digital","PC","1","67",NULL,"44"
+"Mortal Kombat 11","GOG","Digital","PC","2","31",NULL,"5"
+"Mortal Kombat 11","eStarland","Physical","PS4","3","29","5366","10"
+"Streets of Rage 4","Walmart","Physical","XBox","1","65","7031","9"
+"Streets of Rage 4","Walmart","Digital","Switch","5","48",NULL,"31"
+"Streets of Rage 4","Amazon","Physical","PS4","5","86","8390","27"
+"Streets of Rage 4","Amazon","Digital","PC","5","95",NULL,"8"
+"Streets of Rage 4","Steam","Digital","PC","5","87",NULL,"85"
+"Streets of Rage 4","Best Buy","Physical","XBox","2","58","7080","7"
+"Streets of Rage 4","Best Buy","Digital","PS4","3","77",NULL,"35"
+"Streets of Rage 4","Target","Physical","XBox","2","23","398","22"
+"Streets of Rage 4","Target","Digital","PC","2","17",NULL,"5"
+"Streets of Rage 4","GameStop","Physical","PS4","1","50","5146","31"
+"Streets of Rage 4","GameStop","Digital","Switch","2","51",NULL,"34"
+"Streets of Rage 4","Epic Games","Digital","PC","3","31",NULL,"12"
+"Streets of Rage 4","Humble Bundle","Digital","PC","1","16",NULL,"16"
+"Streets of Rage 4","GOG","Digital","PC","3","36",NULL,"18"
+"Streets of Rage 4","eStarland","Physical","PC","4","22","9100","5"
+"Mortal Kombat X","Walmart","Physical","PS5","1","56","9894","53"
+"Mortal Kombat X","Walmart","Digital","Switch","5","49",NULL,"7"
+"Mortal Kombat X","Amazon","Physical","PC","1","45","5441","38"
+"Mortal Kombat X","Amazon","Digital","PC","5","41",NULL,"30"
+"Mortal Kombat X","Steam","Digital","PC","3","92",NULL,"12"
+"Mortal Kombat X","Best Buy","Physical","PC","4","78","7844","77"
+"Mortal Kombat X","Best Buy","Digital","PC","3","61",NULL,"23"
+"Mortal Kombat X","Target","Physical","PC","3","15","2966","7"
+"Mortal Kombat X","Target","Digital","PS4","5","77",NULL,"59"
+"Mortal Kombat X","GameStop","Physical","XBox","3","30","1884","18"
+"Mortal Kombat X","GameStop","Digital","PS5","3","89",NULL,"51"
+"Mortal Kombat X","Epic Games","Digital","PC","3","10",NULL,"10"
+"Mortal Kombat X","Humble Bundle","Digital","PC","1","94",NULL,"30"
+"Mortal Kombat X","GOG","Digital","PC","3","65",NULL,"38"
+"Mortal Kombat X","eStarland","Physical","XBox","5","68","7166","32"
+"Tekken 7","Walmart","Physical","Switch","1","22","2451","5"
+"Tekken 7","Walmart","Digital","Switch","1","29",NULL,"23"
+"Tekken 7","Amazon","Physical","PS4","2","60","7127","34"
+"Tekken 7","Amazon","Digital","Switch","1","94",NULL,"22"
+"Tekken 7","Steam","Digital","PC","1","53",NULL,"41"
+"Tekken 7","Best Buy","Physical","PC","5","99","5382","29"
+"Tekken 7","Best Buy","Digital","Switch","4","64",NULL,"50"
+"Tekken 7","Target","Physical","PC","4","58","987","30"
+"Tekken 7","Target","Digital","PS5","1","98",NULL,"22"
+"Tekken 7","GameStop","Physical","PC","4","67","9459","13"
+"Tekken 7","GameStop","Digital","PC","2","87",NULL,"64"
+"Tekken 7","Epic Games","Digital","PC","2","49",NULL,"17"
+"Tekken 7","Humble Bundle","Digital","PC","1","17",NULL,"14"
+"Tekken 7","GOG","Digital","PC","1","48",NULL,"7"
+"Tekken 7","eStarland","Physical","PS4","3","26","6423","14"
+"Street Fighter V","Walmart","Physical","PC","2","80","4706","42"
+"Street Fighter V","Walmart","Digital","PC","4","22",NULL,"8"
+"Street Fighter V","Amazon","Physical","XBox","5","70","6427","49"
+"Street Fighter V","Amazon","Digital","PS5","3","83",NULL,"80"
+"Street Fighter V","Steam","Digital","PC","1","18",NULL,"12"
+"Street Fighter V","Best Buy","Physical","PC","3","14","2393","8"
+"Street Fighter V","Best Buy","Digital","PS4","3","77",NULL,"56"
+"Street Fighter V","Target","Physical","XBox","2","92","9300","67"
+"Street Fighter V","Target","Digital","PC","4","17",NULL,"10"
+"Street Fighter V","GameStop","Physical","PS4","1","26","8974","14"
+"Street Fighter V","GameStop","Digital","PC","2","34",NULL,"32"
+"Street Fighter V","Epic Games","Digital","PC","4","27",NULL,"17"
+"Street Fighter V","Humble Bundle","Digital","PC","4","90",NULL,"56"
+"Street Fighter V","GOG","Digital","PC","3","22",NULL,"12"
+"Street Fighter V","eStarland","Physical","XBox","2","31","4682","10"
+"Diablo 3","Walmart","Physical","Switch","5","17","4361","14"
+"Diablo 3","Walmart","Digital","Switch","4","44",NULL,"23"
+"Diablo 3","Amazon","Physical","PS4","5","30","3831","28"
+"Diablo 3","Amazon","Digital","PC","4","93",NULL,"85"
+"Diablo 3","Steam","Digital","PC","4","90",NULL,"9"
+"Diablo 3","Best Buy","Physical","PC","3","57","9752","46"
+"Diablo 3","Best Buy","Digital","Switch","4","79",NULL,"21"
+"Diablo 3","Target","Physical","PS5","5","98","3417","18"
+"Diablo 3","Target","Digital","Switch","4","60",NULL,"39"
+"Diablo 3","GameStop","Physical","Switch","2","40","4513","13"
+"Diablo 3","GameStop","Digital","PC","3","19",NULL,"11"
+"Diablo 3","Epic Games","Digital","PC","5","71",NULL,"40"
+"Diablo 3","Humble Bundle","Digital","PC","5","94",NULL,"74"
+"Diablo 3","GOG","Digital","PC","3","77",NULL,"74"
+"Diablo 3","eStarland","Physical","PS5","3","70","7463","68"
+"The Witcher 3: Wild Hunt","Walmart","Physical","XBox","4","43","479","16"
+"The Witcher 3: Wild Hunt","Walmart","Digital","PC","4","74",NULL,"41"
+"The Witcher 3: Wild Hunt","Amazon","Physical","PS4","1","11","2062","8"
+"The Witcher 3: Wild Hunt","Amazon","Digital","PS5","2","32",NULL,"15"
+"The Witcher 3: Wild Hunt","Steam","Digital","PC","4","59",NULL,"55"
+"The Witcher 3: Wild Hunt","Best Buy","Physical","XBox","4","39","6233","27"
+"The Witcher 3: Wild Hunt","Best Buy","Digital","PS4","5","27",NULL,"14"
+"The Witcher 3: Wild Hunt","Target","Physical","XBox","3","69","300","59"
+"The Witcher 3: Wild Hunt","Target","Digital","Switch","4","74",NULL,"26"
+"The Witcher 3: Wild Hunt","GameStop","Physical","XBox","5","96","2213","31"
+"The Witcher 3: Wild Hunt","GameStop","Digital","PS5","4","45",NULL,"35"
+"The Witcher 3: Wild Hunt","Epic Games","Digital","PC","4","85",NULL,"31"
+"The Witcher 3: Wild Hunt","Humble Bundle","Digital","PC","3","29",NULL,"7"
+"The Witcher 3: Wild Hunt","GOG","Digital","PC","3","36",NULL,"8"
+"The Witcher 3: Wild Hunt","eStarland","Physical","XBox","4","79","7570","62"
+"Child of Light","Walmart","Physical","XBox","3","23","5703","20"
+"Child of Light","Walmart","Digital","PC","2","100",NULL,"25"
+"Child of Light","Amazon","Physical","PS4","1","51","3032","15"
+"Child of Light","Amazon","Digital","PC","5","70",NULL,"38"
+"Child of Light","Steam","Digital","PC","4","26",NULL,"24"
+"Child of Light","Best Buy","Physical","PS4","1","72","8422","30"
+"Child of Light","Best Buy","Digital","PS5","1","21",NULL,"19"
+"Child of Light","Target","Physical","XBox","3","59","271","25"
+"Child of Light","Target","Digital","Switch","3","28",NULL,"8"
+"Child of Light","GameStop","Physical","PS5","3","47","8045","24"
+"Child of Light","GameStop","Digital","PC","3","32",NULL,"25"
+"Child of Light","Epic Games","Digital","PC","5","12",NULL,"10"
+"Child of Light","Humble Bundle","Digital","PC","1","34",NULL,"15"
+"Child of Light","GOG","Digital","PC","4","83",NULL,"67"
+"Child of Light","eStarland","Physical","XBox","1","70","1601","42"
+"Shin Megami Tensei: Persona 4","Walmart","Physical","PS5","5","43","3753","33"
+"Shin Megami Tensei: Persona 4","Walmart","Digital","PC","2","32",NULL,"21"
+"Shin Megami Tensei: Persona 4","Amazon","Physical","PS5","4","87","1213","49"
+"Shin Megami Tensei: Persona 4","Amazon","Digital","PC","3","86",NULL,"77"
+"Shin Megami Tensei: Persona 4","Steam","Digital","PC","4","49",NULL,"9"
+"Shin Megami Tensei: Persona 4","Best Buy","Physical","XBox","4","98","291","79"
+"Shin Megami Tensei: Persona 4","Best Buy","Digital","XBox","4","92",NULL,"88"
+"Shin Megami Tensei: Persona 4","Target","Physical","PS5","4","92","9912","26"
+"Shin Megami Tensei: Persona 4","Target","Digital","PS5","5","13",NULL,"10"
+"Shin Megami Tensei: Persona 4","GameStop","Physical","XBox","4","61","3154","47"
+"Shin Megami Tensei: Persona 4","GameStop","Digital","XBox","2","67",NULL,"52"
+"Shin Megami Tensei: Persona 4","Epic Games","Digital","PC","4","96",NULL,"59"
+"Shin Megami Tensei: Persona 4","Humble Bundle","Digital","PC","2","68",NULL,"30"
+"Shin Megami Tensei: Persona 4","GOG","Digital","PC","2","92",NULL,"35"
+"Shin Megami Tensei: Persona 4","eStarland","Physical","PS4","2","81","8728","42"
+"Shin Megami Tensei: Persona 5","Walmart","Physical","Switch","2","92","6300","50"
+"Shin Megami Tensei: Persona 5","Walmart","Digital","XBox","3","13",NULL,"5"
+"Shin Megami Tensei: Persona 5","Amazon","Physical","PS5","1","68","7093","67"
+"Shin Megami Tensei: Persona 5","Amazon","Digital","PS4","5","69",NULL,"27"
+"Shin Megami Tensei: Persona 5","Steam","Digital","PC","5","26",NULL,"14"
+"Shin Megami Tensei: Persona 5","Best Buy","Physical","XBox","3","40","5894","27"
+"Shin Megami Tensei: Persona 5","Best Buy","Digital","PC","5","86",NULL,"9"
+"Shin Megami Tensei: Persona 5","Target","Physical","Switch","4","96","9872","38"
+"Shin Megami Tensei: Persona 5","Target","Digital","PS4","5","56",NULL,"47"
+"Shin Megami Tensei: Persona 5","GameStop","Physical","PS4","5","61","4318","33"
+"Shin Megami Tensei: Persona 5","GameStop","Digital","XBox","1","66",NULL,"24"
+"Shin Megami Tensei: Persona 5","Epic Games","Digital","PC","3","78",NULL,"7"
+"Shin Megami Tensei: Persona 5","Humble Bundle","Digital","PC","5","93",NULL,"62"
+"Shin Megami Tensei: Persona 5","GOG","Digital","PC","2","92",NULL,"5"
+"Shin Megami Tensei: Persona 5","eStarland","Physical","PC","3","62","7605","34"
+"UNO","Walmart","Physical","XBox","4","85","9919","37"
+"UNO","Walmart","Digital","Switch","3","77",NULL,"5"
+"UNO","Amazon","Physical","PS4","2","20","7490","10"
+"UNO","Amazon","Digital","PS4","2","36",NULL,"29"
+"UNO","Steam","Digital","PC","1","92",NULL,"35"
+"UNO","Best Buy","Physical","PC","4","36","9456","31"
+"UNO","Best Buy","Digital","XBox","4","50",NULL,"46"
+"UNO","Target","Physical","PS4","3","49","6929","25"
+"UNO","Target","Digital","PS5","1","96",NULL,"30"
+"UNO","GameStop","Physical","Switch","2","83","7232","42"
+"UNO","GameStop","Digital","PS5","3","23",NULL,"5"
+"UNO","Epic Games","Digital","PC","3","42",NULL,"22"
+"UNO","Humble Bundle","Digital","PC","2","41",NULL,"22"
+"UNO","GOG","Digital","PC","4","33",NULL,"6"
+"UNO","eStarland","Physical","PS5","2","59","5712","39"
+"No Man's Sky","Walmart","Physical","PS4","4","58","5633","8"
+"No Man's Sky","Walmart","Digital","XBox","5","29",NULL,"13"
+"No Man's Sky","Amazon","Physical","PS5","4","29","5432","20"
+"No Man's Sky","Amazon","Digital","PC","1","56",NULL,"55"
+"No Man's Sky","Steam","Digital","PC","3","54",NULL,"17"
+"No Man's Sky","Best Buy","Physical","XBox","1","61","5032","25"
+"No Man's Sky","Best Buy","Digital","PS5","2","54",NULL,"33"
+"No Man's Sky","Target","Physical","PC","1","72","2462","15"
+"No Man's Sky","Target","Digital","PS5","4","10",NULL,"7"
+"No Man's Sky","GameStop","Physical","Switch","2","64","3347","29"
+"No Man's Sky","GameStop","Digital","PC","2","73",NULL,"71"
+"No Man's Sky","Epic Games","Digital","PC","2","58",NULL,"10"
+"No Man's Sky","Humble Bundle","Digital","PC","2","92",NULL,"86"
+"No Man's Sky","GOG","Digital","PC","2","20",NULL,"13"
+"No Man's Sky","eStarland","Physical","PC","5","51","1361","18"
+"Dead By Daylight","Walmart","Physical","PC","1","22","798","20"
+"Dead By Daylight","Walmart","Digital","PS4","4","19",NULL,"9"
+"Dead By Daylight","Amazon","Physical","Switch","1","14","5227","12"
+"Dead By Daylight","Amazon","Digital","PS5","3","10",NULL,"6"
+"Dead By Daylight","Steam","Digital","PC","5","88",NULL,"12"
+"Dead By Daylight","Best Buy","Physical","Switch","5","74","7984","13"
+"Dead By Daylight","Best Buy","Digital","Switch","5","62",NULL,"35"
+"Dead By Daylight","Target","Physical","PS4","1","37","9292","28"
+"Dead By Daylight","Target","Digital","PS5","4","76",NULL,"22"
+"Dead By Daylight","GameStop","Physical","PS5","1","18","4542","14"
+"Dead By Daylight","GameStop","Digital","XBox","4","15",NULL,"7"
+"Dead By Daylight","Epic Games","Digital","PC","4","64",NULL,"46"
+"Dead By Daylight","Humble Bundle","Digital","PC","4","23",NULL,"17"
+"Dead By Daylight","GOG","Digital","PC","2","65",NULL,"32"
+"Dead By Daylight","eStarland","Physical","PC","5","35","3111","32"
+"CyberPunk 2077","Walmart","Physical","XBox","3","72","1900","10"
+"CyberPunk 2077","Walmart","Digital","PS5","1","54",NULL,"26"
+"CyberPunk 2077","Amazon","Physical","PC","3","61","883","32"
+"CyberPunk 2077","Amazon","Digital","XBox","4","50",NULL,"46"
+"CyberPunk 2077","Steam","Digital","PC","3","13",NULL,"10"
+"CyberPunk 2077","Best Buy","Physical","PC","3","35","5102","11"
+"CyberPunk 2077","Best Buy","Digital","XBox","2","78",NULL,"59"
+"CyberPunk 2077","Target","Physical","PC","4","28","1761","11"
+"CyberPunk 2077","Target","Digital","XBox","5","26",NULL,"12"
+"CyberPunk 2077","GameStop","Physical","XBox","2","47","1773","5"
+"CyberPunk 2077","GameStop","Digital","PS5","4","91",NULL,"10"
+"CyberPunk 2077","Epic Games","Digital","PC","3","68",NULL,"44"
+"CyberPunk 2077","Humble Bundle","Digital","PC","4","46",NULL,"10"
+"CyberPunk 2077","GOG","Digital","PC","2","61",NULL,"6"
+"CyberPunk 2077","eStarland","Physical","PC","4","71","1610","47"
+"Super Mega Baseball 2","Walmart","Physical","PS5","3","100","2835","7"
+"Super Mega Baseball 2","Walmart","Digital","XBox","2","96",NULL,"7"
+"Super Mega Baseball 2","Amazon","Physical","PS5","2","32","5891","7"
+"Super Mega Baseball 2","Amazon","Digital","Switch","1","23",NULL,"6"
+"Super Mega Baseball 2","Steam","Digital","PC","3","56",NULL,"19"
+"Super Mega Baseball 2","Best Buy","Physical","PS4","5","69","9945","66"
+"Super Mega Baseball 2","Best Buy","Digital","PS5","2","58",NULL,"36"
+"Super Mega Baseball 2","Target","Physical","PS5","2","99","2978","99"
+"Super Mega Baseball 2","Target","Digital","Switch","4","34",NULL,"31"
+"Super Mega Baseball 2","GameStop","Physical","PS5","4","38","8190","32"
+"Super Mega Baseball 2","GameStop","Digital","Switch","2","24",NULL,"6"
+"Super Mega Baseball 2","Epic Games","Digital","PC","1","86",NULL,"86"
+"Super Mega Baseball 2","Humble Bundle","Digital","PC","4","91",NULL,"70"
+"Super Mega Baseball 2","GOG","Digital","PC","2","73",NULL,"32"
+"Super Mega Baseball 2","eStarland","Physical","XBox","5","88","7076","79"
+"Super Mega Baseball 3","Walmart","Physical","XBox","5","84","9018","14"
+"Super Mega Baseball 3","Walmart","Digital","PS4","1","86",NULL,"46"
+"Super Mega Baseball 3","Amazon","Physical","Switch","2","42","504","41"
+"Super Mega Baseball 3","Amazon","Digital","PS5","3","81",NULL,"14"
+"Super Mega Baseball 3","Steam","Digital","PC","1","10",NULL,"10"
+"Super Mega Baseball 3","Best Buy","Physical","XBox","3","100","3389","20"
+"Super Mega Baseball 3","Best Buy","Digital","PC","5","96",NULL,"47"
+"Super Mega Baseball 3","Target","Physical","PC","3","49","2120","10"
+"Super Mega Baseball 3","Target","Digital","Switch","1","28",NULL,"18"
+"Super Mega Baseball 3","GameStop","Physical","Switch","5","25","8521","18"
+"Super Mega Baseball 3","GameStop","Digital","PC","5","25",NULL,"22"
+"Super Mega Baseball 3","Epic Games","Digital","PC","1","36",NULL,"28"
+"Super Mega Baseball 3","Humble Bundle","Digital","PC","5","95",NULL,"66"
+"Super Mega Baseball 3","GOG","Digital","PC","5","18",NULL,"14"
+"Super Mega Baseball 3","eStarland","Physical","PC","4","86","6177","30"
+"Call of Duty: Modern Warfare","Walmart","Physical","PS4","2","69","5413","53"
+"Call of Duty: Modern Warfare","Walmart","Digital","PS5","2","82",NULL,"36"
+"Call of Duty: Modern Warfare","Amazon","Physical","XBox","5","62","411","37"
+"Call of Duty: Modern Warfare","Amazon","Digital","XBox","3","41",NULL,"18"
+"Call of Duty: Modern Warfare","Steam","Digital","PC","4","12",NULL,"12"
+"Call of Duty: Modern Warfare","Best Buy","Physical","PC","5","91","9723","70"
+"Call of Duty: Modern Warfare","Best Buy","Digital","Switch","5","60",NULL,"31"
+"Call of Duty: Modern Warfare","Target","Physical","Switch","4","46","3848","12"
+"Call of Duty: Modern Warfare","Target","Digital","PS5","3","12",NULL,"12"
+"Call of Duty: Modern Warfare","GameStop","Physical","PC","1","53","103","51"
+"Call of Duty: Modern Warfare","GameStop","Digital","XBox","5","53",NULL,"22"
+"Call of Duty: Modern Warfare","Epic Games","Digital","PC","5","65",NULL,"25"
+"Call of Duty: Modern Warfare","Humble Bundle","Digital","PC","5","99",NULL,"76"
+"Call of Duty: Modern Warfare","GOG","Digital","PC","2","11",NULL,"7"
+"Call of Duty: Modern Warfare","eStarland","Physical","Switch","4","90","1724","58"
+"Call of Duty: Warzone","Walmart","Physical","PS4","3","31","4064","6"
+"Call of Duty: Warzone","Walmart","Digital","PC","5","88",NULL,"59"
+"Call of Duty: Warzone","Amazon","Physical","PC","2","90","8136","66"
+"Call of Duty: Warzone","Amazon","Digital","XBox","5","77",NULL,"40"
+"Call of Duty: Warzone","Steam","Digital","PC","3","64",NULL,"52"
+"Call of Duty: Warzone","Best Buy","Physical","PS4","4","49","600","35"
+"Call of Duty: Warzone","Best Buy","Digital","XBox","4","36",NULL,"18"
+"Call of Duty: Warzone","Target","Physical","XBox","1","99","9092","66"
+"Call of Duty: Warzone","Target","Digital","PS4","4","46",NULL,"43"
+"Call of Duty: Warzone","GameStop","Physical","PC","3","79","7211","6"
+"Call of Duty: Warzone","GameStop","Digital","Switch","4","65",NULL,"23"
+"Call of Duty: Warzone","Epic Games","Digital","PC","4","77",NULL,"31"
+"Call of Duty: Warzone","Humble Bundle","Digital","PC","1","93",NULL,"80"
+"Call of Duty: Warzone","GOG","Digital","PC","2","43",NULL,"18"
+"Call of Duty: Warzone","eStarland","Physical","XBox","3","28","9452","18"
+"Overwatch","Walmart","Physical","Switch","2","99","8441","55"
+"Overwatch","Walmart","Digital","PS5","5","25",NULL,"11"
+"Overwatch","Amazon","Physical","PS5","2","30","548","18"
+"Overwatch","Amazon","Digital","PC","1","32",NULL,"26"
+"Overwatch","Steam","Digital","PC","4","79",NULL,"44"
+"Overwatch","Best Buy","Physical","PS4","4","69","9527","43"
+"Overwatch","Best Buy","Digital","PS4","1","20",NULL,"7"
+"Overwatch","Target","Physical","PS4","2","44","3989","11"
+"Overwatch","Target","Digital","PS5","4","55",NULL,"37"
+"Overwatch","GameStop","Physical","XBox","5","47","2846","36"
+"Overwatch","GameStop","Digital","PS4","5","18",NULL,"12"
+"Overwatch","Epic Games","Digital","PC","3","51",NULL,"35"
+"Overwatch","Humble Bundle","Digital","PC","1","42",NULL,"27"
+"Overwatch","GOG","Digital","PC","5","24",NULL,"10"
+"Overwatch","eStarland","Physical","XBox","4","85","564","31"
+"Assassin's Creed Valhalla","Walmart","Physical","XBox","2","35","1519","24"
+"Assassin's Creed Valhalla","Walmart","Digital","XBox","4","51",NULL,"21"
+"Assassin's Creed Valhalla","Amazon","Physical","Switch","1","12","7177","11"
+"Assassin's Creed Valhalla","Amazon","Digital","XBox","4","98",NULL,"56"
+"Assassin's Creed Valhalla","Steam","Digital","PC","3","97",NULL,"22"
+"Assassin's Creed Valhalla","Best Buy","Physical","PC","2","73","5602","28"
+"Assassin's Creed Valhalla","Best Buy","Digital","PS5","1","49",NULL,"37"
+"Assassin's Creed Valhalla","Target","Physical","PS5","1","52","6283","17"
+"Assassin's Creed Valhalla","Target","Digital","XBox","3","67",NULL,"54"
+"Assassin's Creed Valhalla","GameStop","Physical","PC","3","50","6590","33"
+"Assassin's Creed Valhalla","GameStop","Digital","XBox","3","94",NULL,"28"
+"Assassin's Creed Valhalla","Epic Games","Digital","PC","5","55",NULL,"49"
+"Assassin's Creed Valhalla","Humble Bundle","Digital","PC","4","54",NULL,"47"
+"Assassin's Creed Valhalla","GOG","Digital","PC","4","39",NULL,"15"
+"Assassin's Creed Valhalla","eStarland","Physical","XBox","3","60","6715","58"
+"Borderlands 3","Walmart","Physical","XBox","5","90","1468","48"
+"Borderlands 3","Walmart","Digital","PS4","1","71",NULL,"63"
+"Borderlands 3","Amazon","Physical","PS5","5","72","9030","12"
+"Borderlands 3","Amazon","Digital","Switch","3","75",NULL,"34"
+"Borderlands 3","Steam","Digital","PC","4","57",NULL,"17"
+"Borderlands 3","Best Buy","Physical","Switch","1","37","755","5"
+"Borderlands 3","Best Buy","Digital","PS5","3","76",NULL,"51"
+"Borderlands 3","Target","Physical","PS5","1","83","7392","45"
+"Borderlands 3","Target","Digital","PC","1","53",NULL,"7"
+"Borderlands 3","GameStop","Physical","Switch","5","29","3392","8"
+"Borderlands 3","GameStop","Digital","XBox","1","32",NULL,"30"
+"Borderlands 3","Epic Games","Digital","PC","3","70",NULL,"24"
+"Borderlands 3","Humble Bundle","Digital","PC","2","73",NULL,"69"
+"Borderlands 3","GOG","Digital","PC","1","83",NULL,"6"
+"Borderlands 3","eStarland","Physical","XBox","3","57","447","42"
+"Ultimate Chicken Horse","Walmart","Physical","Switch","2","59","8196","27"
+"Ultimate Chicken Horse","Walmart","Digital","Switch","1","23",NULL,"12"
+"Ultimate Chicken Horse","Amazon","Physical","PS4","4","72","5717","63"
+"Ultimate Chicken Horse","Amazon","Digital","PC","5","26",NULL,"23"
+"Ultimate Chicken Horse","Steam","Digital","PC","2","55",NULL,"23"
+"Ultimate Chicken Horse","Best Buy","Physical","XBox","3","100","1108","41"
+"Ultimate Chicken Horse","Best Buy","Digital","PS5","4","43",NULL,"40"
+"Ultimate Chicken Horse","Target","Physical","XBox","2","76","4728","51"
+"Ultimate Chicken Horse","Target","Digital","PS4","1","80",NULL,"73"
+"Ultimate Chicken Horse","GameStop","Physical","Switch","3","89","6554","29"
+"Ultimate Chicken Horse","GameStop","Digital","Switch","3","36",NULL,"11"
+"Ultimate Chicken Horse","Epic Games","Digital","PC","5","65",NULL,"36"
+"Ultimate Chicken Horse","Humble Bundle","Digital","PC","2","15",NULL,"10"
+"Ultimate Chicken Horse","GOG","Digital","PC","5","13",NULL,"11"
+"Ultimate Chicken Horse","eStarland","Physical","PS4","5","52","2769","52"
+"Darkest Dungeon","Walmart","Physical","PS4","3","49","7546","6"
+"Darkest Dungeon","Walmart","Digital","Switch","1","71",NULL,"5"
+"Darkest Dungeon","Amazon","Physical","Switch","4","78","5037","10"
+"Darkest Dungeon","Amazon","Digital","XBox","1","22",NULL,"15"
+"Darkest Dungeon","Steam","Digital","PC","2","12",NULL,"7"
+"Darkest Dungeon","Best Buy","Physical","Switch","3","27","2955","26"
+"Darkest Dungeon","Best Buy","Digital","XBox","4","39",NULL,"18"
+"Darkest Dungeon","Target","Physical","XBox","3","89","7045","49"
+"Darkest Dungeon","Target","Digital","XBox","4","20",NULL,"11"
+"Darkest Dungeon","GameStop","Physical","XBox","1","99","2751","77"
+"Darkest Dungeon","GameStop","Digital","PS4","5","10",NULL,"10"
+"Darkest Dungeon","Epic Games","Digital","PC","5","96",NULL,"29"
+"Darkest Dungeon","Humble Bundle","Digital","PC","2","17",NULL,"6"
+"Darkest Dungeon","GOG","Digital","PC","5","74",NULL,"56"
+"Darkest Dungeon","eStarland","Physical","PS4","1","99","3650","69"
+"Bloodborne","Walmart","Physical","XBox","2","58","6994","52"
+"Bloodborne","Walmart","Digital","XBox","3","34",NULL,"18"
+"Bloodborne","Amazon","Physical","Switch","1","72","8508","21"
+"Bloodborne","Amazon","Digital","PS5","5","82",NULL,"53"
+"Bloodborne","Steam","Digital","PC","3","35",NULL,"29"
+"Bloodborne","Best Buy","Physical","PC","5","28","8087","8"
+"Bloodborne","Best Buy","Digital","XBox","5","88",NULL,"56"
+"Bloodborne","Target","Physical","PC","1","11","5304","7"
+"Bloodborne","Target","Digital","PS4","3","21",NULL,"21"
+"Bloodborne","GameStop","Physical","PS5","5","48","739","22"
+"Bloodborne","GameStop","Digital","Switch","2","58",NULL,"26"
+"Bloodborne","Epic Games","Digital","PC","3","59",NULL,"8"
+"Bloodborne","Humble Bundle","Digital","PC","1","61",NULL,"18"
+"Bloodborne","GOG","Digital","PC","1","38",NULL,"12"
+"Bloodborne","eStarland","Physical","Switch","1","84","4867","80"
+"Power Rangers: Battle for the Grid","Walmart","Physical","PC","2","70","9286","40"
+"Power Rangers: Battle for the Grid","Walmart","Digital","PC","2","32",NULL,"21"
+"Power Rangers: Battle for the Grid","Amazon","Physical","Switch","4","42","5211","17"
+"Power Rangers: Battle for the Grid","Amazon","Digital","Switch","2","21",NULL,"19"
+"Power Rangers: Battle for the Grid","Steam","Digital","PC","1","70",NULL,"51"
+"Power Rangers: Battle for the Grid","Best Buy","Physical","PS4","4","30","4331","28"
+"Power Rangers: Battle for the Grid","Best Buy","Digital","PS4","3","70",NULL,"9"
+"Power Rangers: Battle for the Grid","Target","Physical","Switch","1","21","6619","5"
+"Power Rangers: Battle for the Grid","Target","Digital","PC","5","35",NULL,"30"
+"Power Rangers: Battle for the Grid","GameStop","Physical","XBox","1","49","2170","11"
+"Power Rangers: Battle for the Grid","GameStop","Digital","PS5","3","19",NULL,"14"
+"Power Rangers: Battle for the Grid","Epic Games","Digital","PC","5","35",NULL,"9"
+"Power Rangers: Battle for the Grid","Humble Bundle","Digital","PC","4","43",NULL,"37"
+"Power Rangers: Battle for the Grid","GOG","Digital","PC","2","97",NULL,"74"
+"Power Rangers: Battle for the Grid","eStarland","Physical","PS5","4","34","5647","25"
+"Need for Speed: Hot Pursuit","Walmart","Physical","Switch","2","70","4940","43"
+"Need for Speed: Hot Pursuit","Walmart","Digital","PS5","5","63",NULL,"10"
+"Need for Speed: Hot Pursuit","Amazon","Physical","XBox","1","79","1193","9"
+"Need for Speed: Hot Pursuit","Amazon","Digital","PC","2","81",NULL,"16"
+"Need for Speed: Hot Pursuit","Steam","Digital","PC","3","70",NULL,"40"
+"Need for Speed: Hot Pursuit","Best Buy","Physical","PS4","2","75","7116","44"
+"Need for Speed: Hot Pursuit","Best Buy","Digital","PS4","4","25",NULL,"7"
+"Need for Speed: Hot Pursuit","Target","Physical","XBox","3","39","1407","27"
+"Need for Speed: Hot Pursuit","Target","Digital","XBox","1","98",NULL,"97"
+"Need for Speed: Hot Pursuit","GameStop","Physical","Switch","4","10","3320","6"
+"Need for Speed: Hot Pursuit","GameStop","Digital","PS5","5","64",NULL,"34"
+"Need for Speed: Hot Pursuit","Epic Games","Digital","PC","5","99",NULL,"57"
+"Need for Speed: Hot Pursuit","Humble Bundle","Digital","PC","5","100",NULL,"100"
+"Need for Speed: Hot Pursuit","GOG","Digital","PC","1","16",NULL,"5"
+"Need for Speed: Hot Pursuit","eStarland","Physical","XBox","3","21","1125","10"
+"Minecraft Dungeons","Walmart","Physical","Switch","4","96","383","30"
+"Minecraft Dungeons","Walmart","Digital","PS4","5","79",NULL,"7"
+"Minecraft Dungeons","Amazon","Physical","PC","2","22","8629","14"
+"Minecraft Dungeons","Amazon","Digital","Switch","3","26",NULL,"5"
+"Minecraft Dungeons","Steam","Digital","PC","1","52",NULL,"14"
+"Minecraft Dungeons","Best Buy","Physical","Switch","5","54","4065","48"
+"Minecraft Dungeons","Best Buy","Digital","PS5","5","10",NULL,"10"
+"Minecraft Dungeons","Target","Physical","PS5","2","80","8404","78"
+"Minecraft Dungeons","Target","Digital","XBox","3","17",NULL,"14"
+"Minecraft Dungeons","GameStop","Physical","Switch","3","68","3133","65"
+"Minecraft Dungeons","GameStop","Digital","PS4","4","79",NULL,"25"
+"Minecraft Dungeons","Epic Games","Digital","PC","4","89",NULL,"75"
+"Minecraft Dungeons","Humble Bundle","Digital","PC","4","61",NULL,"22"
+"Minecraft Dungeons","GOG","Digital","PC","1","60",NULL,"6"
+"Minecraft Dungeons","eStarland","Physical","PS4","3","23","3101","8"
+"Minecraft: Bedrock Edition","Walmart","Physical","XBox","5","22","3468","7"
+"Minecraft: Bedrock Edition","Walmart","Digital","PS4","5","87",NULL,"84"
+"Minecraft: Bedrock Edition","Amazon","Physical","XBox","5","92","6960","61"
+"Minecraft: Bedrock Edition","Amazon","Digital","XBox","2","59",NULL,"18"
+"Minecraft: Bedrock Edition","Steam","Digital","PC","1","20",NULL,"15"
+"Minecraft: Bedrock Edition","Best Buy","Physical","XBox","4","54","7133","9"
+"Minecraft: Bedrock Edition","Best Buy","Digital","XBox","2","60",NULL,"42"
+"Minecraft: Bedrock Edition","Target","Physical","PS4","5","57","6583","50"
+"Minecraft: Bedrock Edition","Target","Digital","PC","5","67",NULL,"47"
+"Minecraft: Bedrock Edition","GameStop","Physical","Switch","2","75","2573","34"
+"Minecraft: Bedrock Edition","GameStop","Digital","PS5","1","85",NULL,"18"
+"Minecraft: Bedrock Edition","Epic Games","Digital","PC","5","81",NULL,"75"
+"Minecraft: Bedrock Edition","Humble Bundle","Digital","PC","3","44",NULL,"27"
+"Minecraft: Bedrock Edition","GOG","Digital","PC","2","48",NULL,"9"
+"Minecraft: Bedrock Edition","eStarland","Physical","PS5","2","34","1925","15"
+"Aragami","Walmart","Physical","PC","3","72","1802","65"
+"Aragami","Walmart","Digital","PS4","4","66",NULL,"38"
+"Aragami","Amazon","Physical","PS5","3","55","1729","39"
+"Aragami","Amazon","Digital","PS5","1","86",NULL,"72"
+"Aragami","Steam","Digital","PC","5","50",NULL,"25"
+"Aragami","Best Buy","Physical","Switch","3","40","6047","39"
+"Aragami","Best Buy","Digital","PS4","1","72",NULL,"10"
+"Aragami","Target","Physical","PC","4","45","5401","30"
+"Aragami","Target","Digital","Switch","4","98",NULL,"49"
+"Aragami","GameStop","Physical","PS5","2","80","1237","73"
+"Aragami","GameStop","Digital","XBox","1","78",NULL,"10"
+"Aragami","Epic Games","Digital","PC","5","59",NULL,"5"
+"Aragami","Humble Bundle","Digital","PC","5","57",NULL,"38"
+"Aragami","GOG","Digital","PC","4","45",NULL,"22"
+"Aragami","eStarland","Physical","PS5","5","50","9845","45"
+"Mass Effect","Walmart","Physical","PC","3","59","1779","14"
+"Mass Effect","Walmart","Digital","PC","2","95",NULL,"87"
+"Mass Effect","Amazon","Physical","PC","3","22","5764","5"
+"Mass Effect","Amazon","Digital","Switch","5","50",NULL,"25"
+"Mass Effect","Steam","Digital","PC","5","92",NULL,"87"
+"Mass Effect","Best Buy","Physical","PC","5","79","370","76"
+"Mass Effect","Best Buy","Digital","PS4","3","55",NULL,"45"
+"Mass Effect","Target","Physical","PS4","5","24","2440","10"
+"Mass Effect","Target","Digital","PC","1","92",NULL,"63"
+"Mass Effect","GameStop","Physical","XBox","1","83","3413","30"
+"Mass Effect","GameStop","Digital","XBox","5","81",NULL,"60"
+"Mass Effect","Epic Games","Digital","PC","2","71",NULL,"12"
+"Mass Effect","Humble Bundle","Digital","PC","3","18",NULL,"13"
+"Mass Effect","GOG","Digital","PC","2","86",NULL,"79"
+"Mass Effect","eStarland","Physical","Switch","1","21","5493","13"
+"Need for Speed: Heat","Walmart","Physical","PS4","3","56","551","36"
+"Need for Speed: Heat","Walmart","Digital","PS5","3","96",NULL,"54"
+"Need for Speed: Heat","Amazon","Physical","Switch","2","73","5597","30"
+"Need for Speed: Heat","Amazon","Digital","XBox","1","16",NULL,"11"
+"Need for Speed: Heat","Steam","Digital","PC","4","72",NULL,"34"
+"Need for Speed: Heat","Best Buy","Physical","PC","4","54","2028","31"
+"Need for Speed: Heat","Best Buy","Digital","PC","4","99",NULL,"78"
+"Need for Speed: Heat","Target","Physical","PS4","5","88","1301","36"
+"Need for Speed: Heat","Target","Digital","Switch","5","18",NULL,"16"
+"Need for Speed: Heat","GameStop","Physical","XBox","3","88","8747","76"
+"Need for Speed: Heat","GameStop","Digital","PS5","1","50",NULL,"11"
+"Need for Speed: Heat","Epic Games","Digital","PC","5","96",NULL,"17"
+"Need for Speed: Heat","Humble Bundle","Digital","PC","2","32",NULL,"19"
+"Need for Speed: Heat","GOG","Digital","PC","3","16",NULL,"12"
+"Need for Speed: Heat","eStarland","Physical","PS5","5","31","8217","30"
+"Neverwinter Nights","Walmart","Physical","PS4","4","74","5545","54"
+"Neverwinter Nights","Walmart","Digital","Switch","2","34",NULL,"24"
+"Neverwinter Nights","Amazon","Physical","PC","1","15","9170","7"
+"Neverwinter Nights","Amazon","Digital","PS4","1","19",NULL,"9"
+"Neverwinter Nights","Steam","Digital","PC","5","100",NULL,"99"
+"Neverwinter Nights","Best Buy","Physical","PS5","4","72","1366","34"
+"Neverwinter Nights","Best Buy","Digital","PS4","1","71",NULL,"8"
+"Neverwinter Nights","Target","Physical","PS4","2","76","2654","54"
+"Neverwinter Nights","Target","Digital","PS5","5","65",NULL,"32"
+"Neverwinter Nights","GameStop","Physical","XBox","3","96","9610","83"
+"Neverwinter Nights","GameStop","Digital","PS5","5","97",NULL,"55"
+"Neverwinter Nights","Epic Games","Digital","PC","1","43",NULL,"40"
+"Neverwinter Nights","Humble Bundle","Digital","PC","2","79",NULL,"41"
+"Neverwinter Nights","GOG","Digital","PC","4","43",NULL,"21"
+"Neverwinter Nights","eStarland","Physical","PS5","4","99","2253","50"
+"Subnautica","Walmart","Physical","PS5","2","19","4492","10"
+"Subnautica","Walmart","Digital","PC","3","21",NULL,"15"
+"Subnautica","Amazon","Physical","Switch","1","62","2454","17"
+"Subnautica","Amazon","Digital","PS5","1","44",NULL,"9"
+"Subnautica","Steam","Digital","PC","4","41",NULL,"9"
+"Subnautica","Best Buy","Physical","XBox","2","14","1210","12"
+"Subnautica","Best Buy","Digital","XBox","5","59",NULL,"23"
+"Subnautica","Target","Physical","PC","4","61","6437","45"
+"Subnautica","Target","Digital","PS4","3","85",NULL,"40"
+"Subnautica","GameStop","Physical","Switch","2","47","7806","15"
+"Subnautica","GameStop","Digital","PS5","5","58",NULL,"45"
+"Subnautica","Epic Games","Digital","PC","3","29",NULL,"28"
+"Subnautica","Humble Bundle","Digital","PC","1","88",NULL,"29"
+"Subnautica","GOG","Digital","PC","1","53",NULL,"17"
+"Subnautica","eStarland","Physical","PS4","1","61","8712","19"
+"Dragon Ball FighterZ","Walmart","Physical","Switch","5","39","6052","38"
+"Dragon Ball FighterZ","Walmart","Digital","XBox","4","59",NULL,"29"
+"Dragon Ball FighterZ","Amazon","Physical","Switch","5","69","1603","47"
+"Dragon Ball FighterZ","Amazon","Digital","PC","1","73",NULL,"58"
+"Dragon Ball FighterZ","Steam","Digital","PC","2","75",NULL,"59"
+"Dragon Ball FighterZ","Best Buy","Physical","PS5","2","28","5142","10"
+"Dragon Ball FighterZ","Best Buy","Digital","PC","4","11",NULL,"7"
+"Dragon Ball FighterZ","Target","Physical","XBox","3","78","6141","49"
+"Dragon Ball FighterZ","Target","Digital","PC","2","88",NULL,"44"
+"Dragon Ball FighterZ","GameStop","Physical","PC","3","82","7154","74"
+"Dragon Ball FighterZ","GameStop","Digital","PS5","2","61",NULL,"50"
+"Dragon Ball FighterZ","Epic Games","Digital","PC","5","35",NULL,"16"
+"Dragon Ball FighterZ","Humble Bundle","Digital","PC","4","45",NULL,"8"
+"Dragon Ball FighterZ","GOG","Digital","PC","3","40",NULL,"22"
+"Dragon Ball FighterZ","eStarland","Physical","PS5","3","23","3847","10"
+"Portal","Walmart","Physical","PS4","5","93","8985","66"
+"Portal","Walmart","Digital","PS4","3","55",NULL,"26"
+"Portal","Amazon","Physical","PS5","3","13","988","13"
+"Portal","Amazon","Digital","PS5","2","48",NULL,"43"
+"Portal","Steam","Digital","PC","5","41",NULL,"31"
+"Portal","Best Buy","Physical","PS4","1","82","6356","19"
+"Portal","Best Buy","Digital","PS4","2","71",NULL,"51"
+"Portal","Target","Physical","PC","2","45","6595","13"
+"Portal","Target","Digital","PS5","1","89",NULL,"66"
+"Portal","GameStop","Physical","Switch","4","82","3245","53"
+"Portal","GameStop","Digital","Switch","2","13",NULL,"11"
+"Portal","Epic Games","Digital","PC","3","19",NULL,"6"
+"Portal","Humble Bundle","Digital","PC","3","98",NULL,"42"
+"Portal","GOG","Digital","PC","5","53",NULL,"34"
+"Portal","eStarland","Physical","XBox","5","46","7264","15"
+"Portal 2","Walmart","Physical","PS5","2","49","2413","29"
+"Portal 2","Walmart","Digital","PS4","4","65",NULL,"21"
+"Portal 2","Amazon","Physical","PS5","4","78","1951","59"
+"Portal 2","Amazon","Digital","PC","5","80",NULL,"24"
+"Portal 2","Steam","Digital","PC","3","15",NULL,"11"
+"Portal 2","Best Buy","Physical","XBox","4","36","3885","21"
+"Portal 2","Best Buy","Digital","PS5","2","43",NULL,"42"
+"Portal 2","Target","Physical","PS4","5","74","8675","13"
+"Portal 2","Target","Digital","PS4","5","92",NULL,"12"
+"Portal 2","GameStop","Physical","PC","5","58","127","42"
+"Portal 2","GameStop","Digital","Switch","5","52",NULL,"13"
+"Portal 2","Epic Games","Digital","PC","4","92",NULL,"31"
+"Portal 2","Humble Bundle","Digital","PC","5","53",NULL,"40"
+"Portal 2","GOG","Digital","PC","3","82",NULL,"6"
+"Portal 2","eStarland","Physical","PS5","4","88","2615","84"
+"L.A. Noire","Walmart","Physical","PS5","3","94","6207","54"
+"L.A. Noire","Walmart","Digital","PC","4","47",NULL,"27"
+"L.A. Noire","Amazon","Physical","XBox","1","77","7823","55"
+"L.A. Noire","Amazon","Digital","PS5","3","70",NULL,"48"
+"L.A. Noire","Steam","Digital","PC","3","74",NULL,"16"
+"L.A. Noire","Best Buy","Physical","Switch","5","22","9744","19"
+"L.A. Noire","Best Buy","Digital","XBox","5","23",NULL,"9"
+"L.A. Noire","Target","Physical","PS4","4","41","8859","7"
+"L.A. Noire","Target","Digital","XBox","2","18",NULL,"15"
+"L.A. Noire","GameStop","Physical","PC","1","97","9255","19"
+"L.A. Noire","GameStop","Digital","PC","4","36",NULL,"34"
+"L.A. Noire","Epic Games","Digital","PC","4","12",NULL,"7"
+"L.A. Noire","Humble Bundle","Digital","PC","3","21",NULL,"14"
+"L.A. Noire","GOG","Digital","PC","4","51",NULL,"33"
+"L.A. Noire","eStarland","Physical","Switch","4","45","2092","7"
+"Dishonored 2","Walmart","Physical","PC","4","76","6145","18"
+"Dishonored 2","Walmart","Digital","XBox","5","60",NULL,"32"
+"Dishonored 2","Amazon","Physical","PS5","1","49","9252","9"
+"Dishonored 2","Amazon","Digital","PS5","2","100",NULL,"14"
+"Dishonored 2","Steam","Digital","PC","2","26",NULL,"16"
+"Dishonored 2","Best Buy","Physical","PC","3","99","2503","87"
+"Dishonored 2","Best Buy","Digital","PC","2","14",NULL,"13"
+"Dishonored 2","Target","Physical","Switch","5","71","4218","31"
+"Dishonored 2","Target","Digital","XBox","5","97",NULL,"65"
+"Dishonored 2","GameStop","Physical","XBox","3","48","7460","35"
+"Dishonored 2","GameStop","Digital","XBox","3","39",NULL,"8"
+"Dishonored 2","Epic Games","Digital","PC","2","65",NULL,"47"
+"Dishonored 2","Humble Bundle","Digital","PC","1","35",NULL,"31"
+"Dishonored 2","GOG","Digital","PC","4","95",NULL,"23"
+"Dishonored 2","eStarland","Physical","PS5","5","13","4244","5"
+"Middle-earth: Shadow of Mordor","Walmart","Physical","XBox","3","54","835","35"
+"Middle-earth: Shadow of Mordor","Walmart","Digital","PC","3","71",NULL,"36"
+"Middle-earth: Shadow of Mordor","Amazon","Physical","XBox","4","55","1996","11"
+"Middle-earth: Shadow of Mordor","Amazon","Digital","XBox","4","87",NULL,"66"
+"Middle-earth: Shadow of Mordor","Steam","Digital","PC","5","43",NULL,"16"
+"Middle-earth: Shadow of Mordor","Best Buy","Physical","Switch","2","36","9980","32"
+"Middle-earth: Shadow of Mordor","Best Buy","Digital","PC","1","86",NULL,"72"
+"Middle-earth: Shadow of Mordor","Target","Physical","Switch","2","40","4606","40"
+"Middle-earth: Shadow of Mordor","Target","Digital","XBox","1","84",NULL,"63"
+"Middle-earth: Shadow of Mordor","GameStop","Physical","Switch","1","74","9481","38"
+"Middle-earth: Shadow of Mordor","GameStop","Digital","PC","1","75",NULL,"54"
+"Middle-earth: Shadow of Mordor","Epic Games","Digital","PC","3","55",NULL,"5"
+"Middle-earth: Shadow of Mordor","Humble Bundle","Digital","PC","2","24",NULL,"11"
+"Middle-earth: Shadow of Mordor","GOG","Digital","PC","4","16",NULL,"9"
+"Middle-earth: Shadow of Mordor","eStarland","Physical","Switch","4","60","8557","13"
+"Rise of the Tomb Raider","Walmart","Physical","PS5","2","77","550","5"
+"Rise of the Tomb Raider","Walmart","Digital","PS4","4","93",NULL,"35"
+"Rise of the Tomb Raider","Amazon","Physical","PS5","4","63","6204","48"
+"Rise of the Tomb Raider","Amazon","Digital","PC","2","83",NULL,"8"
+"Rise of the Tomb Raider","Steam","Digital","PC","3","46",NULL,"18"
+"Rise of the Tomb Raider","Best Buy","Physical","PS4","3","94","4497","12"
+"Rise of the Tomb Raider","Best Buy","Digital","Switch","3","32",NULL,"14"
+"Rise of the Tomb Raider","Target","Physical","Switch","5","80","4876","48"
+"Rise of the Tomb Raider","Target","Digital","PS4","1","25",NULL,"21"
+"Rise of the Tomb Raider","GameStop","Physical","PC","5","33","3078","8"
+"Rise of the Tomb Raider","GameStop","Digital","XBox","3","70",NULL,"14"
+"Rise of the Tomb Raider","Epic Games","Digital","PC","3","56",NULL,"29"
+"Rise of the Tomb Raider","Humble Bundle","Digital","PC","4","29",NULL,"24"
+"Rise of the Tomb Raider","GOG","Digital","PC","5","55",NULL,"6"
+"Rise of the Tomb Raider","eStarland","Physical","XBox","1","26","4568","23"
+"Hellblade: Senua's Sacrifice","Walmart","Physical","XBox","1","63","2033","12"
+"Hellblade: Senua's Sacrifice","Walmart","Digital","PS4","4","97",NULL,"43"
+"Hellblade: Senua's Sacrifice","Amazon","Physical","Switch","1","25","1098","20"
+"Hellblade: Senua's Sacrifice","Amazon","Digital","XBox","1","82",NULL,"33"
+"Hellblade: Senua's Sacrifice","Steam","Digital","PC","4","11",NULL,"5"
+"Hellblade: Senua's Sacrifice","Best Buy","Physical","XBox","5","78","4361","70"
+"Hellblade: Senua's Sacrifice","Best Buy","Digital","PC","3","38",NULL,"6"
+"Hellblade: Senua's Sacrifice","Target","Physical","Switch","5","14","6514","14"
+"Hellblade: Senua's Sacrifice","Target","Digital","PC","2","11",NULL,"11"
+"Hellblade: Senua's Sacrifice","GameStop","Physical","XBox","2","52","3812","29"
+"Hellblade: Senua's Sacrifice","GameStop","Digital","PS5","4","39",NULL,"18"
+"Hellblade: Senua's Sacrifice","Epic Games","Digital","PC","4","20",NULL,"17"
+"Hellblade: Senua's Sacrifice","Humble Bundle","Digital","PC","2","29",NULL,"26"
+"Hellblade: Senua's Sacrifice","GOG","Digital","PC","2","81",NULL,"67"
+"Hellblade: Senua's Sacrifice","eStarland","Physical","PS4","2","92","6162","79"
+"Devil May Cry 5","Walmart","Physical","PC","2","30","3096","26"
+"Devil May Cry 5","Walmart","Digital","PC","2","11",NULL,"9"
+"Devil May Cry 5","Amazon","Physical","PC","3","44","5725","11"
+"Devil May Cry 5","Amazon","Digital","PS5","5","38",NULL,"33"
+"Devil May Cry 5","Steam","Digital","PC","3","13",NULL,"12"
+"Devil May Cry 5","Best Buy","Physical","Switch","5","17","7493","8"
+"Devil May Cry 5","Best Buy","Digital","Switch","3","18",NULL,"9"
+"Devil May Cry 5","Target","Physical","PS4","5","13","1187","6"
+"Devil May Cry 5","Target","Digital","PC","1","14",NULL,"5"
+"Devil May Cry 5","GameStop","Physical","PC","3","77","8690","19"
+"Devil May Cry 5","GameStop","Digital","PS5","1","85",NULL,"26"
+"Devil May Cry 5","Epic Games","Digital","PC","4","23",NULL,"18"
+"Devil May Cry 5","Humble Bundle","Digital","PC","1","95",NULL,"54"
+"Devil May Cry 5","GOG","Digital","PC","1","41",NULL,"40"
+"Devil May Cry 5","eStarland","Physical","PS4","4","51","1068","11"
+"Jump Force","Walmart","Physical","Switch","4","54","7278","41"
+"Jump Force","Walmart","Digital","PS4","2","17",NULL,"7"
+"Jump Force","Amazon","Physical","PS5","5","35","9631","31"
+"Jump Force","Amazon","Digital","Switch","2","48",NULL,"32"
+"Jump Force","Steam","Digital","PC","5","64",NULL,"10"
+"Jump Force","Best Buy","Physical","PC","2","20","9768","9"
+"Jump Force","Best Buy","Digital","XBox","5","57",NULL,"22"
+"Jump Force","Target","Physical","XBox","1","53","1327","11"
+"Jump Force","Target","Digital","Switch","5","44",NULL,"12"
+"Jump Force","GameStop","Physical","XBox","2","69","9016","23"
+"Jump Force","GameStop","Digital","PS5","2","45",NULL,"20"
+"Jump Force","Epic Games","Digital","PC","1","45",NULL,"13"
+"Jump Force","Humble Bundle","Digital","PC","5","66",NULL,"50"
+"Jump Force","GOG","Digital","PC","5","15",NULL,"7"
+"Jump Force","eStarland","Physical","Switch","2","84","3799","82"
+"Injustice: Gods Among Us","Walmart","Physical","XBox","3","49","241","40"
+"Injustice: Gods Among Us","Walmart","Digital","Switch","1","99",NULL,"78"
+"Injustice: Gods Among Us","Amazon","Physical","PS4","1","74","7434","56"
+"Injustice: Gods Among Us","Amazon","Digital","PS5","3","39",NULL,"30"
+"Injustice: Gods Among Us","Steam","Digital","PC","4","74",NULL,"44"
+"Injustice: Gods Among Us","Best Buy","Physical","PC","3","10","9364","6"
+"Injustice: Gods Among Us","Best Buy","Digital","PS4","1","93",NULL,"74"
+"Injustice: Gods Among Us","Target","Physical","XBox","1","86","279","49"
+"Injustice: Gods Among Us","Target","Digital","PS5","4","53",NULL,"43"
+"Injustice: Gods Among Us","GameStop","Physical","PS4","4","21","2781","14"
+"Injustice: Gods Among Us","GameStop","Digital","XBox","5","71",NULL,"12"
+"Injustice: Gods Among Us","Epic Games","Digital","PC","3","92",NULL,"51"
+"Injustice: Gods Among Us","Humble Bundle","Digital","PC","1","77",NULL,"77"
+"Injustice: Gods Among Us","GOG","Digital","PC","5","44",NULL,"10"
+"Injustice: Gods Among Us","eStarland","Physical","PS5","3","21","7798","21"
+"SoulCalibur VI","Walmart","Physical","XBox","4","54","6780","26"
+"SoulCalibur VI","Walmart","Digital","Switch","4","77",NULL,"36"
+"SoulCalibur VI","Amazon","Physical","PS4","1","95","679","57"
+"SoulCalibur VI","Amazon","Digital","XBox","1","91",NULL,"51"
+"SoulCalibur VI","Steam","Digital","PC","5","36",NULL,"31"
+"SoulCalibur VI","Best Buy","Physical","XBox","3","66","9244","18"
+"SoulCalibur VI","Best Buy","Digital","PC","2","84",NULL,"15"
+"SoulCalibur VI","Target","Physical","XBox","3","39","9937","31"
+"SoulCalibur VI","Target","Digital","Switch","4","28",NULL,"12"
+"SoulCalibur VI","GameStop","Physical","PS4","3","40","7469","36"
+"SoulCalibur VI","GameStop","Digital","PS5","5","22",NULL,"14"
+"SoulCalibur VI","Epic Games","Digital","PC","1","11",NULL,"6"
+"SoulCalibur VI","Humble Bundle","Digital","PC","3","40",NULL,"17"
+"SoulCalibur VI","GOG","Digital","PC","5","68",NULL,"48"
+"SoulCalibur VI","eStarland","Physical","PS4","5","65","9742","50"
+"Dragon Quest Builders 2","Walmart","Physical","PS4","3","88","548","67"
+"Dragon Quest Builders 2","Walmart","Digital","PS4","3","80",NULL,"8"
+"Dragon Quest Builders 2","Amazon","Physical","XBox","4","45","2315","34"
+"Dragon Quest Builders 2","Amazon","Digital","PS4","1","76",NULL,"35"
+"Dragon Quest Builders 2","Steam","Digital","PC","2","34",NULL,"27"
+"Dragon Quest Builders 2","Best Buy","Physical","PC","3","71","7789","71"
+"Dragon Quest Builders 2","Best Buy","Digital","PC","4","38",NULL,"28"
+"Dragon Quest Builders 2","Target","Physical","PS4","5","68","7846","58"
+"Dragon Quest Builders 2","Target","Digital","PS4","2","14",NULL,"7"
+"Dragon Quest Builders 2","GameStop","Physical","PS4","5","14","2743","9"
+"Dragon Quest Builders 2","GameStop","Digital","PS5","4","47",NULL,"6"
+"Dragon Quest Builders 2","Epic Games","Digital","PC","5","10",NULL,"10"
+"Dragon Quest Builders 2","Humble Bundle","Digital","PC","3","65",NULL,"53"
+"Dragon Quest Builders 2","GOG","Digital","PC","1","24",NULL,"6"
+"Dragon Quest Builders 2","eStarland","Physical","PC","1","45","1893","38"
+"Final Fantasy XIV","Walmart","Physical","Switch","3","44","5659","20"
+"Final Fantasy XIV","Walmart","Digital","PS4","1","84",NULL,"30"
+"Final Fantasy XIV","Amazon","Physical","PS5","1","56","2419","34"
+"Final Fantasy XIV","Amazon","Digital","PS4","5","79",NULL,"70"
+"Final Fantasy XIV","Steam","Digital","PC","3","88",NULL,"63"
+"Final Fantasy XIV","Best Buy","Physical","XBox","4","97","901","45"
+"Final Fantasy XIV","Best Buy","Digital","XBox","3","43",NULL,"42"
+"Final Fantasy XIV","Target","Physical","Switch","5","50","9201","32"
+"Final Fantasy XIV","Target","Digital","Switch","3","38",NULL,"35"
+"Final Fantasy XIV","GameStop","Physical","Switch","4","17","7529","6"
+"Final Fantasy XIV","GameStop","Digital","PC","1","61",NULL,"57"
+"Final Fantasy XIV","Epic Games","Digital","PC","5","35",NULL,"30"
+"Final Fantasy XIV","Humble Bundle","Digital","PC","4","45",NULL,"24"
+"Final Fantasy XIV","GOG","Digital","PC","1","66",NULL,"50"
+"Final Fantasy XIV","eStarland","Physical","PC","3","62","9431","7"
+"Destiny","Walmart","Physical","Switch","1","22","6278","17"
+"Destiny","Walmart","Digital","Switch","5","90",NULL,"52"
+"Destiny","Amazon","Physical","PC","4","95","1202","25"
+"Destiny","Amazon","Digital","PS4","2","10",NULL,"9"
+"Destiny","Steam","Digital","PC","4","34",NULL,"29"
+"Destiny","Best Buy","Physical","Switch","5","36","3231","7"
+"Destiny","Best Buy","Digital","PS4","5","53",NULL,"14"
+"Destiny","Target","Physical","PC","3","71","5115","7"
+"Destiny","Target","Digital","PS5","5","58",NULL,"16"
+"Destiny","GameStop","Physical","XBox","4","70","6257","10"
+"Destiny","GameStop","Digital","XBox","2","52",NULL,"22"
+"Destiny","Epic Games","Digital","PC","3","45",NULL,"26"
+"Destiny","Humble Bundle","Digital","PC","2","94",NULL,"62"
+"Destiny","GOG","Digital","PC","3","89",NULL,"39"
+"Destiny","eStarland","Physical","Switch","2","92","517","43"
+"NBA 2K20","Walmart","Physical","Switch","3","90","4701","56"
+"NBA 2K20","Walmart","Digital","PS4","5","19",NULL,"16"
+"NBA 2K20","Amazon","Physical","PS5","2","26","5182","24"
+"NBA 2K20","Amazon","Digital","PC","1","86",NULL,"34"
+"NBA 2K20","Steam","Digital","PC","2","77",NULL,"74"
+"NBA 2K20","Best Buy","Physical","Switch","1","52","8982","21"
+"NBA 2K20","Best Buy","Digital","XBox","2","82",NULL,"7"
+"NBA 2K20","Target","Physical","PS4","4","31","7881","22"
+"NBA 2K20","Target","Digital","PS5","4","37",NULL,"17"
+"NBA 2K20","GameStop","Physical","PS4","1","62","3196","55"
+"NBA 2K20","GameStop","Digital","PS5","4","97",NULL,"20"
+"NBA 2K20","Epic Games","Digital","PC","3","20",NULL,"8"
+"NBA 2K20","Humble Bundle","Digital","PC","1","31",NULL,"8"
+"NBA 2K20","GOG","Digital","PC","4","25",NULL,"13"
+"NBA 2K20","eStarland","Physical","PS4","2","98","7676","26"
+"Star Wars Jedi:Fallen Order","Walmart","Physical","PS4","4","70","631","45"
+"Star Wars Jedi:Fallen Order","Walmart","Digital","Switch","1","90",NULL,"39"
+"Star Wars Jedi:Fallen Order","Amazon","Physical","XBox","2","14","3491","9"
+"Star Wars Jedi:Fallen Order","Amazon","Digital","PS5","5","80",NULL,"67"
+"Star Wars Jedi:Fallen Order","Steam","Digital","PC","2","18",NULL,"8"
+"Star Wars Jedi:Fallen Order","Best Buy","Physical","PC","5","49","4352","20"
+"Star Wars Jedi:Fallen Order","Best Buy","Digital","PS4","4","74",NULL,"68"
+"Star Wars Jedi:Fallen Order","Target","Physical","Switch","4","15","5659","6"
+"Star Wars Jedi:Fallen Order","Target","Digital","PS4","2","85",NULL,"81"
+"Star Wars Jedi:Fallen Order","GameStop","Physical","Switch","1","55","4367","54"
+"Star Wars Jedi:Fallen Order","GameStop","Digital","PS4","5","20",NULL,"18"
+"Star Wars Jedi:Fallen Order","Epic Games","Digital","PC","3","22",NULL,"9"
+"Star Wars Jedi:Fallen Order","Humble Bundle","Digital","PC","5","86",NULL,"49"
+"Star Wars Jedi:Fallen Order","GOG","Digital","PC","4","44",NULL,"22"
+"Star Wars Jedi:Fallen Order","eStarland","Physical","Switch","2","34","842","7"
+"Tom Clancy's The Division 2","Walmart","Physical","PS5","5","29","4612","27"
+"Tom Clancy's The Division 2","Walmart","Digital","PS4","3","63",NULL,"16"
+"Tom Clancy's The Division 2","Amazon","Physical","Switch","5","69","5667","30"
+"Tom Clancy's The Division 2","Amazon","Digital","PC","2","24",NULL,"18"
+"Tom Clancy's The Division 2","Steam","Digital","PC","4","21",NULL,"6"
+"Tom Clancy's The Division 2","Best Buy","Physical","PC","3","54","3434","11"
+"Tom Clancy's The Division 2","Best Buy","Digital","XBox","4","50",NULL,"25"
+"Tom Clancy's The Division 2","Target","Physical","Switch","3","11","7783","7"
+"Tom Clancy's The Division 2","Target","Digital","PS4","1","12",NULL,"10"
+"Tom Clancy's The Division 2","GameStop","Physical","PS4","1","20","4207","13"
+"Tom Clancy's The Division 2","GameStop","Digital","PS5","5","46",NULL,"22"
+"Tom Clancy's The Division 2","Epic Games","Digital","PC","3","89",NULL,"86"
+"Tom Clancy's The Division 2","Humble Bundle","Digital","PC","4","15",NULL,"12"
+"Tom Clancy's The Division 2","GOG","Digital","PC","5","69",NULL,"42"
+"Tom Clancy's The Division 2","eStarland","Physical","Switch","5","21","2459","10"
+"Doom Eternal","Walmart","Physical","XBox","5","39","7590","13"
+"Doom Eternal","Walmart","Digital","PC","4","79",NULL,"51"
+"Doom Eternal","Amazon","Physical","XBox","2","74","3513","9"
+"Doom Eternal","Amazon","Digital","Switch","1","70",NULL,"63"
+"Doom Eternal","Steam","Digital","PC","4","97",NULL,"62"
+"Doom Eternal","Best Buy","Physical","PS5","4","50","5865","35"
+"Doom Eternal","Best Buy","Digital","PS5","5","21",NULL,"7"
+"Doom Eternal","Target","Physical","PS4","5","26","3579","8"
+"Doom Eternal","Target","Digital","PS5","4","82",NULL,"81"
+"Doom Eternal","GameStop","Physical","Switch","2","53","7246","20"
+"Doom Eternal","GameStop","Digital","PS5","2","40",NULL,"12"
+"Doom Eternal","Epic Games","Digital","PC","5","84",NULL,"37"
+"Doom Eternal","Humble Bundle","Digital","PC","5","44",NULL,"29"
+"Doom Eternal","GOG","Digital","PC","4","59",NULL,"46"
+"Doom Eternal","eStarland","Physical","XBox","3","51","5164","16"
+"Final Fantasy VII Remake","Walmart","Physical","XBox","5","80","5647","16"
+"Final Fantasy VII Remake","Walmart","Digital","PS5","3","35",NULL,"27"
+"Final Fantasy VII Remake","Amazon","Physical","XBox","2","69","4681","15"
+"Final Fantasy VII Remake","Amazon","Digital","Switch","1","62",NULL,"29"
+"Final Fantasy VII Remake","Steam","Digital","PC","1","50",NULL,"12"
+"Final Fantasy VII Remake","Best Buy","Physical","XBox","1","30","1692","7"
+"Final Fantasy VII Remake","Best Buy","Digital","XBox","4","91",NULL,"15"
+"Final Fantasy VII Remake","Target","Physical","Switch","3","58","4932","17"
+"Final Fantasy VII Remake","Target","Digital","PS4","2","11",NULL,"7"
+"Final Fantasy VII Remake","GameStop","Physical","PC","4","54","3822","20"
+"Final Fantasy VII Remake","GameStop","Digital","Switch","4","85",NULL,"21"
+"Final Fantasy VII Remake","Epic Games","Digital","PC","1","26",NULL,"14"
+"Final Fantasy VII Remake","Humble Bundle","Digital","PC","5","68",NULL,"17"
+"Final Fantasy VII Remake","GOG","Digital","PC","3","31",NULL,"16"
+"Final Fantasy VII Remake","eStarland","Physical","Switch","1","76","2052","59"
+"Ghost of Tsushima","Walmart","Physical","Switch","3","26","2491","17"
+"Ghost of Tsushima","Walmart","Digital","PS4","5","99",NULL,"34"
+"Ghost of Tsushima","Amazon","Physical","PC","5","80","7545","6"
+"Ghost of Tsushima","Amazon","Digital","Switch","3","47",NULL,"24"
+"Ghost of Tsushima","Steam","Digital","PC","3","25",NULL,"13"
+"Ghost of Tsushima","Best Buy","Physical","XBox","1","82","2458","20"
+"Ghost of Tsushima","Best Buy","Digital","PS4","5","26",NULL,"19"
+"Ghost of Tsushima","Target","Physical","XBox","2","14","2241","7"
+"Ghost of Tsushima","Target","Digital","XBox","5","14",NULL,"13"
+"Ghost of Tsushima","GameStop","Physical","PS4","3","51","9991","39"
+"Ghost of Tsushima","GameStop","Digital","PS5","4","36",NULL,"30"
+"Ghost of Tsushima","Epic Games","Digital","PC","5","68",NULL,"8"
+"Ghost of Tsushima","Humble Bundle","Digital","PC","3","37",NULL,"37"
+"Ghost of Tsushima","GOG","Digital","PC","5","52",NULL,"35"
+"Ghost of Tsushima","eStarland","Physical","PS4","5","32","2212","18"
+"Fall Guys: Ultimate Knockout","Walmart","Physical","Switch","5","85","9069","5"
+"Fall Guys: Ultimate Knockout","Walmart","Digital","PS5","1","98",NULL,"97"
+"Fall Guys: Ultimate Knockout","Amazon","Physical","PC","5","26","7052","17"
+"Fall Guys: Ultimate Knockout","Amazon","Digital","PS5","2","19",NULL,"5"
+"Fall Guys: Ultimate Knockout","Steam","Digital","PC","2","53",NULL,"32"
+"Fall Guys: Ultimate Knockout","Best Buy","Physical","PS4","3","21","5744","8"
+"Fall Guys: Ultimate Knockout","Best Buy","Digital","PS4","4","69",NULL,"29"
+"Fall Guys: Ultimate Knockout","Target","Physical","XBox","3","34","9816","21"
+"Fall Guys: Ultimate Knockout","Target","Digital","XBox","4","80",NULL,"26"
+"Fall Guys: Ultimate Knockout","GameStop","Physical","PC","1","24","2121","12"
+"Fall Guys: Ultimate Knockout","GameStop","Digital","PC","1","23",NULL,"13"
+"Fall Guys: Ultimate Knockout","Epic Games","Digital","PC","2","66",NULL,"41"
+"Fall Guys: Ultimate Knockout","Humble Bundle","Digital","PC","4","95",NULL,"44"
+"Fall Guys: Ultimate Knockout","GOG","Digital","PC","2","32",NULL,"32"
+"Fall Guys: Ultimate Knockout","eStarland","Physical","PS4","4","50","6034","37"
+"Ori and the Will of the Wisps","Walmart","Physical","Switch","4","58","6463","16"
+"Ori and the Will of the Wisps","Walmart","Digital","Switch","4","82",NULL,"12"
+"Ori and the Will of the Wisps","Amazon","Physical","PS4","3","35","8477","26"
+"Ori and the Will of the Wisps","Amazon","Digital","PC","5","16",NULL,"8"
+"Ori and the Will of the Wisps","Steam","Digital","PC","1","38",NULL,"13"
+"Ori and the Will of the Wisps","Best Buy","Physical","Switch","2","42","6054","42"
+"Ori and the Will of the Wisps","Best Buy","Digital","PC","3","75",NULL,"42"
+"Ori and the Will of the Wisps","Target","Physical","Switch","3","59","1928","9"
+"Ori and the Will of the Wisps","Target","Digital","PC","1","67",NULL,"10"
+"Ori and the Will of the Wisps","GameStop","Physical","PS4","5","82","2118","76"
+"Ori and the Will of the Wisps","GameStop","Digital","PC","5","86",NULL,"9"
+"Ori and the Will of the Wisps","Epic Games","Digital","PC","1","13",NULL,"8"
+"Ori and the Will of the Wisps","Humble Bundle","Digital","PC","1","84",NULL,"46"
+"Ori and the Will of the Wisps","GOG","Digital","PC","3","62",NULL,"5"
+"Ori and the Will of the Wisps","eStarland","Physical","PS4","4","48","6165","43"
+"Spelunky 2","Walmart","Physical","PC","1","34","6296","31"
+"Spelunky 2","Walmart","Digital","PS5","1","87",NULL,"30"
+"Spelunky 2","Amazon","Physical","XBox","2","17","5038","8"
+"Spelunky 2","Amazon","Digital","PC","5","98",NULL,"34"
+"Spelunky 2","Steam","Digital","PC","1","58",NULL,"33"
+"Spelunky 2","Best Buy","Physical","XBox","3","19","6914","18"
+"Spelunky 2","Best Buy","Digital","PS4","2","56",NULL,"49"
+"Spelunky 2","Target","Physical","PS5","1","16","9338","11"
+"Spelunky 2","Target","Digital","PS4","5","91",NULL,"16"
+"Spelunky 2","GameStop","Physical","PC","3","19","7636","8"
+"Spelunky 2","GameStop","Digital","PS4","1","83",NULL,"8"
+"Spelunky 2","Epic Games","Digital","PC","4","70",NULL,"66"
+"Spelunky 2","Humble Bundle","Digital","PC","3","77",NULL,"60"
+"Spelunky 2","GOG","Digital","PC","3","48",NULL,"31"
+"Spelunky 2","eStarland","Physical","XBox","5","19","8836","17"
+"Paper Mario: The Origami King","Walmart","Physical","Switch","5","31","2957","15"
+"Paper Mario: The Origami King","Walmart","Digital","Switch","5","73",NULL,"38"
+"Paper Mario: The Origami King","Amazon","Physical","Switch","5","57","4360","54"
+"Paper Mario: The Origami King","Amazon","Digital","Switch","2","31",NULL,"10"
+"Paper Mario: The Origami King","Steam","Digital","Switch","5","60",NULL,"27"
+"Paper Mario: The Origami King","Best Buy","Physical","Switch","1","77","615","71"
+"Paper Mario: The Origami King","Best Buy","Digital","Switch","1","86",NULL,"19"
+"Paper Mario: The Origami King","Target","Physical","Switch","5","96","9481","10"
+"Paper Mario: The Origami King","Target","Digital","Switch","5","97",NULL,"89"
+"Paper Mario: The Origami King","GameStop","Physical","Switch","5","99","8533","23"
+"Paper Mario: The Origami King","GameStop","Digital","Switch","4","35",NULL,"22"
+"Paper Mario: The Origami King","Epic Games","Digital","Switch","4","93",NULL,"20"
+"Paper Mario: The Origami King","Humble Bundle","Digital","Switch","5","74",NULL,"56"
+"Paper Mario: The Origami King","GOG","Digital","Switch","5","91",NULL,"29"
+"Paper Mario: The Origami King","eStarland","Physical","Switch","3","52","7356","51"
+"Star Wars: Squadrons","Walmart","Physical","PS5","5","75","7929","35"
+"Star Wars: Squadrons","Walmart","Digital","Switch","4","13",NULL,"9"
+"Star Wars: Squadrons","Amazon","Physical","Switch","1","93","3228","5"
+"Star Wars: Squadrons","Amazon","Digital","XBox","3","70",NULL,"32"
+"Star Wars: Squadrons","Steam","Digital","PC","4","54",NULL,"11"
+"Star Wars: Squadrons","Best Buy","Physical","PC","2","11","9007","7"
+"Star Wars: Squadrons","Best Buy","Digital","XBox","2","70",NULL,"59"
+"Star Wars: Squadrons","Target","Physical","PC","5","12","7850","11"
+"Star Wars: Squadrons","Target","Digital","XBox","2","41",NULL,"35"
+"Star Wars: Squadrons","GameStop","Physical","XBox","1","49","1023","22"
+"Star Wars: Squadrons","GameStop","Digital","Switch","5","66",NULL,"14"
+"Star Wars: Squadrons","Epic Games","Digital","PC","1","74",NULL,"22"
+"Star Wars: Squadrons","Humble Bundle","Digital","PC","2","21",NULL,"9"
+"Star Wars: Squadrons","GOG","Digital","PC","4","60",NULL,"6"
+"Star Wars: Squadrons","eStarland","Physical","PS5","4","58","8474","24"
+"Chivalry 2","Walmart","Physical","PS4","3","65","1075","6"
+"Chivalry 2","Walmart","Digital","PS5","1","14",NULL,"9"
+"Chivalry 2","Amazon","Physical","PS5","2","18","5897","15"
+"Chivalry 2","Amazon","Digital","Switch","4","31",NULL,"11"
+"Chivalry 2","Steam","Digital","PC","3","66",NULL,"9"
+"Chivalry 2","Best Buy","Physical","XBox","2","67","9138","13"
+"Chivalry 2","Best Buy","Digital","PS5","2","73",NULL,"32"
+"Chivalry 2","Target","Physical","PS5","2","71","9287","43"
+"Chivalry 2","Target","Digital","PC","3","19",NULL,"16"
+"Chivalry 2","GameStop","Physical","PS5","4","17","8219","6"
+"Chivalry 2","GameStop","Digital","XBox","5","52",NULL,"31"
+"Chivalry 2","Epic Games","Digital","PC","5","59",NULL,"37"
+"Chivalry 2","Humble Bundle","Digital","PC","5","51",NULL,"38"
+"Chivalry 2","GOG","Digital","PC","4","22",NULL,"17"
+"Chivalry 2","eStarland","Physical","Switch","3","47","3795","20"
+"Spiritfarer","Walmart","Physical","PC","2","10","8696","5"
+"Spiritfarer","Walmart","Digital","PC","2","100",NULL,"92"
+"Spiritfarer","Amazon","Physical","PC","5","54","3682","19"
+"Spiritfarer","Amazon","Digital","PS5","4","35",NULL,"7"
+"Spiritfarer","Steam","Digital","PC","4","93",NULL,"31"
+"Spiritfarer","Best Buy","Physical","PS5","3","76","9819","27"
+"Spiritfarer","Best Buy","Digital","Switch","3","63",NULL,"22"
+"Spiritfarer","Target","Physical","XBox","1","92","2882","54"
+"Spiritfarer","Target","Digital","PC","3","64",NULL,"34"
+"Spiritfarer","GameStop","Physical","XBox","2","88","7334","45"
+"Spiritfarer","GameStop","Digital","PS5","3","80",NULL,"20"
+"Spiritfarer","Epic Games","Digital","PC","3","98",NULL,"53"
+"Spiritfarer","Humble Bundle","Digital","PC","4","78",NULL,"49"
+"Spiritfarer","GOG","Digital","PC","1","13",NULL,"10"
+"Spiritfarer","eStarland","Physical","XBox","4","81","203","62"
+"Dragon Ball Z: Kakarot","Walmart","Physical","PS4","1","96","420","53"
+"Dragon Ball Z: Kakarot","Walmart","Digital","PS4","3","71",NULL,"42"
+"Dragon Ball Z: Kakarot","Amazon","Physical","Switch","2","53","5970","39"
+"Dragon Ball Z: Kakarot","Amazon","Digital","PS5","4","83",NULL,"74"
+"Dragon Ball Z: Kakarot","Steam","Digital","PC","4","80",NULL,"17"
+"Dragon Ball Z: Kakarot","Best Buy","Physical","XBox","1","99","5516","77"
+"Dragon Ball Z: Kakarot","Best Buy","Digital","Switch","3","86",NULL,"66"
+"Dragon Ball Z: Kakarot","Target","Physical","PC","3","28","6798","28"
+"Dragon Ball Z: Kakarot","Target","Digital","PS5","2","60",NULL,"13"
+"Dragon Ball Z: Kakarot","GameStop","Physical","PC","3","72","9094","46"
+"Dragon Ball Z: Kakarot","GameStop","Digital","Switch","5","22",NULL,"7"
+"Dragon Ball Z: Kakarot","Epic Games","Digital","PC","4","40",NULL,"10"
+"Dragon Ball Z: Kakarot","Humble Bundle","Digital","PC","1","27",NULL,"24"
+"Dragon Ball Z: Kakarot","GOG","Digital","PC","5","16",NULL,"13"
+"Dragon Ball Z: Kakarot","eStarland","Physical","PS5","3","86","4814","85"
+"Hellpoint","Walmart","Physical","PS5","2","29","4362","29"
+"Hellpoint","Walmart","Digital","PS5","1","59",NULL,"51"
+"Hellpoint","Amazon","Physical","PC","3","37","9765","9"
+"Hellpoint","Amazon","Digital","Switch","4","64",NULL,"59"
+"Hellpoint","Steam","Digital","PC","5","61",NULL,"43"
+"Hellpoint","Best Buy","Physical","PS4","1","50","3686","24"
+"Hellpoint","Best Buy","Digital","PS4","5","99",NULL,"10"
+"Hellpoint","Target","Physical","PS4","2","80","8175","17"
+"Hellpoint","Target","Digital","PS4","4","90",NULL,"49"
+"Hellpoint","GameStop","Physical","PS4","1","70","5755","5"
+"Hellpoint","GameStop","Digital","PS4","4","56",NULL,"56"
+"Hellpoint","Epic Games","Digital","PC","2","92",NULL,"90"
+"Hellpoint","Humble Bundle","Digital","PC","3","74",NULL,"57"
+"Hellpoint","GOG","Digital","PC","2","38",NULL,"22"
+"Hellpoint","eStarland","Physical","PC","5","26","6908","8"
+"NBA 2K21","Walmart","Physical","PS5","4","81","5941","58"
+"NBA 2K21","Walmart","Digital","Switch","4","36",NULL,"10"
+"NBA 2K21","Amazon","Physical","PS5","3","16","5709","15"
+"NBA 2K21","Amazon","Digital","XBox","2","84",NULL,"68"
+"NBA 2K21","Steam","Digital","PC","2","72",NULL,"23"
+"NBA 2K21","Best Buy","Physical","PS4","3","39","8486","30"
+"NBA 2K21","Best Buy","Digital","XBox","5","56",NULL,"26"
+"NBA 2K21","Target","Physical","PS5","1","96","510","83"
+"NBA 2K21","Target","Digital","PS4","5","11",NULL,"7"
+"NBA 2K21","GameStop","Physical","PC","2","57","4716","39"
+"NBA 2K21","GameStop","Digital","PS5","3","26",NULL,"12"
+"NBA 2K21","Epic Games","Digital","PC","3","54",NULL,"32"
+"NBA 2K21","Humble Bundle","Digital","PC","1","35",NULL,"17"
+"NBA 2K21","GOG","Digital","PC","4","29",NULL,"5"
+"NBA 2K21","eStarland","Physical","PS4","1","95","9025","20"
+"WRC 9","Walmart","Physical","XBox","3","100","783","73"
+"WRC 9","Walmart","Digital","PS4","1","91",NULL,"62"
+"WRC 9","Amazon","Physical","XBox","1","24","7412","12"
+"WRC 9","Amazon","Digital","PC","3","11",NULL,"8"
+"WRC 9","Steam","Digital","PC","5","98",NULL,"91"
+"WRC 9","Best Buy","Physical","PS5","1","49","8660","11"
+"WRC 9","Best Buy","Digital","PS4","4","37",NULL,"11"
+"WRC 9","Target","Physical","XBox","5","66","5111","24"
+"WRC 9","Target","Digital","PC","3","25",NULL,"18"
+"WRC 9","GameStop","Physical","PC","2","43","4677","13"
+"WRC 9","GameStop","Digital","PS4","3","84",NULL,"46"
+"WRC 9","Epic Games","Digital","PC","4","93",NULL,"71"
+"WRC 9","Humble Bundle","Digital","PC","4","54",NULL,"13"
+"WRC 9","GOG","Digital","PC","5","18",NULL,"17"
+"WRC 9","eStarland","Physical","PC","3","60","218","25"
+"Destroy All Humans!","Walmart","Physical","Switch","3","13","7813","11"
+"Destroy All Humans!","Walmart","Digital","PC","2","59",NULL,"56"
+"Destroy All Humans!","Amazon","Physical","PS5","2","14","5580","13"
+"Destroy All Humans!","Amazon","Digital","XBox","3","99",NULL,"11"
+"Destroy All Humans!","Steam","Digital","PC","2","16",NULL,"10"
+"Destroy All Humans!","Best Buy","Physical","PS4","4","96","2511","65"
+"Destroy All Humans!","Best Buy","Digital","PS5","2","99",NULL,"73"
+"Destroy All Humans!","Target","Physical","Switch","1","67","9062","29"
+"Destroy All Humans!","Target","Digital","PS4","3","16",NULL,"14"
+"Destroy All Humans!","GameStop","Physical","PC","5","68","1516","47"
+"Destroy All Humans!","GameStop","Digital","Switch","2","83",NULL,"16"
+"Destroy All Humans!","Epic Games","Digital","PC","2","22",NULL,"14"
+"Destroy All Humans!","Humble Bundle","Digital","PC","1","15",NULL,"9"
+"Destroy All Humans!","GOG","Digital","PC","3","36",NULL,"23"
+"Destroy All Humans!","eStarland","Physical","PS5","2","64","6360","31"
+"Watch Dogs: Legion","Walmart","Physical","Switch","2","83","595","18"
+"Watch Dogs: Legion","Walmart","Digital","XBox","3","87",NULL,"73"
+"Watch Dogs: Legion","Amazon","Physical","PS4","5","20","1376","9"
+"Watch Dogs: Legion","Amazon","Digital","PS5","2","43",NULL,"5"
+"Watch Dogs: Legion","Steam","Digital","PC","3","41",NULL,"14"
+"Watch Dogs: Legion","Best Buy","Physical","PS5","2","43","4306","36"
+"Watch Dogs: Legion","Best Buy","Digital","PS5","2","17",NULL,"10"
+"Watch Dogs: Legion","Target","Physical","XBox","5","80","7338","47"
+"Watch Dogs: Legion","Target","Digital","PS5","1","71",NULL,"44"
+"Watch Dogs: Legion","GameStop","Physical","XBox","5","48","9636","27"
+"Watch Dogs: Legion","GameStop","Digital","PC","5","57",NULL,"10"
+"Watch Dogs: Legion","Epic Games","Digital","PC","2","16",NULL,"7"
+"Watch Dogs: Legion","Humble Bundle","Digital","PC","5","12",NULL,"7"
+"Watch Dogs: Legion","GOG","Digital","PC","2","47",NULL,"27"
+"Watch Dogs: Legion","eStarland","Physical","PS4","3","50","6718","28"
+"Marvel's Avengers","Walmart","Physical","XBox","1","27","5909","24"
+"Marvel's Avengers","Walmart","Digital","XBox","1","33",NULL,"26"
+"Marvel's Avengers","Amazon","Physical","Switch","4","96","3439","36"
+"Marvel's Avengers","Amazon","Digital","XBox","2","51",NULL,"10"
+"Marvel's Avengers","Steam","Digital","PC","3","67",NULL,"36"
+"Marvel's Avengers","Best Buy","Physical","Switch","3","16","353","6"
+"Marvel's Avengers","Best Buy","Digital","PS4","5","30",NULL,"5"
+"Marvel's Avengers","Target","Physical","XBox","3","65","9299","52"
+"Marvel's Avengers","Target","Digital","PS4","2","15",NULL,"13"
+"Marvel's Avengers","GameStop","Physical","Switch","1","84","8492","22"
+"Marvel's Avengers","GameStop","Digital","PS5","4","10",NULL,"8"
+"Marvel's Avengers","Epic Games","Digital","PC","1","67",NULL,"60"
+"Marvel's Avengers","Humble Bundle","Digital","PC","3","92",NULL,"14"
+"Marvel's Avengers","GOG","Digital","PC","3","40",NULL,"16"
+"Marvel's Avengers","eStarland","Physical","PS4","4","51","7913","46"
+"Tony Hawk's Pro Skater","Walmart","Physical","Switch","1","21","2280","14"
+"Tony Hawk's Pro Skater","Walmart","Digital","PS4","4","37",NULL,"5"
+"Tony Hawk's Pro Skater","Amazon","Physical","PS4","3","60","6810","56"
+"Tony Hawk's Pro Skater","Amazon","Digital","Switch","5","46",NULL,"41"
+"Tony Hawk's Pro Skater","Steam","Digital","PC","5","30",NULL,"12"
+"Tony Hawk's Pro Skater","Best Buy","Physical","PS4","5","55","1015","38"
+"Tony Hawk's Pro Skater","Best Buy","Digital","XBox","3","99",NULL,"23"
+"Tony Hawk's Pro Skater","Target","Physical","XBox","1","84","4578","37"
+"Tony Hawk's Pro Skater","Target","Digital","PS4","3","98",NULL,"57"
+"Tony Hawk's Pro Skater","GameStop","Physical","XBox","2","83","4589","72"
+"Tony Hawk's Pro Skater","GameStop","Digital","PS4","2","17",NULL,"11"
+"Tony Hawk's Pro Skater","Epic Games","Digital","PC","5","18",NULL,"8"
+"Tony Hawk's Pro Skater","Humble Bundle","Digital","PC","5","13",NULL,"12"
+"Tony Hawk's Pro Skater","GOG","Digital","PC","4","94",NULL,"59"
+"Tony Hawk's Pro Skater","eStarland","Physical","Switch","2","67","7219","58"
+"Resident Evil Village","Walmart","Physical","PS4","2","39","7912","22"
+"Resident Evil Village","Walmart","Digital","PC","5","71",NULL,"36"
+"Resident Evil Village","Amazon","Physical","PC","3","33","641","25"
+"Resident Evil Village","Amazon","Digital","PS5","3","53",NULL,"14"
+"Resident Evil Village","Steam","Digital","PC","2","93",NULL,"91"
+"Resident Evil Village","Best Buy","Physical","Switch","2","79","4473","29"
+"Resident Evil Village","Best Buy","Digital","PS4","5","77",NULL,"65"
+"Resident Evil Village","Target","Physical","Switch","2","61","3633","23"
+"Resident Evil Village","Target","Digital","Switch","2","87",NULL,"76"
+"Resident Evil Village","GameStop","Physical","PS4","1","100","5134","57"
+"Resident Evil Village","GameStop","Digital","PS4","3","21",NULL,"6"
+"Resident Evil Village","Epic Games","Digital","PC","1","56",NULL,"27"
+"Resident Evil Village","Humble Bundle","Digital","PC","2","50",NULL,"22"
+"Resident Evil Village","GOG","Digital","PC","4","56",NULL,"32"
+"Resident Evil Village","eStarland","Physical","PC","1","59","8197","55"
+"Far Cry 6","Walmart","Physical","Switch","3","17","4713","11"
+"Far Cry 6","Walmart","Digital","PC","4","22",NULL,"16"
+"Far Cry 6","Amazon","Physical","XBox","5","15","8253","7"
+"Far Cry 6","Amazon","Digital","PS4","3","93",NULL,"33"
+"Far Cry 6","Steam","Digital","PC","2","25",NULL,"16"
+"Far Cry 6","Best Buy","Physical","Switch","2","58","7237","43"
+"Far Cry 6","Best Buy","Digital","Switch","1","23",NULL,"5"
+"Far Cry 6","Target","Physical","PS4","1","61","2227","44"
+"Far Cry 6","Target","Digital","PC","3","38",NULL,"19"
+"Far Cry 6","GameStop","Physical","PC","5","69","1602","34"
+"Far Cry 6","GameStop","Digital","Switch","1","89",NULL,"17"
+"Far Cry 6","Epic Games","Digital","PC","4","17",NULL,"12"
+"Far Cry 6","Humble Bundle","Digital","PC","1","52",NULL,"43"
+"Far Cry 6","GOG","Digital","PC","1","34",NULL,"28"
+"Far Cry 6","eStarland","Physical","XBox","2","63","1564","24"
+"Hitman 3","Walmart","Physical","XBox","1","51","4807","25"
+"Hitman 3","Walmart","Digital","Switch","2","71",NULL,"27"
+"Hitman 3","Amazon","Physical","XBox","1","86","7263","50"
+"Hitman 3","Amazon","Digital","PS5","4","76",NULL,"27"
+"Hitman 3","Steam","Digital","PC","1","90",NULL,"90"
+"Hitman 3","Best Buy","Physical","XBox","4","19","5241","18"
+"Hitman 3","Best Buy","Digital","PS5","2","34",NULL,"10"
+"Hitman 3","Target","Physical","XBox","5","61","3259","24"
+"Hitman 3","Target","Digital","PS5","5","55",NULL,"55"
+"Hitman 3","GameStop","Physical","Switch","2","15","6647","14"
+"Hitman 3","GameStop","Digital","Switch","1","53",NULL,"31"
+"Hitman 3","Epic Games","Digital","PC","2","90",NULL,"35"
+"Hitman 3","Humble Bundle","Digital","PC","1","53",NULL,"19"
+"Hitman 3","GOG","Digital","PC","4","26",NULL,"11"
+"Hitman 3","eStarland","Physical","PS4","2","55","9902","31"
+"It Takes Two","Walmart","Physical","Switch","4","60","7364","29"
+"It Takes Two","Walmart","Digital","PS4","4","73",NULL,"67"
+"It Takes Two","Amazon","Physical","PS5","4","45","909","38"
+"It Takes Two","Amazon","Digital","XBox","4","38",NULL,"22"
+"It Takes Two","Steam","Digital","PC","3","24",NULL,"23"
+"It Takes Two","Best Buy","Physical","PS4","4","93","6601","42"
+"It Takes Two","Best Buy","Digital","PS4","2","29",NULL,"17"
+"It Takes Two","Target","Physical","PS4","2","15","6132","11"
+"It Takes Two","Target","Digital","XBox","3","10",NULL,"7"
+"It Takes Two","GameStop","Physical","PS5","5","75","3458","17"
+"It Takes Two","GameStop","Digital","PS5","3","87",NULL,"43"
+"It Takes Two","Epic Games","Digital","PC","3","75",NULL,"10"
+"It Takes Two","Humble Bundle","Digital","PC","2","77",NULL,"49"
+"It Takes Two","GOG","Digital","PC","1","28",NULL,"24"
+"It Takes Two","eStarland","Physical","Switch","4","34","7131","7"
+"New Pokemon Snap","Walmart","Physical","Switch","3","10","5904","9"
+"New Pokemon Snap","Walmart","Digital","Switch","5","49",NULL,"20"
+"New Pokemon Snap","Amazon","Physical","Switch","5","45","4417","12"
+"New Pokemon Snap","Amazon","Digital","Switch","5","60",NULL,"11"
+"New Pokemon Snap","Steam","Digital","Switch","1","82",NULL,"58"
+"New Pokemon Snap","Best Buy","Physical","Switch","4","80","579","46"
+"New Pokemon Snap","Best Buy","Digital","Switch","4","20",NULL,"14"
+"New Pokemon Snap","Target","Physical","Switch","3","99","3981","71"
+"New Pokemon Snap","Target","Digital","Switch","5","70",NULL,"8"
+"New Pokemon Snap","GameStop","Physical","Switch","5","27","6613","6"
+"New Pokemon Snap","GameStop","Digital","Switch","1","67",NULL,"38"
+"New Pokemon Snap","Epic Games","Digital","Switch","2","96",NULL,"90"
+"New Pokemon Snap","Humble Bundle","Digital","Switch","2","53",NULL,"15"
+"New Pokemon Snap","GOG","Digital","Switch","3","91",NULL,"9"
+"New Pokemon Snap","eStarland","Physical","Switch","3","97","6782","88"
+"Cyber Shadow","Walmart","Physical","XBox","2","47","5920","21"
+"Cyber Shadow","Walmart","Digital","PS4","1","38",NULL,"16"
+"Cyber Shadow","Amazon","Physical","XBox","4","42","5074","41"
+"Cyber Shadow","Amazon","Digital","XBox","1","42",NULL,"29"
+"Cyber Shadow","Steam","Digital","PC","3","34",NULL,"9"
+"Cyber Shadow","Best Buy","Physical","PC","3","32","3433","14"
+"Cyber Shadow","Best Buy","Digital","PS5","5","74",NULL,"74"
+"Cyber Shadow","Target","Physical","PS4","5","12","3223","10"
+"Cyber Shadow","Target","Digital","PS5","3","79",NULL,"38"
+"Cyber Shadow","GameStop","Physical","PS4","2","46","7057","24"
+"Cyber Shadow","GameStop","Digital","PC","1","99",NULL,"84"
+"Cyber Shadow","Epic Games","Digital","PC","3","89",NULL,"71"
+"Cyber Shadow","Humble Bundle","Digital","PC","1","66",NULL,"63"
+"Cyber Shadow","GOG","Digital","PC","1","47",NULL,"37"
+"Cyber Shadow","eStarland","Physical","Switch","2","80","1236","23"
+"Metro Exodus","Walmart","Physical","PS5","1","98","6754","62"
+"Metro Exodus","Walmart","Digital","PC","3","47",NULL,"7"
+"Metro Exodus","Amazon","Physical","PS4","2","30","8146","18"
+"Metro Exodus","Amazon","Digital","XBox","5","14",NULL,"10"
+"Metro Exodus","Steam","Digital","PC","3","48",NULL,"22"
+"Metro Exodus","Best Buy","Physical","XBox","2","15","4677","6"
+"Metro Exodus","Best Buy","Digital","XBox","3","36",NULL,"20"
+"Metro Exodus","Target","Physical","PS4","4","96","7005","82"
+"Metro Exodus","Target","Digital","XBox","1","96",NULL,"86"
+"Metro Exodus","GameStop","Physical","XBox","1","52","7877","10"
+"Metro Exodus","GameStop","Digital","PS4","3","15",NULL,"8"
+"Metro Exodus","Epic Games","Digital","PC","2","24",NULL,"5"
+"Metro Exodus","Humble Bundle","Digital","PC","3","74",NULL,"43"
+"Metro Exodus","GOG","Digital","PC","4","78",NULL,"21"
+"Metro Exodus","eStarland","Physical","XBox","3","44","7583","35"
+"Untitled Goose Game","Walmart","Physical","Switch","2","62","8795","33"
+"Untitled Goose Game","Walmart","Digital","Switch","2","88",NULL,"66"
+"Untitled Goose Game","Amazon","Physical","PS5","2","84","7684","78"
+"Untitled Goose Game","Amazon","Digital","PS5","2","49",NULL,"35"
+"Untitled Goose Game","Steam","Digital","PC","3","48",NULL,"33"
+"Untitled Goose Game","Best Buy","Physical","XBox","5","90","5855","47"
+"Untitled Goose Game","Best Buy","Digital","PS5","2","21",NULL,"14"
+"Untitled Goose Game","Target","Physical","PS4","4","17","9259","8"
+"Untitled Goose Game","Target","Digital","PC","3","46",NULL,"7"
+"Untitled Goose Game","GameStop","Physical","PS5","3","47","1447","47"
+"Untitled Goose Game","GameStop","Digital","PC","1","68",NULL,"22"
+"Untitled Goose Game","Epic Games","Digital","PC","4","16",NULL,"10"
+"Untitled Goose Game","Humble Bundle","Digital","PC","2","43",NULL,"16"
+"Untitled Goose Game","GOG","Digital","PC","1","55",NULL,"30"
+"Untitled Goose Game","eStarland","Physical","XBox","5","44","2498","29"
+"Overcooked 2","Walmart","Physical","PS4","1","40","4720","23"
+"Overcooked 2","Walmart","Digital","PC","2","27",NULL,"6"
+"Overcooked 2","Amazon","Physical","Switch","5","91","1076","29"
+"Overcooked 2","Amazon","Digital","XBox","3","40",NULL,"9"
+"Overcooked 2","Steam","Digital","PC","2","41",NULL,"14"
+"Overcooked 2","Best Buy","Physical","PS5","5","72","8180","30"
+"Overcooked 2","Best Buy","Digital","PC","3","10",NULL,"7"
+"Overcooked 2","Target","Physical","PS4","5","83","1158","28"
+"Overcooked 2","Target","Digital","PC","4","100",NULL,"58"
+"Overcooked 2","GameStop","Physical","XBox","2","79","9669","61"
+"Overcooked 2","GameStop","Digital","PS5","4","70",NULL,"53"
+"Overcooked 2","Epic Games","Digital","PC","3","54",NULL,"34"
+"Overcooked 2","Humble Bundle","Digital","PC","3","57",NULL,"19"
+"Overcooked 2","GOG","Digital","PC","5","39",NULL,"9"
+"Overcooked 2","eStarland","Physical","PS5","3","61","1330","47"
+"Aggelos","Walmart","Physical","PC","4","94","387","86"
+"Aggelos","Walmart","Digital","PS4","4","92",NULL,"35"
+"Aggelos","Amazon","Physical","PS4","2","82","7882","63"
+"Aggelos","Amazon","Digital","XBox","2","23",NULL,"11"
+"Aggelos","Steam","Digital","PC","5","64",NULL,"41"
+"Aggelos","Best Buy","Physical","XBox","1","65","2488","35"
+"Aggelos","Best Buy","Digital","Switch","5","68",NULL,"37"
+"Aggelos","Target","Physical","PS4","4","25","8353","7"
+"Aggelos","Target","Digital","PS5","2","39",NULL,"13"
+"Aggelos","GameStop","Physical","PS5","4","87","6525","41"
+"Aggelos","GameStop","Digital","XBox","1","41",NULL,"35"
+"Aggelos","Epic Games","Digital","PC","3","79",NULL,"37"
+"Aggelos","Humble Bundle","Digital","PC","4","68",NULL,"18"
+"Aggelos","GOG","Digital","PC","2","97",NULL,"20"
+"Aggelos","eStarland","Physical","PC","3","29","3113","23"
