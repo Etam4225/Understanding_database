@@ -2,12 +2,14 @@
 <html>
 <head>
 	<meta charset = "UTF-8">
+  <link rel = "stylesheet" type="text/css" href = "css/table.css">
+  <link rel = "stylesheet" type="text/css" href = "css/background.css">
   <link rel = "stylesheet" type="text/css" href = "css/search.css">
 </head>
 <div class = "header">  
 		<div class = "inner_header">
 			<div class = "logo_container">
-				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. -->
+				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- Just an image - not clickable -->
 			</div>
       <nav>
         <ul class = "navigation">
@@ -26,7 +28,11 @@ $keyword_from_user = $_GET["keyword"];
 //echo $keyword_from_user; echo's the keyword user inputs
 
 //search the database for keywords
-echo "<h2> Displaying search results of the keyword, ".$keyword_from_user.", below: </h2>";
+if($keyword_from_user == NULL){
+  echo "<center><h2> Displaying search results below: </h2></center>";
+}else{
+  echo "<center><h2> Displaying search results of the keyword, ".$keyword_from_user.", below: </h2></center>";
+}
 if(!isset($_GET["Sorting"])){
   //$sql = "SELECT testing_ID, Question, Statement FROM testing_table WHERE Question LIKE '%" .$keyword_from_user."%'";
   $sql = "SELECT DISTINCT * FROM sample join game using (name,Store,copy) WHERE name LIKE '%" .$keyword_from_user."%'";
@@ -41,21 +47,25 @@ else{
   $result = $mysqli->query($sql);
 }
 
-echo "<table border='1'>
-<tr>
-<th>gameID</th>
-<th>name</th>
-<th>Store</th>
-<th>copy</th>
-<th>Console</th>
-<th>rating</th>
-<th>price</th>
-<th>available_copies</th>
-<th>Lowest_Price</th>
-<th>ADD to Cart</th>
-</tr>";
+?>
+
+<!-- Table that contains the results of the search from inferface. -->
+<table border='1' class = "keywordTable">
+  <tr>
+    <th>GameID</th>
+    <th>Name</th>
+    <th>Store</th>
+    <th>copy</th>
+    <th>Console</th>
+    <th>rating</th>
+    <th>price</th>
+    <th>available_copies</th>
+    <th>Lowest_Price</th>
+    <th>ADD to Cart</th>
+  </tr>
 
 
+<?php
 
 
 if ($result->num_rows > 0) {

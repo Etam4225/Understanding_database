@@ -1,0 +1,37 @@
+table th
+{
+	background: linear-gradient(45deg, #49a09d, #5f2c82);
+  	color: white;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+table
+{
+	border-collapse: collapse;
+	width: 75%;
+	box-shadow: 0 0 20px rgba(0,0,0,0.1);
+	margin-top: 2.5%;
+}
+
+th, td
+{
+	background-color: rgba(255,255,255,0.5);
+	padding: 25px;
+	border: 2px solid black;
+}
+
+table tr td a
+{
+	text-decoration: none;
+	padding: 10px 10px;
+	border: 1px solid #b1cbbb;
+	background-color: blue;
+	color: #FFF;
+	font-weight: bold;
+}
+
+tr
+{
+	text-align: center;
+}

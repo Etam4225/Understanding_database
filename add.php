@@ -11,7 +11,7 @@ session_start(); //used to grab username
 <div class = "header">  
 		<div class = "inner_header">
 			<div class = "logo_container">
-				<img src = "images/logo.png" class = "logo" id = "logo_img"> <!-- clicking on this does nothing currently. -->
+				<img src = "images/logo.png" class = "logo" id = "logo_img"> 
 			</div>
       <nav>
         <ul class = "navigation">
@@ -25,21 +25,21 @@ session_start(); //used to grab username
 <?php
 
 include "database_login_info.php";
-//$mysqli->close();
+
 $mysqli = new mysqli($host, $username, $user_pass, $database_in_use);
 
-$rollno = $_GET['rn'];
-$username = $_SESSION["username"];
+$rollno = $_GET['rn']; //gets item we want to add to cart
+$username = $_SESSION["username"]; // gets current user's username
 
-echo "Hello, " . $username . "<br>";
-echo $rollno . " is added to your cart.";
+echo "<p><center><h2>Hello, " . $username . "<br>" . "</h2></center></p>";
+echo "<p><center><h2> #" . $rollno . " has been added to your cart. </h2></center></p>";
 
 //check if the user already added the game to their cart
 $check = "SELECT * FROM Cart where username ='" . $username . "' AND gameID ='" . $rollno . "';";
   $query_check = $mysqli->query($check);
-  if(mysqli_num_rows($query_check)==1){
+  if(mysqli_num_rows($query_check)==1){ //if item is already in cart, we redirect user back to the search page
 	 header("Location: ../interface.php?additemtocart=fail"); 
-}else{
+}else{ //adds item to user's cart
 	$sql = "INSERT INTO Cart VALUES ('$username', '$rollno');";
 	$result = $mysqli->query($sql);
 }

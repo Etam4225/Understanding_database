@@ -1,28 +1,3 @@
-*{
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-}
-
-body
-{
-	background: linear-gradient(to right, #6699ff 0%, #ffcc99 100%) !important;
-	height: 100%;
-	width: 100%;
-}
-
-.header
-{
-	height: 80px;
-	width: 100%;
-	background-color:#b1cbbb;
-	display:block;
-	/*background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));*/
-	padding-left: 8%;
-	padding-right: 8%;
-	box-sizing: border-box;
-}
-
 nav
 {
 	flex: 1;
@@ -157,7 +132,7 @@ nav ul li a:hover
 	border-top: 0;
 }
 
-.states{
+select{
 	width: 100%;
 	padding: 10px 0;
 	margin: 6px 0;
@@ -169,17 +144,6 @@ nav ul li a:hover
 	border-bottom: 2px solid #b1cbbb;
 }
 
-.payment-method{
-  	width: 100%;
-	padding: 10px 0;
-	margin: 6px 0;
-	border-left: 0;
-	border-right: 0;
-	border-top: 0;
-	background: transparent;
-	outline: none;
-	border-bottom: 2px solid #b1cbbb;
-}
 
 #register{
 	left: 50px;

@@ -1,16 +1,3 @@
-*{
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-}
-
-body
-{
-	background: linear-gradient(to right, #6699ff 0%, #ffcc99 100%) !important;
-	height: 100%;
-	width: 100%;
-}
-
 .logo_container
 {
 	height: 100%;
@@ -40,7 +27,6 @@ body
 	width: 100%;
 	background-color:#b1cbbb;
 	display:block;
-	/*background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));*/
 	padding-left: 8%;
 	padding-right: 8%;
 	box-sizing: border-box;
@@ -69,4 +55,11 @@ nav ul li a
     color: white;
     font-family: sans-serif;
 	font: bold;
+}
+
+.keywordTable
+{
+	margin-left: auto;
+	margin-right: auto;
+	font-family: sans-serif;
 }
