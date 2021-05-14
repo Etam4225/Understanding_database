@@ -1,0 +1,8 @@
+Create table sample(name varchar(64), Store varchar(32), copy varchar(8), console varchar(8), rating int, price int, avail_copies int, lowest_price int);
+LOAD DATA LOCAL INFILE ‘sample.csv’ into TABLE sample FIELDS TERMINATED BY “,” OPTIONALLY ENCLOSED BY ‘“”’ IGNORE 1 ROWS;
+
+Create table game(select name, Store, copy from sample);
+ALTER TABLE game ADD gameID int PRIMARY KEY AUTO_INCREMENT first; 
+
+Create table Cart(username varchar(64), gameID int);
+Create table Users(username varchar(64), pass varchar(64), state varchar(2), city varchar(64), street varchar(64), payment_method varchar(16));
