@@ -1,10 +1,10 @@
-name<-rep(c("Dark Souls", "Returnal", "Skyrim"),each=6)
-Store<-rep(c("Walmart","Amazon","Steam"),time=3, each=2)
-copy<-rep(c("Physical", "Digital"), time=9)
-Console<-sample(c("PC", "PS5", "PS4", "XBox", "Switch"),18,replace=TRUE)
-rating<-sample(seq(1,5,.1),18)
-price<-sample(seq(10,100,1),18)
-avail_copies<-sample(seq(100,10000,1),18)
+name<-rep(c("Dark Souls", "Returnal", "Skyrim", "Dark Souls 2", "Dark Souls 3", "Grand Theft Auto IV", "Grand Theft Auto V", "Sekiro: Shadows Dies Twice", "Red Dead Redemption", "Red Dead Redemption 2", "Little Nightmares", "Little Nightmares 2", "Celeste", "NieR: Automata", "Monster Hunter World", "Yakuza 0", "Yakuza Kiwami", "Yakuza Kiwami 2", "Yakuza 6: The Song of Life", "Yakuza: Like a Dragon", "Demon's Souls (2020)", "Mortal Kombat 11", "Streets of Rage 4", "Mortal Kombat X", "Tekken 7", "Street Fighter V", "Diablo 3", "The Witcher 3: Wild Hunt", "Child of Light", "Shin Megami Tensei: Persona 4", "Shin Megami Tensei: Persona 5", "UNO", "No Man's Sky", "Dead By Daylight", "CyberPunk 2077", "Super Mega Baseball 2", "Super Mega Baseball 3", "Call of Duty: Modern Warfare", "Call of Duty: Warzone", "Overwatch", "Assassin's Creed Valhalla", "Borderlands 3", "Ultimate Chicken Horse", "Darkest Dungeon", "Bloodborne", "Power Rangers: Battle for the Grid", "Need for Speed: Hot Pursuit", "Minecraft Dungeons", "Minecraft: Bedrock Edition", "Aragami", "Mass Effect", "Need for Speed: Heat", "Neverwinter Nights", "Subnautica", "Dragon Ball FighterZ", "Portal", "Portal 2", "L.A. Noire", "Dishonored 2", "Middle-earth: Shadow of Mordor", "Rise of the Tomb Raider", "Hellblade: Senua's Sacrifice", "Devil May Cry 5", "Jump Force", "Injustice: Gods Among Us", "SoulCalibur VI", "Dragon Quest Builders 2", "Final Fantasy XIV", "Destiny", "NBA 2K20", "Star Wars Jedi:Fallen Order", "Tom Clancy's The Division 2", "Doom Eternal", "Final Fantasy VII Remake", "Ghost of Tsushima", "Fall Guys: Ultimate Knockout", "Ori and the Will of the Wisps", "Spelunky 2", "Paper Mario: The Origami King", "Star Wars: Squadrons", "Chivalry 2", "Spiritfarer", "Dragon Ball Z: Kakarot", "Hellpoint", "NBA 2K21", "WRC 9", "Destroy All Humans!", "Watch Dogs: Legion", "Marvel's Avengers", "Tony Hawk's Pro Skater", "Resident Evil Village", "Far Cry 6", "Hitman 3", "It Takes Two", "New Pokemon Snap", "Cyber Shadow", "Metro Exodus", "Untitled Goose Game", "Overcooked 2", "Aggelos"),each=20)
+Store<-rep(c("Walmart","Amazon","Steam", "Best Buy", "Target", "GameStop", "Epic Games", "Humble Bundle", "GOG", "eStarland"),time=100, each=2)
+copy<-rep(c("Physical", "Digital"), time=1000)
+Console<-sample(c("PC", "PS5", "PS4", "XBox", "Switch"),2000,replace=TRUE)
+rating<-sample(seq(1,5,1),2000,replace=TRUE)
+price<-sample(seq(10,100,1),2000,replace=TRUE)
+avail_copies<-sample(seq(100,10000,1),2000,replace=TRUE)
 df<-data.frame(name,Store,copy,Console,rating,price,avail_copies)
 df$avail_copies[df$copy=="Digital"] <-10000
 temp<-c(df$price)
@@ -14,4 +14,17 @@ for(x in temp){
 }
 df$lowest<-stuff
 df<-df[df$Store != "Steam" | df$copy != "Physical" ,]
-df
+df<-df[df$Store != "Epic Games" | df$copy != "Physical" ,]
+df<-df[df$Store != "Humble Bundle" | df$copy != "Physical" ,]
+df<-df[df$Store != "GOG" | df$copy != "Physical" ,]
+df<-df[df$Store != "eStarland" | df$copy != "Digital" ,]
+df$Console[df$Store == "Steam"] <- "PC"
+df$Console[df$Store == "Epic Games"] <- "PC"
+df$Console[df$Store == "Humble Bundle"] <- "PC"
+df$Console[df$Store == "GOG"] <- "PC"
+df$Console[df$name == "Returnal"] <- "PS5"
+df$Console[df$name == "Demon's Souls (2020)"] <- "PS5"
+df$Console[df$name == "Paper Mario: The Origami King"] <- "Switch"
+df$Console[df$name == "New Pokemon Snap"] <- "Switch"
+df$avail_copies[df$copy == "Digital"] <- " "
+df 
